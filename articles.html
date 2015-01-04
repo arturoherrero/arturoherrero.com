@@ -1,0 +1,16 @@
+---
+layout: default
+title: Articles Archive
+permalink: /articles/
+---
+
+<h2>Articles Archive</h2>
+
+<div id="essays" class="articles">
+  {% for post in site.posts %}
+    <div class="article">
+      <span class="date">{{ post.date | date_to_string }}</span>
+      <a class="title" href="{{ post.url }}">{{ post.title }}</a>
+    </div>
+  {% endfor %}
+</div>

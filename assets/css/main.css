@@ -1,0 +1,131 @@
+body {
+  font-family: "Vollkorn", serif;
+  text-align: left;
+  border-top: 5px solid #cb0063;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Vollkorn", serif;
+}
+
+ul, ol, p, blockquote {
+  font-size: 1.2rem;
+}
+
+blockquote p {
+  font-style: italic;
+  color: #000000;
+}
+
+a, a:visited {
+  color: #cb0063;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #cb0063;
+  text-decoration: underline;
+}
+
+h1 {
+  padding-top: 25px;
+}
+
+ul li, ol li {
+  margin-left: 1.35em;
+}
+
+p > code {
+  font-family: Consolas, Menlo, "Courier New", monospace;
+  background-color: #f8f8f8;
+  border: 1px solid silver;
+  border-radius: 2px;
+  padding: 1px 1px 1px 1px;
+  font-size: 80%;
+  white-space: nowrap;
+}
+
+code {
+  border: none;
+  padding: 0px;
+}
+
+pre {
+  margin: 20px 0px 20px 0px;
+  background-color: #f8f8f8;
+  border-color: #d5d5d5;
+  border-width: 1px 1px 1px 10px;
+  border-style: solid;
+  border-radius: 2px;
+  padding: 0.1em;
+  padding-right: 1px;
+  padding-left: 10px;
+  overflow: auto;
+}
+
+img {
+  border: none;
+  display: block;
+  margin: auto;
+}
+
+footer {
+  padding-top: 60px;
+}
+
+.articles .date {
+  color: #777777;
+  float: left;
+  font-size: 15px;
+  line-height: 15px;
+  padding-top: 26px;
+  width: 115px;
+}
+
+.articles .date:after {
+  background: none repeat scroll 0 0 #ccc;
+  content: "";
+  display: block;
+  float: right;
+  height: 5px;
+  margin: 3px 20px 0 0;
+  width: 5px;
+}
+
+.articles .article {
+  line-height: 1.75em;
+  border-top: 2px solid #e9e9e9;
+  display: block;
+  padding: 10px 0;
+}
+
+.articles .article a.title, .articles .article a.title:visited {
+  color: #333;
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+  padding: 18px 0 13px;
+  display: block;
+}
+
+.articles .article a.title:hover {
+  color: #cb0063;
+}
+
+#swirly {
+  display: block;
+  margin: 20px auto;
+}
+
+.error {
+  display: block;
+  text-align: center;
+}
+
+.error pre {
+  text-align: left;
+  background-color: inherit;
+  border-style: inherit;
+  width: 731px;
+}
