@@ -5,18 +5,19 @@ redirect_from: /about/
 
 ## Software Development & Stuff
 
-I'm a software engineer. I'm living in London, United Kingdom. I work at [Coinfloor][1]{:target="_blank"}.
+I am a software engineer living in London, United Kingdom.
 
 I seek excellence in everything I do. I share my passion for programming, ideas
-and practices, attention to detail, and self improvement. I treat programming
-like a craft, code cleanly and want to get better at it each day. Crafting a
-great product or service starts with a deep understanding of the business and
-the context around it.
+and practices, attention to detail, and self improvement with those around me.
+I treat programming like a craft, code cleanly, and continue to better myself
+all the time. Crafting a great product or service starts with a deep
+understanding of the business and the context around it.
 
-I'm constantly looking for better ways to develop software. I believe that
+I am constantly looking for better ways to develop software. I believe that
 continuous learning is a core skill everyone should have. I love developing
-software but I can't just be programmer anymore, to improve my craft, I need to
-understand the whole.
+software but I can not just be a programmer anymore. I am currently working on
+expanding my skill set to include product and user experiences, design, and
+other areas. To improve my craft, I need to understand the whole.
 
 I explore new ideas rather than follow the established assumptions. I believe
 that every goal is achievable.
