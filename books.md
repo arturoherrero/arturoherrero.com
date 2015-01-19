@@ -9,7 +9,9 @@ permalink: /books/
 I love reading. This is the complete list of all books that I read in my life.
 
 ### 2015
-1. ...
+1. Programming Grails. *Burt Beckwith*
+2. A Mind for Numbers. *Barbara Oakley*
+3. ...
 
 
 ### 2014
