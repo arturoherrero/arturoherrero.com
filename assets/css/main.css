@@ -35,7 +35,7 @@ ul li, ol li {
   margin-left: 1.35em;
 }
 
-p > code {
+p > code, li > code {
   font-family: Consolas, Menlo, "Courier New", monospace;
   background-color: #f8f8f8;
   border: 1px solid silver;
