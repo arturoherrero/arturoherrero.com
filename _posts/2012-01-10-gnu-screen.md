@@ -64,7 +64,7 @@ Disconnect from the server (panic at other times without screen).
 Everything is fine, keep working.
 
 
-### Automate your job
+### Automate your work
 
 After disconnection, you can log into the remote machine and reattach the session in a single step:
 

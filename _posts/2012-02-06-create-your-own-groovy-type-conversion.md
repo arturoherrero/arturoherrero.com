@@ -4,7 +4,7 @@ title: Create your own Groovy type conversion
 redirect_from: /2012/02/06/create-your-own-groovy-type-conversion/
 ---
 
-### Type conversion the standard way
+### Type conversion, the standard way
 
 Type conversion or casting is a programming language technique for changing an
 object's data type into another.
@@ -56,7 +56,7 @@ adminUser = user.toAdminUser()
 {% endhighlight %}
 
 
-### Type conversion the fancy way
+### Type conversion, the fancy way
 
 Great, but I want to use this fancy way to coerce one type to another:
 
