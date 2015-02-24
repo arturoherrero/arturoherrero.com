@@ -42,7 +42,7 @@ only appear at the end.
 
 That's correct if we use the usual way of defining new methods with `def`,
 however there seems to be no restrictions on what can be used if we use
-`define_method` <sup>[code][8]{:target="_blank"}</sup>.
+`define_method` <sup>[[code][8]{:target="_blank"}]</sup>.
 
 {% highlight ruby %}
 define_method("!") do |args|
@@ -53,7 +53,7 @@ end
 #### 2. Capture STDOUT
 
 It's possible to redirect the standard output or store it into a variable. I
-captured the STDOUT for a block of code and then restore it <sup>[code][9]{:target="_blank"}</sup>.
+captured the STDOUT for a block of code and then restore it <sup>[[code][9]{:target="_blank"}]</sup>.
 
 {% highlight ruby %}
 def capture_stdout(&block)
@@ -71,7 +71,7 @@ Arrange-Act-Assert is a pattern for arranging and formatting code in test method
 It is very popular from the Given-When-Then style of representing tests.
 
 I used the RSpec syntax with some private methods, so each method should group
-these functional sections <sup>[code][10]{:target="_blank"}</sup>:
+these functional sections <sup>[[code][10]{:target="_blank"}]</sup>:
 
 - Arrange all necessary preconditions and inputs (`setup`).
 - Act on the object or method under test (`given`).
