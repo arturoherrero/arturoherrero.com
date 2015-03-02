@@ -19,8 +19,6 @@ software but I can not just be a programmer anymore. I am currently working on
 expanding my skill set to include product and user experiences, design, and
 other areas. To improve my craft, I need to understand the whole.
 
-I explore new ideas rather than follow the established assumptions. I believe
-that every goal is achievable.
 
 ### Personal projects
 
