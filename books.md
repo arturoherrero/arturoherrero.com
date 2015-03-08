@@ -11,7 +11,14 @@ I love reading. This is the complete list of all books that I read in my life.
 ### 2015
 1. Programming Grails. *Burt Beckwith*
 2. A Mind for Numbers. *Barbara Oakley*
-3. ...
+3. Remote. *David Heinemeier Hansson & Jason Fried*
+4. Nuestro Enemigo, el Estado. *Albert Jay Nock*
+5. Inceptions. *Enrique Comba*
+6. Ruby Under a Microscope. *Pat Shaughnessy*
+7. Making Ideas Happen. *Scott Belsky*
+8. El cuaderno rojo. *Paul Auster*
+9. Understanding the Four Rules of Simple Design. *Corey Haines*
+10. ...
 
 
 ### 2014
@@ -223,7 +230,7 @@ I love reading. This is the complete list of all books that I read in my life.
 20. El quinto hijo. *Doris Lessing*
 21. La semana laboral de 4 horas. *Timothy Ferriss*
 22. Física para futuros presidentes. *Richard A. Muller*
-23. Tribus. Seth Godin*
+23. Tribus. *Seth Godin*
 24. La última respuesta. *Álex Rovira, Francesc Miralles*
 25. La metamorfosis y otros cuentos. *Franz Kafka*
 26. El mal de Montano. *Enrique Vila-Matas*
