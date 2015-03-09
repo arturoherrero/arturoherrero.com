@@ -15,6 +15,8 @@ application to implement it on the fly, let us cache that implementation for
 future invocation, and then invoke it. The first call takes performance hit but
 next calls are faster.
 
+- Bonus: [Enrique García][2]{:target="_blank"} pointed out to me that is a good idea to
+define `respond_to_missing?` when overriding `method_missing` <sup>[[thoughtbot][3]{:target="_blank"}]</sup>.
 
 {% highlight ruby %}
 require "benchmark/ips"
@@ -95,3 +97,5 @@ the performance depends if we use `block.call` or just `yield`
 
 
 [1]: https://github.com/JuanitoFatas/fast-ruby#proccall-vs-yield-code
+[2]: https://twitter.com/otikik
+[3]: https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding
