@@ -18,7 +18,11 @@ I love reading. This is the complete list of all books that I read in my life.
 7. Making Ideas Happen. *Scott Belsky*
 8. El cuaderno rojo. *Paul Auster*
 9. Understanding the Four Rules of Simple Design. *Corey Haines*
-10. ...
+10. Dataclysm. *Christian Rudder*
+11. Optimal Cupid. *Christopher McKinlay*
+12. Data, A Love Story. *Amy Webb*
+13. Brújula para navegantes emocionales. *Elsa Punset*
+14. ...
 
 
 ### 2014

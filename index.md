@@ -5,7 +5,7 @@ redirect_from: /about/
 
 ## Software Development & Stuff
 
-I am a software engineer living in London, United Kingdom.
+I am a software engineer living in London, United Kingdom. I work at [AMEE][9]{:target="_blank"}.
 
 I seek excellence in everything I do. I share my passion for programming, ideas
 and practices, attention to detail, and self improvement with those around me.
@@ -66,3 +66,4 @@ Need to get in touch? Please, feel free to contact me at *<arturo.herrero@gmail.
 [6]: /talks
 [7]: /books
 [8]: /ishows
+[9]: https://www.amee.com/

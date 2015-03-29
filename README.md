@@ -8,6 +8,7 @@ A [Jekyll][1] powered blog, hosted by [GitHub Pages][4] at http://arturoherrero.
 ## Setup
 
     $ gem install jekyll
+    $ gem install jekyll-redirect-from
     $ jekyll server --watch
 
 ### Live reload
