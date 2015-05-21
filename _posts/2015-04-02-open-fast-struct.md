@@ -11,7 +11,7 @@ arbitrary attributes with their accompanying values. It benchmarks ~3x slower
 than a Hash, but **it's ~4x faster than OpenStruct**.
 
 The project became very popular and a GitHub Ruby trending repository during two
-days because it was featured on the Ruby Weekly newsletter.
+days because it was featured in [issue #239 of Ruby Weekly newsletter][3]{:target="_blank"}.
 
 
 ### Examples
@@ -98,3 +98,4 @@ performance penalty is prohibitive. You can use OpenFastStruct instead!
 
 [1]: /yarr-yet-another-ruby-repl/
 [2]: https://github.com/arturoherrero/ofstruct
+[3]: http://rubyweekly.com/issues/239

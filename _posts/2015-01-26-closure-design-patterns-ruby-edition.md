@@ -5,9 +5,10 @@ title: Closure Design Patterns. Ruby Edition
 
 Back in 2012 I wrote an article about **[closure design patterns][1]**. I used
 Groovy as a programming language but now I have decided to use Ruby (the
-programming language that I mainly have been using for two years).
+programming language that I mainly have been using for two years). This article
+was featured in [issue #231 of Ruby Weekly newsletter][2]{:target="_blank"}.
 
-I want to keep the same examples, so I created a helper method to make
+I want to keep the same examples, so I have created a helper method to make
 assertions.
 
 {% highlight ruby %}
@@ -218,3 +219,4 @@ assert 3 == take2_and_add.call([1, 2, 3, 4, 5])
 
 
 [1]: /closure-design-patterns
+[2]: http://rubyweekly.com/issues/231
