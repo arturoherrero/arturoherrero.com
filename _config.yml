@@ -4,6 +4,8 @@ url: "http://arturoherrero.com"
 
 markdown: kramdown
 permalink: :title
+
 gems:
   - jekyll-redirect-from
+
 exclude: [Guardfile, .gitignore, README.md]
