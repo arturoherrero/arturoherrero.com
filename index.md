@@ -5,7 +5,7 @@ redirect_from: /about/
 
 ## Software Development & Stuff
 
-I am a software engineer living in London, United Kingdom.
+I am a software engineer living in London, United Kingdom. I work at [Mastered][1]{:target="_blank"}.
 
 I seek excellence in everything I do. I share my passion for programming, ideas
 and practices, attention to detail, and self improvement with those around me.
@@ -58,7 +58,7 @@ Reading is one of my passions. I keep a [list of the books I read][7].
 Need to get in touch? Please, feel free to contact me at *<arturo.herrero@gmail.com>*.
 
 
-[1]: https://coinfloor.co.uk/
+[1]: https://www.mastered.com/
 [2]: https://github.com/arturoherrero
 [3]: /articles
 [4]: https://twitter.com/ArturoHerrero

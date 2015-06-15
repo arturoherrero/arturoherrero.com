@@ -28,7 +28,11 @@ I love reading. This is the complete list of all books that I read in my life.
 17. El libro negro del emprendedor. *Fernando Trías De Bes*
 18. Soft Skills. *John Z. Sonmez*
 19. La noche del oráculo. *Paul Auster*
-20. ...
+20. Lo que escucha la lluvia. *Francisco Solano*
+21. Creativity, Inc. *Ed Catmull*
+22. Quiet. *Susan Cain*
+23. The Rails 4 Way. *Obie Fernandez*
+24. ...
 
 
 ### 2014
@@ -317,6 +321,8 @@ I love reading. This is the complete list of all books that I read in my life.
 
 * Los tres mosqueteros. *Alejandro Dumas*
 * El mundo de ayer: Memorias de un europeo. *Stefan Zweig*
+* Veinticuatro horas en la vida de una mujer. *Stefan Zweig*
+* Carta de una desconocida. *Stefan Zweig*
 * Los pilares de la tierra. *Ken Follett*
 * Siddhartha. *Hermann Hesse*
 * El poder del ahora. *Eckart Tolle*
