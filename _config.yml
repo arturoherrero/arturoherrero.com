@@ -5,6 +5,10 @@ url: "http://arturoherrero.com"
 markdown: kramdown
 permalink: :title
 
+sass:
+  style: :compressed
+  sass_dir: assets/sass
+
 gems:
   - jekyll-redirect-from
 
