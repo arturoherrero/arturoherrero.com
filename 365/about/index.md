@@ -35,8 +35,8 @@ work.
 > Irene uses:
 >
 > - Old, road-tested Canon 50D
-> - EF-S 17-85mm f4-5.6 IS USM Lens
-> - The very fun 50mm 1.8
+> - EF-S 17-85mm f/4-5.6 IS USM Lens
+> - The very fun 50mm f/1.8 Lens
 > - Remote control
 > - Sony NEX 3N (surprisingly decent hybrid)
 
