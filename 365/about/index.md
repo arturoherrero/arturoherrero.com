@@ -28,17 +28,17 @@ work.
 
 > Arturo uses:
 >
-> - The very new Canon 750D
-> - Basic but reliable Canon EF-S 18-55mm f/3.5-5.6 IS Lens
+> - Canon EOS 700D
+> - Basic but reliable Canon EF-S 18-55mm f/3.5-5.6 IS STM
 > - Joby GorillaPod SLR-Zoom Tripod for SLR cameras
 
 > Irene uses:
 >
 > - Old, road-tested Canon 50D
-> - EF-S 17-85mm f/4-5.6 IS USM Lens
-> - The very fun 50mm f/1.8 Lens
+> - EF-S 17-85mm f/4-5.6 IS USM
+> - The very fun 50mm f/1.8 STM
 > - Remote control
-> - Sony NEX 3N (surprisingly decent hybrid)
+> - Sony NEX-3N (surprisingly decent hybrid)
 
 Thanks for passing by, and we hope you will enjoy our photography adventure as
 much as we do.
