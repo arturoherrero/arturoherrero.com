@@ -26,7 +26,7 @@ I love open source and I'm continually learning and working in personal projects
 Check out my [GitHub account][2]{:target="_blank"} to see what I have been hacking on lately.
 
 - [iShows][8] is an iPhone app to managing TV shows.
-- [Project 365][9] one picture a day, for a whole year.
+- [Project 365][9]{:target="_blank"} one picture a day, for a whole year.
 
 
 ## Articles
@@ -67,4 +67,4 @@ Need to get in touch? Please, feel free to contact me at *<arturo.herrero@gmail.
 [6]: /talks
 [7]: /books
 [8]: /ishows
-[9]: /365
+[9]: http://theyearwemet.com/365/
