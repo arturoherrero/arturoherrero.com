@@ -32,7 +32,8 @@ I love reading. This is the complete list of all books that I read in my life.
 21. Creativity, Inc. *Ed Catmull*
 22. Quiet. *Susan Cain*
 23. The Rails 4 Way. *Obie Fernandez*
-24. ...
+24. The Complete Photo Manual. *Popular Photography*
+25. ...
 
 
 ### 2014
