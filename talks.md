@@ -10,6 +10,9 @@ redirect_from: /events/
 I have given a number of talks over the years. Here I'm trying to compile
 together the talks I have given in the past and sharing them with you.
 
+- #### Mastered Summer Event. *Aug 2015*
+[Agile For Non Developers][7].
+
 - #### Socrates UK. *Sep 2013*
 [Command line one-liners][1].
 
@@ -36,3 +39,4 @@ A simple idea: 15 images x 20 seconds. The slides [here][6]{:target="_blank"}.
 [4]: http://grysz.com/
 [5]: /clean-code/
 [6]: http://www.slideshare.net/arturoherrero/15-en-5
+[7]: /agile-for-non-developers/

@@ -29,11 +29,16 @@ I love reading. This is the complete list of all books that I read in my life.
 18. Soft Skills. *John Z. Sonmez*
 19. La noche del oráculo. *Paul Auster*
 20. Lo que escucha la lluvia. *Francisco Solano*
-21. Creativity, Inc. *Ed Catmull*
-22. Quiet. *Susan Cain*
-23. The Rails 4 Way. *Obie Fernandez*
-24. The Complete Photo Manual. *Popular Photography*
-25. ...
+21. Hitchcock's Secret Notebooks. *Dan Auiler*
+22. Creativity, Inc. *Ed Catmull*
+23. Quiet. *Susan Cain*
+24. The Rails 4 Way. *Obie Fernandez*
+25. The Complete Photo Manual. *Popular Photography*
+26. 100 Ideas that Changed Film. *David Parkinson*
+27. Growth Hacker Marketing. *Ryan Holiday*
+28. El economista camuflado. *Tim Harford*
+29. Complete Guide to Digital Photography. *Ian Farrell*
+30. ...
 
 
 ### 2014
