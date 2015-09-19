@@ -4,14 +4,14 @@ title: The Mythical 50 Books-Year
 redirect_from: /2011/02/06/the-mythical-50-books-year/
 ---
 
-I love to learn and read books.
+I love reading books and learning from them.
 
-> When reading you should take care of two things: select good books and read them well.  
-> ~Jaime Balmes
+> A great book should leave you with many experiences, and slightly exhausted at the end. You live several lives while reading.  
+> - William Styron.
 
-I'm tracking every single book that I read in my life, you can see my [reading list][1].
+I'm tracking every single book that I read in my life; you can find my reading list [here][1].
 
-Some time ago, I heard about a reading challenge: read 50 books per year. Every
+A while ago, I came accross a reading challenge: reading 50 books per year. Every
 year I'm getting closer.
 
 
