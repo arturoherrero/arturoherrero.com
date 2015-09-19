@@ -38,7 +38,11 @@ I love reading. This is the complete list of all books that I read in my life.
 27. Growth Hacker Marketing. *Ryan Holiday*
 28. El economista camuflado. *Tim Harford*
 29. Complete Guide to Digital Photography. *Ian Farrell*
-30. ...
+30. A Book for People Who Want to Become Stinking Rich But Aren't Quite Sure How. *Benrik*
+31. El conde de Montecristo. *Alexandre Dumas*
+32. Raspberry Pi User Guide. *Eben Upton & Gareth Halfacree*
+33. Teach Yourself Visually Raspberry Pi. *Richard Wentk*
+34. ...
 
 
 ### 2014
@@ -325,7 +329,7 @@ I love reading. This is the complete list of all books that I read in my life.
 
 ### ? – 2007
 
-* Los tres mosqueteros. *Alejandro Dumas*
+* Los tres mosqueteros. *Alexandre Dumas*
 * El mundo de ayer: Memorias de un europeo. *Stefan Zweig*
 * Veinticuatro horas en la vida de una mujer. *Stefan Zweig*
 * Carta de una desconocida. *Stefan Zweig*
