@@ -8,6 +8,13 @@ permalink: /books/
 
 I love reading. This is the complete list of all books that I read in my life.
 
+### 2016
+1. Ruby Cookbook. *Lucas Carlson & Leonard Richardson*
+2. 344 Questions. *Stefan G. Bucher*
+3. The Nearest Thing To Life. *James Wood*
+4. ...
+
+
 ### 2015
 1. Programming Grails. *Burt Beckwith*
 2. A Mind for Numbers. *Barbara Oakley*
@@ -42,7 +49,18 @@ I love reading. This is the complete list of all books that I read in my life.
 31. El conde de Montecristo. *Alexandre Dumas*
 32. Raspberry Pi User Guide. *Eben Upton & Gareth Halfacree*
 33. Teach Yourself Visually Raspberry Pi. *Richard Wentk*
-34. ...
+34. How to be a Productivity Ninja. *Graham Allcott*
+35. Elon Musk. *Ashlee Vance*
+36. The 10X Rule. *Grant Cardone*
+37. What If? *Randall Munroe*
+38. Lean Analytics. *Alistair Croll & Benjamin Yoskovitz*
+39. Contra la renta básica. *Juan Ramón Rallo*
+40. The Clean Coder. *Robert C. Martin*
+41. Pebbles of Perception. *Laurence Endersen*
+42. El Mito del Votante Racional. *Bryan Caplan*
+43. La investigación. *Stanisław Lem*
+44. Gamestorming. *Dave Gray, Sunni Brown & James Macanufo*
+45. Visual Leaders. *David Sibbet*
 
 
 ### 2014
@@ -117,7 +135,7 @@ I love reading. This is the complete list of all books that I read in my life.
 23. Instant Markdown. *Arturo Herrero :Þ*
 24. Personal Development for Smart People. *Steve Pavlina*
 25. Practical Vim. *Drew Neil*
-26. Refactoring: Ruby Edition. *Jay Fields & Shane Harvie & Martin Fowler*
+26. Refactoring: Ruby Edition. *Jay Fields, Shane Harvie & Martin Fowler*
 27. Juliet, desnuda. *Nick Hornby*
 28. The Mammoth Book of Street Art. *Jake*
 29. Code Complete. *Steve McConnell*
