@@ -12,7 +12,14 @@ I love reading. This is the complete list of all books that I read in my life.
 1. Ruby Cookbook. *Lucas Carlson & Leonard Richardson*
 2. 344 Questions. *Stefan G. Bucher*
 3. The Nearest Thing To Life. *James Wood*
-4. ...
+4. Fluent Forever. *Gabriel Wyner*
+5. Las claves de la argumentación. *Anthony Weston*
+6. How to Recruit and Hire Great Software Engineers. *Patrick McCuller*
+7. How to Get More From Life. *Scott Young*
+8. Design Patterns in Ruby. *Russ Olsen*
+9. Metaprogramming Ruby 2. *Paolo Perrotta*
+10. Antifragile. *Nassim Nicholas Taleb*
+11. ...
 
 
 ### 2015
