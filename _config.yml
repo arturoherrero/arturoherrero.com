@@ -3,7 +3,7 @@ description: The personal blog of Arturo Herrero
 url: "http://arturoherrero.com"
 
 markdown: kramdown
-permalink: :title
+permalink: :title/
 
 sass:
   style: :compressed
