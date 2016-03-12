@@ -19,7 +19,8 @@ I love reading. This is the complete list of all books that I read in my life.
 8. Design Patterns in Ruby. *Russ Olsen*
 9. Metaprogramming Ruby 2. *Paolo Perrotta*
 10. Antifragile. *Nassim Nicholas Taleb*
-11. ...
+11. Programming Elixir. *Dave Thomas*
+12. ...
 
 
 ### 2015
