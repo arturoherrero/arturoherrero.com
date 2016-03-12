@@ -19,74 +19,74 @@ repository][3]{:target="_blank"}.</sup>
 
 Run the last command
 
-{% highlight bash %}
+```shell
 $ !!
-{% endhighlight %}
+```
 
 Run the last command as root
 
-{% highlight bash %}
+```shell
 $ sudo !!
-{% endhighlight %}
+```
 
 Create a script of the last executed command
 
-{% highlight bash %}
+```shell
 $ echo "!!" > script.sh
-{% endhighlight %}
+```
 
 Reuse all parameter of the previous command line
 
-{% highlight bash %}
+```shell
 $ echo cd .
 $ !*
-{% endhighlight %}
+```
 
 Run the last command with some argument
 
-{% highlight bash %}
+```shell
 $ echo a b c d e
 $ echo !!:2
 $ echo !!:3-$
-{% endhighlight %}
+```
 
 Insert the last argument of the previous command
 
-{% highlight bash %}
+```shell
 $ cp script.sh /usr/bin/
 $ cd <ESC> .
-{% endhighlight %}
+```
 
 Runs previous command but replacing
 
-{% highlight bash %}
+```shell
 $ echo no typos
 $ ^typos^errors
-{% endhighlight %}
+```
 
 Escape any command aliases
 
-{% highlight bash %}
+```shell
 $ alias ls="ls -a"
 $ \ls
-{% endhighlight %}
+```
 
 Quickly rename a file
 
-{% highlight bash %}
+```shell
 $ mv filename.{old,new}
 $ mv filename.{png,jpg}
-{% endhighlight %}
+```
 
 Create a quick back-up copy of a file
 
-{% highlight bash %}
+```shell
 $ cp file.txt{,.bak}
-{% endhighlight %}
+```
 
 Run a command from the history
 
-{% highlight bash %}
+```shell
 $ history
  ...
  1225  ls -l
@@ -94,81 +94,81 @@ $ history
  1227  history
 $ !-3
 $ !1225
-{% endhighlight %}
+```
 
 Search the history for the most recent command beginning with 'text'
 
-{% highlight bash %}
+```shell
 $ !text
-{% endhighlight %}
+```
 
 List of commands you use most often
 
-{% highlight bash %}
+```shell
 $ history | awk '{print $2}' | sort | uniq -c | sort -rn | head
-{% endhighlight %}
+```
 
 Execute a command without saving it in the history
 
-{% highlight bash %}
+```shell
 $ <space>command
-{% endhighlight %}
+```
 
 Make directory including intermediate directories
 
-{% highlight bash %}
+```shell
 $ mkdir -p a/long/directory/path
-{% endhighlight %}
+```
 
 Create a directory and change into it
 
-{% highlight bash %}
+```shell
 $ mkdir dir && cd $_
-{% endhighlight %}
+```
 
 Change to the previous working directory
 
-{% highlight bash %}
+```shell
 $ cd -
-{% endhighlight %}
+```
 
 Jump to a directory. Execute a command. Jump back to current directory
 
-{% highlight bash %}
+```shell
 $ (cd /tmp && ls)
-{% endhighlight %}
+```
 
 Create simple text file from command line
 
-{% highlight bash %}
+```shell
 $ cat > file.txt
 {your text here}
 {your text here}
 <ctrl-d>
-{% endhighlight %}
+```
 
 Empty a file
 
-{% highlight bash %}
+```shell
 $ > file.txt
-{% endhighlight %}
+```
 
 Show PATH in a human-readable way
 
-{% highlight bash %}
+```shell
 $ echo $PATH | tr ':' '\n'
 $ tr ':' '\n' <<< $PATH
-{% endhighlight %}
+```
 
 Make 'less' behave like 'tail -f'
 
-{% highlight bash %}
+```shell
 $ less +F somelogfile
-{% endhighlight %}
+```
 
 Redirect standard input to a file. Print it to standard output
 
-{% highlight bash %}
+```shell
 $ command | tee file.txt | less
 
 ┌─────────┐  ┌─────────┐  ┌─────────┐
@@ -179,11 +179,11 @@ $ command | tee file.txt | less
             ┌───────────┐
             │   file    │
             └───────────┘
-{% endhighlight %}
+```
 
 Search for a <pattern> string inside all files in the current directory
 
-{% highlight bash %}
+```shell
 $ grep -RnsI --color=auto <pattern> *
 
 Beyond grep
@@ -194,191 +194,191 @@ _   /|
   U    ack!
 
 $ ack <pattern>
-{% endhighlight %}
+```
 
 Recursively remove all empty directories
 
-{% highlight bash %}
+```shell
 $ find . -type d -empty -delete
-{% endhighlight %}
+```
 
 Count your commits
 
-{% highlight bash %}
+```shell
 $ git shortlog -sn
-{% endhighlight %}
+```
 
 Serve current directory tree at http://$HOSTNAME:8000/
 
-{% highlight bash %}
+```shell
 $ python -m SimpleHTTPServer
-{% endhighlight %}
+```
 
 Share a file between two computers
 
-{% highlight bash %}
+```shell
 $ nc -l 5566 > data-dump.sql
 $ nc <his-ip-address> 5566 < data-dump.sql
-{% endhighlight %}
+```
 
 Download an entire website
 
-{% highlight bash %}
+```shell
 $ wget -m http://website.com
-{% endhighlight %}
+```
 
 Clear the terminal screen
 
-{% highlight bash %}
+```shell
 <ctrl-l>
-{% endhighlight %}
+```
 
 Salvage a borked terminal
 
-{% highlight bash %}
+```shell
 $ reset
-{% endhighlight %}
+```
 
 Close shell keeping all subprocess running
 
-{% highlight bash %}
+```shell
 $ disown -a && exit
-{% endhighlight %}
+```
 
 Run a command immune to hangups
 
-{% highlight bash %}
+```shell
 $ nohup command &
-{% endhighlight %}
+```
 
 Attach screen over ssh
 
-{% highlight bash %}
+```shell
 $ ssh user@host -t screen -r
-{% endhighlight %}
+```
 
 Compare a remote file with a local file
 
-{% highlight bash %}
+```shell
 $ ssh user@host cat /path/to/remotefile | diff /path/to/localfile -
-{% endhighlight %}
+```
 
 Get your public IP address
 
-{% highlight bash %}
+```shell
 $ curl ifconfig.me
-{% endhighlight %}
+```
 
 Set audible alarm when an IP address comes online
 
-{% highlight bash %}
+```shell
 $ ping -a IP_address
-{% endhighlight %}
+```
 
 List programs with open ports and connections
 
-{% highlight bash %}
+```shell
 $ lsof -i
-{% endhighlight %}
+```
 
 Currently mounted filesystems in nice layout
 
-{% highlight bash %}
+```shell
 $ mount | column -t
-{% endhighlight %}
+```
 
 Display free disk space
 
-{% highlight bash %}
+```shell
 $ df -h
-{% endhighlight %}
+```
 
 Display disk usage statistics for the current directory
 
-{% highlight bash %}
+```shell
 $ du -sh *
-{% endhighlight %}
+```
 
 Display 10 biggest files/folders for the current directory
 
-{% highlight bash %}
+```shell
 $ du -s * | sort -nr | head
-{% endhighlight %}
+```
 
 Execute a command at a given time
 
-{% highlight bash %}
+```shell
 $ echo "ls -l" | at midnight
-{% endhighlight %}
+```
 
 Simple stopwatch
 
-{% highlight bash %}
+```shell
 $ time read
 <ctrl-d>
-{% endhighlight %}
+```
 
 Put a console clock in top right corner
 
-{% highlight bash %}
+```shell
 $ while sleep 1;do tput sc;tput cup 0 $(($(tput cols)-29));date;tput rc;done &
-{% endhighlight %}
+```
 
 Display the top ten running processes. (Sorted by memory usage)
 
-{% highlight bash %}
+```shell
 $ ps aux | sort -nk +4 | tail
-{% endhighlight %}
+```
 
 Kill all Ruby processes
 
-{% highlight bash %}
+```shell
 $ ps aux | grep ruby | awk '{ print $2 }' | xargs kill -9
 $ ps aux | awk '/ruby/ && ! /awk/ { system("kill -9 "$2) }'
-{% endhighlight %}
+```
 
 32 bits or 64 bits?
 
-{% highlight bash %}
+```shell
 $ getconf LONG_BIT
-{% endhighlight %}
+```
 
 Displays a calendar
 
-{% highlight bash %}
+```shell
 $ cal 12 1984
-{% endhighlight %}
+```
 
 What day is today?
 
-{% highlight bash %}
+```shell
 $ cal | sed "s/.*/ & /;s/ $(date +%d) / [] /"
 $ cal | sed "s/.*/ & /;s/ $(date +%d) / $(printf '\e[0;31m[]\e[0m') /"
-{% endhighlight %}
+```
 
 Show File System Hierarchy
 
-{% highlight bash %}
+```shell
 $ man hier
-{% endhighlight %}
+```
 
 Quick access to the ascii table
 
-{% highlight bash %}
+```shell
 $ man ascii
-{% endhighlight %}
+```
 
 Russian Roulette in Bash
 
-{% highlight bash %}
+```shell
 $ [ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo "You live"
-{% endhighlight %}
+```
 
 Watch Star Wars via telnet
 
-{% highlight bash %}
+```shell
 $ telnet towel.blinkenlights.nl
-{% endhighlight %}
+```
 
 
 [1]: http://socratesuk.org/

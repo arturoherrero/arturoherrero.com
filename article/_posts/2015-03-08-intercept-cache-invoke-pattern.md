@@ -18,7 +18,7 @@ next calls are faster.
 - Bonus: [Enrique García][2]{:target="_blank"} pointed out to me that is a good idea to
 define `respond_to_missing?` when overriding `method_missing` <sup>[[thoughtbot][3]{:target="_blank"}]</sup>.
 
-{% highlight ruby %}
+```ruby
 require "benchmark/ips"
 
 class Person
@@ -73,7 +73,7 @@ Benchmark.ips do |x|
 
   x.compare!
 end
-{% endhighlight %}
+```
 
 
 ### Benchmark

@@ -18,7 +18,7 @@ days because it was featured in [issue #239 of Ruby Weekly newsletter][3]{:targe
 
 #### Basic usage
 
-{% highlight ruby %}
+```ruby
 require "ofstruct"
 
 person = OpenFastStruct.new
@@ -28,14 +28,14 @@ person.age  = 70
 puts person.name     # -> "John Smith"
 puts person.age      # -> 70
 puts person.address  # -> #<OpenFastStruct>
-{% endhighlight %}
+```
 
 #### Initialize and update from a Hash
 
 An OpenFastStruct employs a Hash internally to store the methods and values and
 can even be initialized or updated with one:
 
-{% highlight ruby %}
+```ruby
 require "ofstruct"
 
 person = OpenFastStruct.new(:name => "John Smith")
@@ -44,34 +44,34 @@ puts person.name  # -> "John Smith"
 person.update(:name => "David Smith", :age => 70)
 puts person.name  # -> "David Smith"
 puts person.age   # -> 70
-{% endhighlight %}
+```
 
 #### Remove attributes
 
 Removing the presence of a method requires the execution the `#delete_field`
 method as setting the property value to a new empty OpenFastStruct.
 
-{% highlight ruby %}
+```ruby
 require "ofstruct"
 
 person = OpenFastStruct.new
 person.name = "John Smith"
 person.delete_field(:name)
 puts person.name  # -> #<OpenFastStruct>
-{% endhighlight %}
+```
 
 #### *Black hole* object
 
 An OpenFastStruct instance is a *black hole* object that supports infinite
 chaining of attributes.
 
-{% highlight ruby %}
+```ruby
 require "ofstruct"
 
 person = OpenFastStruct.new
 person.address.number = 4
 puts person.address.number  # -> 4
-{% endhighlight %}
+```
 
 
 ### Benchmarks

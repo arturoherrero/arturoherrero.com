@@ -14,79 +14,79 @@ one liners to impress your friends, here are the Groovy one liners.
 
 #### 1. Multiple Each Item in a List by 2
 
-{% highlight groovy %}
+```groovy
 (1..10)*.multiply(2)
-{% endhighlight %}
+```
 
 #### 2. Sum a List of Numbers
 
-{% highlight groovy %}
+```groovy
 (1..1000).sum()
-{% endhighlight %}
+```
 
 #### 3. Verify if Exists in a String
 
-{% highlight groovy %}
+```groovy
 def wordList = ['groovy', 'akka', 'grails framework', 'spock', 'typesafe']
 def tweet = 'This is an example tweet talking about groovy and spock.'
 wordList.any { word -> tweet.contains(word) }
-{% endhighlight %}
+```
 
 #### 4. Read in a File
 
-{% highlight groovy %}
+```groovy
 def fileText = new File('data.txt').text
 def fileLines = new File('data.txt').readLines()
-{% endhighlight %}
+```
 
 #### 5. Happy Birthday to You!
 
-{% highlight groovy %}
+```groovy
 (1..4).each { println 'Happy Birthday ' + ((it == 3) ? 'dear Arturo' : 'to You') }
-{% endhighlight %}
+```
 
 #### 6. Filter list of numbers
 
-{% highlight groovy %}
+```groovy
 def (passed, failed) = [49, 58, 76, 82, 88, 90].split{ it > 60 }
-{% endhighlight %}
+```
 
 #### 7. Fetch and Parse an XML web service
 
-{% highlight groovy %}
+```groovy
 def results = new XmlSlurper().parse('http://search.twitter.com/search.atom?&q=groovy')
-{% endhighlight %}
+```
 
 #### 8. Find minimum (or maximum) in a List
 
-{% highlight groovy %}
+```groovy
 [14, 35, -7, 46, 98].min()
 [14, 35, -7, 46, 98].max()
-{% endhighlight %}
+```
 
 #### 9. Parallel Processing
 
-{% highlight groovy %}
+```groovy
 import groovyx.gpars.*
 GParsPool.withPool { def result = dataList.collectParallel { processItem(it) } }
-{% endhighlight %}
+```
 
 <sup>Using [Gpars]{:target="_blank"} that offers intuitive and safe ways to
 handle Groovy tasks concurrently.</sup>
 
 #### 10. Sieve of Eratosthenes
 
-{% highlight groovy %}
+```groovy
 def t = 2..100
 (2..Math.sqrt(t.last())).each { n -> t -= ((2*n)..(t.last())).step(n) }
 println t
-{% endhighlight %}
+```
 
 #### 11. Bonus: FizzBuzz
 
-{% highlight groovy %}
+```groovy
 for (i in 1..100) { println "${i%3?'':'Fizz'}${i%5?'':'Buzz'}" ?: i }
-{% endhighlight %}
+```
 
 
 [Scala]: https://mkaz.com/2011/05/31/10-scala-one-liners-to-impress-your-friends/

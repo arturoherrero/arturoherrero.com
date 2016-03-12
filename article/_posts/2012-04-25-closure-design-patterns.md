@@ -32,7 +32,7 @@ functions, lambdas and closures when implementing design patterns.</sup>
 
 A pair of operation that needs to be performed before and after operations.
 
-{% highlight groovy %}
+```groovy
 def operations(closure) {
     println "Open"
     closure()
@@ -44,14 +44,14 @@ operations { println "Operation" }
 ===> Open
 ===> Operation
 ===> Close
-{% endhighlight %}
+```
 
 
 #### Pluggable Behavior
 
 Specify the behavior of an object at runtime.
 
-{% highlight groovy %}
+```groovy
 def selectValues(number, closure) {
     def list = []
     1.upto(number) {
@@ -62,14 +62,14 @@ def selectValues(number, closure) {
 
 assert [2, 4, 6, 8, 10] == selectValues(10) { it % 2 == 0 }  // even
 assert [1, 3, 5, 7, 9]  == selectValues(10) { it % 2 != 0 }  // odd
-{% endhighlight %}
+```
 
 
 #### Iterator Pattern
 
 Allows sequential access to the elements.
 
-{% highlight groovy %}
+```groovy
 def listNumbers(closure) {
     (0..3).each { closure it }
 }
@@ -83,28 +83,28 @@ listNumbers {
 ===> 1 is a little number
 ===> 2 is a big number
 ===> 3 is a big number
-{% endhighlight %}
+```
 
 
 #### Dynamical Conditional Execution
 
 Create and execute a conditional operation.
 
-{% highlight groovy %}
+```groovy
 def greet(user, successClosure, failClosure) {
     if (isAdmin(user)) successClosure()
     else failClosure()
 }
 
 greet(user, { println "Hi Admin!" }, { println "Hello User" })
-{% endhighlight %}
+```
 
 
 #### Template Method Pattern
 
 Define common algorithm steps (getting a customer) and customizations (passed as a closure).
 
-{% highlight groovy %}
+```groovy
 def withCustomer (id, closure) {
     def customer = getCustomer(id)
     closure(customer)
@@ -113,14 +113,14 @@ def withCustomer (id, closure) {
 withCustomer(1234) { customer ->
     println "Found customer $customer.name"
 }
-{% endhighlight %}
+```
 
 
 #### Loan Pattern
 
 Ensures that a resource is deterministically disposed of once it goes out of scope.
 
-{% highlight groovy %}
+```groovy
 def withListOfWordsForEachLine(file, closure) {
     def reader = file.newReader()
     try {
@@ -133,14 +133,14 @@ def withListOfWordsForEachLine(file, closure) {
 withListOfWordsForEachLine(file) { wordList ->
     println wordList
 }
-{% endhighlight %}
+```
 
 
 #### Command Design Pattern
 
 Encapsulate all the information needed to call a method at a later time.
 
-{% highlight groovy %}
+```groovy
 def count = 0
 def commands = []
 
@@ -156,14 +156,14 @@ println "did all commands, count is ${count}"
 
 ===> count is initially 0
 ===> did all commands, count is 10
-{% endhighlight %}
+```
 
 
 #### Strategy Pattern
 
 Define a family of interchangeable algorithms.
 
-{% highlight groovy %}
+```groovy
 calcMult = { n, m -> n * m }
 calcAdds = { n, m ->
     def result = 0
@@ -175,32 +175,32 @@ def calcStrategies = [calcMult, calcAdds]
 calcStrategies.each { calc ->
     assert 10 == calc(5, 2)
 }
-{% endhighlight %}
+```
 
 
 #### Factory Pattern
 
 Abstract the object creation process (currying as a function factory).
 
-{% highlight groovy %}
+```groovy
 def adder = { x, y -> x + y }
 def incrementer = adder.curry(1)
 
 assert 5 == incrementer(4)
-{% endhighlight %}
+```
 
 
 #### Method Combination
 
 Build a method from components.
 
-{% highlight groovy %}
+```groovy
 def sum = { Collection collection -> collection.sum() }
 def first2 = { Collection collection -> collection.take(2) }
 def take2andAdd = first2 >> sum
 
 assert 3 == take2andAdd([1, 2, 3, 4, 5])
-{% endhighlight %}
+```
 
 
 [1]: http://norvig.com/design-patterns/

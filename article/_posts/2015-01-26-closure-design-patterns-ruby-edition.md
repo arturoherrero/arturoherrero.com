@@ -11,18 +11,18 @@ was featured in [issue #231 of Ruby Weekly newsletter][2]{:target="_blank"}.
 I want to keep the same examples, so I have created a helper method to make
 assertions.
 
-{% highlight ruby %}
+```ruby
 def assert(expression)
   raise "Assertion failed" unless expression
 end
-{% endhighlight %}
+```
 
 
 #### Execute Around Method
 
 A pair of operation that needs to be performed before and after operations.
 
-{% highlight ruby %}
+```ruby
 def operations(&block)
   puts "Open"
   block.call
@@ -34,14 +34,14 @@ operations { puts "Operation" }
 => Open
 => Operation
 => Close
-{% endhighlight %}
+```
 
 
 #### Pluggable Behavior
 
 Specify the behavior of an object at runtime.
 
-{% highlight ruby %}
+```ruby
 def select_values(number, &block)
   list = []
   1.upto(number) do |i|
@@ -52,14 +52,14 @@ end
 
 assert [2, 4, 6, 8, 10] == select_values(10) { |i| i % 2 == 0 }  # even
 assert [1, 3, 5, 7, 9]  == select_values(10) { |i| i % 2 != 0 }  # odd
-{% endhighlight %}
+```
 
 
 #### Iterator Pattern
 
 Allows sequential access to the elements.
 
-{% highlight ruby %}
+```ruby
 def list_numbers(&block)
   (0..3).each(&block)
 end
@@ -76,14 +76,14 @@ end
 => 1 is a little number
 => 2 is a big number
 => 3 is a big number
-{% endhighlight %}
+```
 
 
 #### Dynamical Conditional Execution
 
 Create and execute a conditional operation.
 
-{% highlight ruby %}
+```ruby
 def greet(user, success_block, fail_block)
   if user.is_admin?
     success_block.call
@@ -93,7 +93,7 @@ def greet(user, success_block, fail_block)
 end
 
 greet(user, -> { puts "Hi Admin!" }, -> { puts "Hello User" })
-{% endhighlight %}
+```
 
 
 #### Template Method Pattern
@@ -101,7 +101,7 @@ greet(user, -> { puts "Hi Admin!" }, -> { puts "Hello User" })
 Define common algorithm steps (getting a customer) and customizations (passed
 as a block).
 
-{% highlight ruby %}
+```ruby
 def with_customer (id, &block)
   customer = get_customer(id)
   block.call(customer)
@@ -110,14 +110,14 @@ end
 with_customer(1234) do |customer|
   puts "Found customer #{customer.name}"
 end
-{% endhighlight %}
+```
 
 
 #### Loan Pattern
 
 Ensures that a resource is deterministically disposed of once it goes out of scope.
 
-{% highlight ruby %}
+```ruby
 def with_list_of_words_for_each_line(file, &block)
   file = File.open(file)
   file.each_line { |line| block.call(line.split(' ')) }
@@ -128,14 +128,14 @@ end
 with_list_of_words_for_each_line(file) do |word_list|
   puts word_list
 end
-{% endhighlight %}
+```
 
 
 #### Command Design Pattern
 
 Encapsulate all the information needed to call a method at a later time.
 
-{% highlight ruby %}
+```ruby
 count = 0
 commands = []
 
@@ -151,14 +151,14 @@ puts "did all commands, count is #{count}"
 
 => count is initially 0
 => did all commands, count is 10
-{% endhighlight %}
+```
 
 
 #### Strategy Pattern
 
 Define a family of interchangeable algorithms.
 
-{% highlight ruby %}
+```ruby
 calc_mult = ->(n, m) { n * m }
 calc_adds = lambda do |n, m|
   result = 0
@@ -170,32 +170,32 @@ calc_strategies = [calc_mult, calc_adds]
 calc_strategies.each do |calc|
   assert 10 == calc.call(5, 2)
 end
-{% endhighlight %}
+```
 
 
 #### Factory Pattern
 
 Abstract the object creation process (currying as a function factory).
 
-{% highlight ruby %}
+```ruby
 adder = ->(x, y) { x + y }.curry
 incrementer = adder.call(1)
 
 assert 5 == incrementer.call(4)
-{% endhighlight %}
+```
 
 
 #### Method Combination
 
 Build a method from components.
 
-{% highlight ruby %}
+```ruby
 sum = ->(collection) { collection.inject(:+) }
 first2 = ->(collection) { collection.take(2) }
 take2_and_add = ->(collection) { sum.call(first2.call(collection)) }
 
 assert 3 == take2_and_add.call([1, 2, 3, 4, 5])
-{% endhighlight %}
+```
 
 
 #### Closure Composition
@@ -203,7 +203,7 @@ assert 3 == take2_and_add.call([1, 2, 3, 4, 5])
 Ruby doesn't have closure composition that I'd liked to have in my previous
 example.
 
-{% highlight ruby %}
+```ruby
 class Proc
   def >>(f)
     ->(*args) { f.call(self.call(*args)) }
@@ -215,7 +215,7 @@ first2 = ->(collection) { collection.take(2) }
 take2_and_add = first2 >> sum
 
 assert 3 == take2_and_add.call([1, 2, 3, 4, 5])
-{% endhighlight %}
+```
 
 
 [1]: /closure-design-patterns

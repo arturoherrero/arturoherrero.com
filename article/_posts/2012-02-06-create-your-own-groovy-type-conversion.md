@@ -11,17 +11,17 @@ object's data type into another.
 
 I'm sure you are familiar with this code that converts a String to an Integer.
 
-{% highlight groovy %}
+```groovy
 def number = (Integer)'1'
 def number = '1'.toInteger()
 def number = '1' as Integer
-{% endhighlight %}
+```
 
 If I want to convert the type of my own objects, I need to create a method to
 achieve this goal. I copy object properties to another object in a generic way;
 if a property exists on target object, I copy it from the source object.
 
-{% highlight groovy %}
+```groovy
 class User {
     String name
     String city
@@ -47,28 +47,28 @@ class AdminUser {
     String city
     Integer age
 }
-{% endhighlight %}
+```
 
 Now I can do something like this:
 
-{% highlight groovy %}
+```groovy
 adminUser = user.toAdminUser()
-{% endhighlight %}
+```
 
 
 ### Type conversion, the fancy way
 
 Great, but I want to use this fancy way to coerce one type to another:
 
-{% highlight groovy %}
+```groovy
 adminUser = user as AdminUser
-{% endhighlight %}
+```
 
 Simple, [Groovy supports operator overloading][1]{:target="_blank"} and
 creating your own type conversion is really easy: we can override the
 [asType() method][2]{:target="_blank"}.
 
-{% highlight groovy %}
+```groovy
 class User {
     String name
     String city
@@ -93,7 +93,7 @@ class User {
         }
     }
 }
-{% endhighlight %}
+```
 
 
 [1]: http://groovy.codehaus.org/Operator+Overloading

@@ -14,13 +14,13 @@ A read–eval–print loop (REPL) is an interactive environment that takes user
 inputs, evaluates them, and returns the result to the user. A simple
 REPL to evaluate single valid lines of Ruby code, could be something like this:
 
-{% highlight ruby %}
+```ruby
 loop do
   print "ruby> "
   input = gets
   puts "=> #{eval(input)}"
 end
-{% endhighlight %}
+```
 
 I started to play with this idea and finally I build YARR that is a command-line
 application which allows easy access to evaluate Ruby expressions, define classes
@@ -44,18 +44,18 @@ That's correct if we use the usual way of defining new methods with `def`,
 however there seems to be no restrictions on what can be used if we use
 `define_method` <sup>[[code][8]{:target="_blank"}]</sup>.
 
-{% highlight ruby %}
+```ruby
 define_method("!") do |args|
   `#{args}`
 end
-{% endhighlight %}
+```
 
 #### 2. Capture STDOUT
 
 It's possible to redirect the standard output or store it into a variable. I
 captured the STDOUT for a block of code and then restore it <sup>[[code][9]{:target="_blank"}]</sup>.
 
-{% highlight ruby %}
+```ruby
 def capture_stdout(&block)
   stdout = $stdout
   $stdout = StringIO.new
@@ -63,7 +63,7 @@ def capture_stdout(&block)
 ensure
   $stdout = stdout
 end
-{% endhighlight %}
+```
 
 #### 3. Arrange-Act-Assert pattern
 
@@ -77,13 +77,13 @@ these functional sections <sup>[[code][10]{:target="_blank"}]</sup>:
 - Act on the object or method under test (`given`).
 - Assert that the expected results have occurred (`expect`).
 
-{% highlight ruby %}
+```ruby
 it "executes multiline line declaration and invocation" do
   setup("def foo", "1", "end")
   given("foo")
   expect(interpreter.call).to eq("\e[1m===>\e[0m 1")
 end
-{% endhighlight %}
+```
 
 
 [1]: https://github.com/arturoherrero/yarr/
