@@ -94,7 +94,7 @@ for (i in 1..100) { println "${i%3?'':'Fizz'}${i%5?'':'Buzz'}" ?: i }
 [Ruby]: http://programmingzen.com/2011/06/02/10-ruby-one-liners-to-impress-your-friends/
 [Python]: http://codeblog.dhananjaynene.com/2011/06/10-python-one-liners-to-impress-your-friends/
 [Haskell]: http://blog.fogus.me/2011/06/03/10-haskell-one-liners-to-impress-your-friends/
-[Clojure]: http://freegeek.in/blog/2011/06/10-clojure-one-liners/
+[Clojure]: https://gist.github.com/klang/1007697
 [C#]: https://gist.github.com/1004837
 [F#]: http://willwhim.wpengine.com/2011/06/02/fsharp-one-liners-to-impress-your-friends/
 
