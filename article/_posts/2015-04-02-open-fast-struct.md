@@ -3,15 +3,14 @@ layout: post
 title: OpenFastStruct
 ---
 
-I have built a new Ruby gem after [YARR][1].
+After having a lot of fun building [YARR][1], I have built a a new Ruby gem.
 
-Introducing **[OpenFastStruct][2]{:target="_blank"}**. OpenFastStruct is a
+**[OpenFastStruct][2]{:target="_blank"}** is a
 data structure, similar to an OpenStruct, that allows the definition of
 arbitrary attributes with their accompanying values. It benchmarks ~3x slower
 than a Hash, but **it's ~4x faster than OpenStruct**.
 
-The project became very popular and a GitHub Ruby trending repository during two
-days because it was featured in [issue #239 of Ruby Weekly newsletter][3]{:target="_blank"}.
+The project was featured on [issue #239 of Ruby Weekly newsletter][3]{:target="_blank"} and was a Ruby trending repository on GitHub for two days.
 
 
 ### Examples
@@ -32,7 +31,7 @@ puts person.address  # -> #<OpenFastStruct>
 
 #### Initialize and update from a Hash
 
-An OpenFastStruct employs a Hash internally to store the methods and values and
+An OpenFastStruct uses a Hash internally to store the methods and values, and
 can even be initialized or updated with one:
 
 ```ruby
@@ -48,8 +47,8 @@ puts person.age   # -> 70
 
 #### Remove attributes
 
-Removing the presence of a method requires the execution the `#delete_field`
-method as setting the property value to a new empty OpenFastStruct.
+Removing the presence of a method requires the execution of the `#delete_field`
+method, which sets the property value to a new empty OpenFastStruct.
 
 ```ruby
 require "ofstruct"

@@ -3,11 +3,11 @@ layout: post
 title: Intercept-Cache-Invoke Pattern
 ---
 
-The first time that I heard about the **Intercept-Cache-Invoke pattern** was from
-Graeme Rocher when he implemented the dynamic finders on Grails.
+I heard about the **Intercept-Cache-Invoke pattern** for the first time from
+Graeme Rocher; he was explaining how he had implemented the dynamic finders on Grails.
 
-The idea is to dynamically figure out the behaviour for methods upon invocation,
-so we can create new methods with flexible and dynamic names *on-the-fly*.
+The idea is to dynamically figure out the behaviour for methods upon invocation
+so that we can create new methods with flexible and dynamic names *on-the-fly*.
 
 A synthesized method may not exist as a separate method until we call it. When
 we call a nonexistent method, we can intercept the call, allow our
@@ -15,7 +15,7 @@ application to implement it on the fly, let us cache that implementation for
 future invocation, and then invoke it. The first call takes performance hit but
 next calls are faster.
 
-- Bonus: [Enrique García][2]{:target="_blank"} pointed out to me that is a good idea to
+- Bonus: [Enrique García][2]{:target="_blank"} pointed out to me that it's a good idea to
 define `respond_to_missing?` when overriding `method_missing` <sup>[[thoughtbot][3]{:target="_blank"}]</sup>.
 
 ```ruby
@@ -79,9 +79,9 @@ end
 ### Benchmark
 
 It benchmarks about ~2.5x to ~4.5x faster than the method missing version. The
-result depends on how is the implementation of the solution. For example, here
-we are using a block to cache and invoke new methods. Blocks are slow and also
-the performance depends if we use `block.call` or just `yield`
+result depends on how the solution has been implemented. For example, here
+we are using a block to cache and invoke new methods. Blocks are slow, and their
+performance depends on whether we use `block.call` or just `yield`
 <sup>[[benchmark][1]{:target="_blank"}]</sup>.
 
     Calculating -------------------------------------

@@ -3,7 +3,7 @@ layout: post
 title: YARR. Yet Another Ruby REPL
 ---
 
-**[YARR (Yet Another Ruby REPL)][1]{:target="_blank"}** is a Ruby REPL (just a hobby, won't be big and
+**[YARR (Yet Another Ruby REPL)][1]{:target="_blank"}** is a Ruby REPL (it's just a hobby, it won't be big and
 professional like Pry). YARR was inspired by groovysh<sup>[1][2]{:target="_blank"}</sup>,
 IRB<sup>[2][3]{:target="_blank"}</sup>, Pry<sup>[3][4]{:target="_blank"}</sup>, Bash
 <sup>[4][5]{:target="_blank"}</sup> and Vim<sup>[5][6]{:target="_blank"}</sup>.
