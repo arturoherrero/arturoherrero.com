@@ -3,7 +3,7 @@ layout: post
 title: OpenFastStruct
 ---
 
-After having a lot of fun building [YARR][1], I have built a a new Ruby gem.
+After having a lot of fun building [YARR][1], I have built a new Ruby gem.
 
 **[OpenFastStruct][2]{:target="_blank"}** is a
 data structure, similar to an OpenStruct, that allows the definition of
