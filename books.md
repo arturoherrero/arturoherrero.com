@@ -20,7 +20,11 @@ I love reading. This is the complete list of all books that I read in my life.
 9. Metaprogramming Ruby 2. *Paolo Perrotta*
 10. Antifragile. *Nassim Nicholas Taleb*
 11. Programming Elixir. *Dave Thomas*
-12. ...
+12. Thinkertoys. *Michael Michalko*
+13. Fahrenheit 451. *Ray Bradbury*
+14. Cambia el chip. *Chip Heath & Dan Heath*
+15. Growing Object-Oriented Software, Guided by Tests. *Steve Freeman & Nat Pryce*
+16. ...
 
 
 ### 2015
