@@ -4,7 +4,8 @@ title: Powercore
 ---
 
 During the last few weeks I have been working on **[PowerCore][1]{:target="_blank"}**,
-which extends the Ruby Core with useful extensions.
+which extends the Ruby Core with useful extensions. This project
+was featured in [issue #293 of Ruby Weekly newsletter][4]{:target="_blank"}.
 
 There are Ruby gems that do something similar, such as
 [ActiveSuppor Core Extensions][2]{:target="_blank"} or [Powerpack][3]{:target="_blank"}.
@@ -41,3 +42,4 @@ that you consider useful, but be careful;
 [1]: https://github.com/arturoherrero/powercore
 [2]: http://edgeguides.rubyonrails.org/active_support_core_extensions.html
 [3]: https://github.com/bbatsov/powerpack
+[4]: http://rubyweekly.com/issues/293
