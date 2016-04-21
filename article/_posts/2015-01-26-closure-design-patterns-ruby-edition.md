@@ -20,7 +20,7 @@ end
 
 #### Execute Around Method
 
-A pair of operation that needs to be performed before and after operations.
+A pair of operations that needs to be performed before and after operations.
 
 ```ruby
 def operations(&block)
@@ -39,7 +39,7 @@ operations { puts "Operation" }
 
 #### Pluggable Behavior
 
-Specify the behavior of an object at runtime.
+Specifies the behavior of an object at runtime.
 
 ```ruby
 def select_values(number, &block)
@@ -81,7 +81,7 @@ end
 
 #### Dynamical Conditional Execution
 
-Create and execute a conditional operation.
+Creates and executes a conditional operation.
 
 ```ruby
 def greet(user, success_block, fail_block)
@@ -98,7 +98,7 @@ greet(user, -> { puts "Hi Admin!" }, -> { puts "Hello User" })
 
 #### Template Method Pattern
 
-Define common algorithm steps (getting a customer) and customizations (passed
+Defines common algorithm steps (getting a customer) and customizations (passed
 as a block).
 
 ```ruby
@@ -133,7 +133,7 @@ end
 
 #### Command Design Pattern
 
-Encapsulate all the information needed to call a method at a later time.
+Encapsulates all the information needed to call a method at a later time.
 
 ```ruby
 count = 0
@@ -156,7 +156,7 @@ puts "did all commands, count is #{count}"
 
 #### Strategy Pattern
 
-Define a family of interchangeable algorithms.
+Defines a family of interchangeable algorithms.
 
 ```ruby
 calc_mult = ->(n, m) { n * m }
@@ -175,7 +175,7 @@ end
 
 #### Factory Pattern
 
-Abstract the object creation process (currying as a function factory).
+Abstracts the object creation process (currying as a function factory).
 
 ```ruby
 adder = ->(x, y) { x + y }.curry
@@ -187,7 +187,7 @@ assert 5 == incrementer.call(4)
 
 #### Method Combination
 
-Build a method from components.
+Builds a method from components.
 
 ```ruby
 sum = ->(collection) { collection.inject(:+) }
@@ -200,8 +200,8 @@ assert 3 == take2_and_add.call([1, 2, 3, 4, 5])
 
 #### Closure Composition
 
-Ruby doesn't have closure composition that I'd liked to have in my previous
-example.
+Since Ruby doesn't have closure composition I'd like to update my previous
+example with it.
 
 ```ruby
 class Proc
