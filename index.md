@@ -3,27 +3,24 @@ layout: default
 redirect_from: /about/
 ---
 
-## Software Development & Stuff
+Hello! I'm Arturo. I write code and I live in London.
 
-I am a software engineer living in London, United Kingdom. I work at [Mastered][1]{:target="_blank"}.
+## Software Development
 
-I seek excellence in everything I do. I share my passion for programming, ideas
-and practices, attention to detail, and self improvement with those around me.
-I treat programming like a craft, code cleanly, and continue to better myself
-all the time. Crafting a great product or service starts with a deep
-understanding of the business and the context around it.
+Software is my craft.
 
-I am constantly looking for better ways to develop software. I believe that
-continuous learning is a core skill everyone should have. I love developing
-software but I can not just be a programmer anymore. I am currently working on
-expanding my skill set to include product and user experiences, design, and
-other areas. To improve my craft, I need to understand the whole.
+I've written a lot of code in Ruby and Groovy, and I'm working to deepen my
+knowledge in functional languages.
+
+As a software engineer I seek excellence in everything I do. I share my passion
+for programming, ideas and practices, attention to detail, and self improvement
+with those around me.
 
 
-### Personal projects
+## Projects
 
 I love open source and I'm continually learning and working in personal projects.
-Check out my [GitHub account][2]{:target="_blank"} to see what I have been hacking on lately.
+Check out my [GitHub account][2]{:target="_blank"} to see what I've been hacking on lately.
 
 - [iShows][8] is an iPhone app to managing TV shows.
 - [Project 365][9]{:target="_blank"} one picture a day, for a whole year.
@@ -39,6 +36,11 @@ I publish articles from time to time, you can see the complete [articles archive
 I'm [@ArturoHerrero][4]{:target="_blank"} at Twitter.
 
 
+## Reading
+
+Reading is one of my passions. I keep a [list of the books I read][7].
+
+
 ## Writing
 
 I wrote a book about Markdown with Packt Publishing: [Instant Markdown][5]{:target="_blank"}.
@@ -47,11 +49,6 @@ I wrote a book about Markdown with Packt Publishing: [Instant Markdown][5]{:targ
 ## Presenting
 
 Occasionally, I speak at conferences. See my [talks page][6].
-
-
-## Reading
-
-Reading is one of my passions. I keep a [list of the books I read][7].
 
 
 ## Contact
