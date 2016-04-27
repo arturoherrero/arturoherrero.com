@@ -9,51 +9,50 @@ Hello! I'm Arturo. I write code and I live in London.
 
 Software is my craft.
 
-I've written a lot of code in Ruby and Groovy, and I'm working to deepen my
+I've written a lot of code in Ruby and Groovy, and I'm working on deepening my
 knowledge in functional languages.
 
-As a software engineer I seek excellence in everything I do. I share my passion
-for programming, ideas and practices, attention to detail, and self improvement
-with those around me.
+I strive for excellence and share my passion for programming, ideas and
+practices with those around me.
 
 
 ## Projects
 
-I love open source and I'm continually learning and working in personal projects.
+I love open source and I'm continually learning and working on personal projects.
 Check out my [GitHub account][2]{:target="_blank"} to see what I've been hacking on lately.
 
-- [iShows][8] is an iPhone app to managing TV shows.
-- [Project 365][9]{:target="_blank"} one picture a day, for a whole year.
+- [iShows][8] is an iPhone app design to track TV shows.
+- [Project 365][9]{:target="_blank"}: I take a photo everyday, for a whole year.
 
 
 ## Articles
 
-I publish articles from time to time, you can see the complete [articles archive][3].
+I publish articles from time to time, which you will find on the [archive][3].
 
 
 ## Life Streaming
 
-I'm [@ArturoHerrero][4]{:target="_blank"} at Twitter.
+I'm [@ArturoHerrero][4]{:target="_blank"} on Twitter.
 
 
 ## Reading
 
-Reading is one of my passions. I keep a [list of the books I read][7].
+Reading is one of my passions, and I keep a [list of the books I read][7].
 
 
 ## Writing
 
-I wrote a book about Markdown with Packt Publishing: [Instant Markdown][5]{:target="_blank"}.
+I wrote a book about Markdown, published by Packt Publishing: *[Instant Markdown][5]{:target="_blank"}*.
 
 
 ## Presenting
 
-Occasionally, I speak at conferences. See my [talks page][6].
+Occasionally, I speak at conferences. You will find more information on my [talks page][6].
 
 
 ## Contact
 
-Need to get in touch? Please, feel free to contact me at *<arturo.herrero@gmail.com>*.
+Want to get in touch? Email me at *<arturo.herrero@gmail.com>*.
 
 
 [1]: https://www.mastered.com/
