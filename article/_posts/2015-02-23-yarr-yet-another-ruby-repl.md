@@ -88,7 +88,7 @@ end
 
 [1]: https://github.com/arturoherrero/yarr/
 [2]: http://groovy-lang.org/groovysh.html
-[3]: http://ruby-doc.org/stdlib-2.2.0/libdoc/irb/rdoc/IRB.html
+[3]: http://ruby-doc.org/stdlib/libdoc/irb/rdoc/IRB.html
 [4]: http://pryrepl.org/
 [5]: http://www.gnu.org/software/bash/
 [6]: http://www.vim.org/
