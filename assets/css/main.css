@@ -164,3 +164,26 @@ footer {
   border-style: inherit;
   width: 731px;
 }
+
+.photos h3 {
+  margin-top: 30px;
+  font-size: 36px;
+}
+
+.photos a:hover {
+  text-decoration: none;
+}
+
+.photos .date {
+  margin-top: -15px;
+}
+
+.photos .one a {
+  color: inherit;
+}
+
+.photos img:hover {
+  filter: url(filters.svg#grayscale); /* Firefox 3.5+ */
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome & Safari 6+ */
+}

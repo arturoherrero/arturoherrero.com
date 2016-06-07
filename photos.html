@@ -1,0 +1,26 @@
+---
+layout: default
+title: Photos
+permalink: /photos/
+---
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="/assets/js/infinite-jekyll.js"></script>
+
+<div class="photos">
+  <h2>Photos</h2>
+
+  <div class="post-list">
+    {% for post in site.categories.photo limit: 10 %}
+      <div class="post">
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p class="date">{{ post.date | date: "%d %B %Y" }}</p>
+        {{ post.content }}
+      </div>
+    {% endfor %}
+  </div>
+  <div class="infinite-spinner">
+    <div class="sk-child sk-double-bounce1"></div>
+    <div class="sk-child sk-double-bounce2"></div>
+  </div>
+</div>

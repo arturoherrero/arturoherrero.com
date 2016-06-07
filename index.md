@@ -22,7 +22,6 @@ I love open source and I'm continually learning and working on personal projects
 Check out my [GitHub account][2]{:target="_blank"} to see what I've been hacking on lately.
 
 - [iShows][8] is an iPhone app design to track TV shows.
-- [Project 365][9]{:target="_blank"}: I take a photo everyday, for a whole year.
 
 
 ## Articles
@@ -33,6 +32,11 @@ I publish articles from time to time, which you will find on the [archive][3].
 ## Life Streaming
 
 I'm [@ArturoHerrero][4]{:target="_blank"} on Twitter.
+
+
+## Photos
+
+I take [snapshots][9] because I can save a moment for life.
 
 
 ## Reading
@@ -63,4 +67,4 @@ Want to get in touch? Email me at *<arturo.herrero@gmail.com>*.
 [6]: /talks
 [7]: /books
 [8]: /ishows
-[9]: http://theyearwemet.com/365/
+[9]: /photos
