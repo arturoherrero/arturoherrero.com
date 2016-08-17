@@ -25,7 +25,11 @@ I love reading. This is the complete list of all books that I read in my life.
 14. Cambia el chip. *Chip Heath & Dan Heath*
 15. Growing Object-Oriented Software, Guided by Tests. *Steve Freeman & Nat Pryce*
 16. Sapiens. *Yuval Noah Harari*
-17. ...
+17. La pizarra de Juan Ramón Rallo. *Juan Ramón Rallo*
+18. The Great Gatsby. *F. Scott Fitzgerald*
+19. Nadie es perfecto. *Hellmuth Karasek*
+20. Butterick's Practical Typography. *Matthew Butterick*
+21. ...
 
 
 ### 2015
