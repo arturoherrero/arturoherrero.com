@@ -8,6 +8,11 @@ permalink: /books/
 
 I love reading. This is the complete list of all books that I read in my life.
 
+### 2017
+
+1. Kanban. *David J. Anderson*
+
+
 ### 2016
 1. Ruby Cookbook. *Lucas Carlson & Leonard Richardson*
 2. 344 Questions. *Stefan G. Bucher*
