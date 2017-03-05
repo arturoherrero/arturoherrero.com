@@ -11,6 +11,13 @@ I love reading. This is the complete list of all books that I read in my life.
 ### 2017
 
 1. Kanban. *David J. Anderson*
+2. Barba Azul. *Amélie Nothomb*
+3. Momentos de inadvertida felicidad. *Francesco Piccolo*
+4. The Daily Stoic. *Ryan Holiday & Stephen Hanselman*
+5. Don Quijote de la Mancha. *Miguel de Cervantes Saavedra*
+6. The Art of Empathy. *Karla McLaren*
+7. Introducing Psychology. *Nigel C. Benson*
+8. The Rough Guide to 21st Century Cinema. *Adam Nickle Smith*
 
 
 ### 2016
