@@ -29,14 +29,10 @@ BKOOL: The evolution of an agile project. I was presenting with
 - #### Agile Madrid User Group. *May 2011*
 [Clean Code][5] a great book of Robert C. Martin.
 
-- #### Pecha Kucha Night. *Feb 2011*
-A simple idea: 15 images x 20 seconds. The slides [here][6]{:target="_blank"}.
-
 
 [1]: /command-line-one-liners/
 [2]: /polyglot-programming/
 [3]: /functional-programming-with-groovy/
 [4]: http://grysz.com/
 [5]: /clean-code/
-[6]: http://www.slideshare.net/arturoherrero/15-en-5
 [7]: /agile-for-non-developers/
