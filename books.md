@@ -18,6 +18,13 @@ I love reading. This is the complete list of all books that I read in my life.
 6. The Art of Empathy. *Karla McLaren*
 7. Introducing Psychology. *Nigel C. Benson*
 8. The Rough Guide to 21st Century Cinema. *Adam Nickle Smith*
+9. El primer trago de cerveza y otros pequeños placeres de la vida. *Philippe Delerm*
+10. La curación por el espíritu (Mesmer, Baker-Eddy, Freud). *Stefan Zweig*
+11. El hombre que pudo reinar. *Rudyard Kipling*
+12. 50 cosas que hay que saber sobre filosofía. *Ben Dupré*
+13. Las ciudades invisibles. *Italo Calvino*
+14. Si una noche de invierno un viajero. *Italo Calvino*
+15. Managing Humans. *Michael Lopp*
 
 
 ### 2016
