@@ -25,6 +25,11 @@ I love reading. This is the complete list of all books that I read in my life.
 13. Las ciudades invisibles. *Italo Calvino*
 14. Si una noche de invierno un viajero. *Italo Calvino*
 15. Managing Humans. *Michael Lopp*
+16. Great Maps. *Jerry Brotton*
+17. La cultura. *Dietrich Schwanitz*
+18. Building Microservices. *Sam Newman*
+19. Como la iglesia construyo la civilizacion occidental. *Thomas E. Woods*
+20. Programming Phoenix. *Chris McCord, Bruce Tate & José Valim*
 
 
 ### 2016
