@@ -21,7 +21,7 @@ practices with those around me.
 I love open source and I'm continually learning and working on personal projects.
 Check out my [GitHub account][2]{:target="_blank"} to see what I've been hacking on lately.
 
-- [iShows][8] is an iPhone app design to track TV shows.
+- [iShows][8] is an iPhone app designed to track TV shows.
 
 
 ## Articles
