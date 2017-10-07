@@ -30,6 +30,17 @@ I love reading. This is the complete list of all books that I read in my life.
 18. Building Microservices. *Sam Newman*
 19. Como la iglesia construyo la civilizacion occidental. *Thomas E. Woods*
 20. Programming Phoenix. *Chris McCord, Bruce Tate & José Valim*
+21. La importancia de llamarse Ernesto. *Oscar Wilde*
+22. Dracula. *Bram Stoker*
+23. La libertad y la ley. *Bruno Leoni*
+24. El porqué de las cosas. *Quim Monzó*
+25. Una pequeña historia de la filosofía. *Nigel Warburton*
+26. La mujer justa. *Sándor Márai*
+27. Lo esencial de Mises. *Murray N. Rothbard*
+28. Autobiografía y otros escritos. *Benjamin Franklin*
+29. The Sketchnote Handbook. *Mike Rohde*
+30. ¿Me hablas a mí? La retórica, de Aristóteles a Obama. *Sam Leith*
+31. El emperador de todos los males: una biografía del cáncer. *Siddhartha Mukherjee*
 
 
 ### 2016
@@ -149,7 +160,7 @@ I love reading. This is the complete list of all books that I read in my life.
 24. Más allá de la democracia. *Frank Karsten & Karel Beckman*
 25. La maquinaria de la libertad. *David Friedman*
 26. Seductor. *Egoland*
-27. Hacia una nueva libertad. El manifiesto libertario. *Murray Rothbard*
+27. Hacia una nueva libertad. El manifiesto libertario. *Murray N. Rothbard*
 28. Aprendiendo de los mejores. *Francisco Alcaide Hernández*
 29. Defendiendo lo indefendible. *Walter Block*
 30. Vender es humano. *Daniel H. Pink*
@@ -409,6 +420,7 @@ I love reading. This is the complete list of all books that I read in my life.
 * El mundo de ayer: Memorias de un europeo. *Stefan Zweig*
 * Veinticuatro horas en la vida de una mujer. *Stefan Zweig*
 * Carta de una desconocida. *Stefan Zweig*
+* Los ojos del hermano eterno. *Stefan Zweig*
 * Los pilares de la tierra. *Ken Follett*
 * Siddhartha. *Hermann Hesse*
 * El poder del ahora. *Eckart Tolle*
@@ -429,7 +441,7 @@ I love reading. This is the complete list of all books that I read in my life.
 * El caso de Farrier’s Lane. *Anne Perry*
 * El último Catón. *Matilde Asensi*
 * El jardinero fiel. *John Le Carré*
-* Don Quijote de la Mancha. *Cervantes*
+* Don Quijote de la Mancha. *Miguel de Cervantes Saavedra*
 * Un mundo feliz. *Aldous Huxley*
 * Historia del tiempo. *Stephen W. Hawking*
 * Mi vuelta a la vida. *Lance Armstrong*
@@ -445,16 +457,15 @@ I love reading. This is the complete list of all books that I read in my life.
 * Diario. *Ana Frank*
 * La colmena. *Camilo José Cela*
 * ¿Quién se ha llevado mi queso? *Spencer Johnson*
-* Los ojos del hermano eterno. *Stefan Zweig*
 * El código Da Vinci. *Dan Brown*
 * Camino al futuro. *Bill Gates*
+* La catedral y el bazar. *Eric S. Raymond*
 * Rastros de nadie. *Francisco Solano*
 * Bajo las nubes de Mexico. *Francisco Solano*
 * Desarrolla una mente prodigiosa. *Ramón Campayo*
 * Funky Business. *Jonas Ridderstrale, Kjell Nordström*
 * Cuentos para pensar. *Jorge Bucay*
 * Asesinato en el Orient Express. *Agatha Christie*
-* La catedral y el bazar. *Eric S. Raymond*
 * La sombra del viento. *Carlos Ruiz Zafón*
 * El Palacio de la Luna. *Paul Auster*
 * La ética del hacker. *Pekka Himanen*
