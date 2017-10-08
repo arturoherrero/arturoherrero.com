@@ -62,10 +62,10 @@ I try to summarize a few ideas from the book:
 
 I did a talk at the Agile Madrid User Group about this book.
 
-<div style="width:595px; margin:auto" id="__ss_8036914"> <iframe
-src="http://www.slideshare.net/slideshow/embed_code/8036914" width="595"
-height="443" frameborder="0" marginwidth="0" marginheight="0"
-scrolling="no"></iframe> </div>
+<div style="width:700px; margin:auto"> <iframe
+src="http://www.slideshare.net/slideshow/embed_code/8036914" width="700"
+height="505" frameborder="0" marginwidth="0" marginheight="0"
+scrolling="no" allowfullscreen></iframe> </div>
 
 
 [1]: https://www.pearson.com/us/higher-education/program/Martin-Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/PGM63937.html
