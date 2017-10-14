@@ -34,11 +34,6 @@ I publish articles from time to time, which you will find on the [archive][3].
 I'm [@ArturoHerrero][4]{:target="_blank"} on Twitter.
 
 
-## Photos
-
-I take [snapshots][9] because I can save a moment for life.
-
-
 ## Reading
 
 Reading is one of my passions, and I keep a [list of the books I read][7].
@@ -67,4 +62,3 @@ Want to get in touch? Email me at *<arturo.herrero@gmail.com>*.
 [6]: /talks
 [7]: /books
 [8]: /ishows
-[9]: /photos
