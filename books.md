@@ -12,35 +12,38 @@ I love reading. This is the complete list of all books that I read in my life.
 
 1. Kanban. *David J. Anderson*
 2. Barba Azul. *Amélie Nothomb*
-3. Momentos de inadvertida felicidad. *Francesco Piccolo*
-4. The Daily Stoic. *Ryan Holiday & Stephen Hanselman*
-5. Don Quijote de la Mancha. *Miguel de Cervantes Saavedra*
-6. The Art of Empathy. *Karla McLaren*
-7. Introducing Psychology. *Nigel C. Benson*
-8. The Rough Guide to 21st Century Cinema. *Adam Nickle Smith*
-9. El primer trago de cerveza y otros pequeños placeres de la vida. *Philippe Delerm*
-10. La curación por el espíritu (Mesmer, Baker-Eddy, Freud). *Stefan Zweig*
-11. El hombre que pudo reinar. *Rudyard Kipling*
-12. 50 cosas que hay que saber sobre filosofía. *Ben Dupré*
-13. Las ciudades invisibles. *Italo Calvino*
-14. Si una noche de invierno un viajero. *Italo Calvino*
-15. Managing Humans. *Michael Lopp*
-16. Great Maps. *Jerry Brotton*
-17. La cultura. *Dietrich Schwanitz*
-18. Building Microservices. *Sam Newman*
-19. Como la iglesia construyo la civilizacion occidental. *Thomas E. Woods*
-20. Programming Phoenix. *Chris McCord, Bruce Tate & José Valim*
-21. La importancia de llamarse Ernesto. *Oscar Wilde*
-22. Dracula. *Bram Stoker*
-23. La libertad y la ley. *Bruno Leoni*
-24. El porqué de las cosas. *Quim Monzó*
-25. Una pequeña historia de la filosofía. *Nigel Warburton*
-26. La mujer justa. *Sándor Márai*
-27. Lo esencial de Mises. *Murray N. Rothbard*
-28. Autobiografía y otros escritos. *Benjamin Franklin*
-29. The Sketchnote Handbook. *Mike Rohde*
-30. ¿Me hablas a mí? La retórica, de Aristóteles a Obama. *Sam Leith*
-31. El emperador de todos los males: una biografía del cáncer. *Siddhartha Mukherjee*
+3. Homo Deus: Breve historia del mañana. *Yuval Noah Harari*
+4. Momentos de inadvertida felicidad. *Francesco Piccolo*
+5. The Daily Stoic. *Ryan Holiday & Stephen Hanselman*
+6. Don Quijote de la Mancha. *Miguel de Cervantes Saavedra*
+7. The Art of Empathy. *Karla McLaren*
+8. Introducing Psychology. *Nigel C. Benson*
+9. The Rough Guide to 21st Century Cinema. *Adam Nickle Smith*
+10. El primer trago de cerveza y otros pequeños placeres de la vida. *Philippe Delerm*
+11. La curación por el espíritu (Mesmer, Baker-Eddy, Freud). *Stefan Zweig*
+12. El hombre que pudo reinar. *Rudyard Kipling*
+13. 50 cosas que hay que saber sobre filosofía. *Ben Dupré*
+14. Las ciudades invisibles. *Italo Calvino*
+15. Si una noche de invierno un viajero. *Italo Calvino*
+16. Managing Humans. *Michael Lopp*
+17. Great Maps. *Jerry Brotton*
+18. La cultura. *Dietrich Schwanitz*
+19. Building Microservices. *Sam Newman*
+20. Como la iglesia construyo la civilizacion occidental. *Thomas E. Woods*
+21. Programming Phoenix. *Chris McCord, Bruce Tate & José Valim*
+22. La importancia de llamarse Ernesto. *Oscar Wilde*
+23. Dracula. *Bram Stoker*
+24. La libertad y la ley. *Bruno Leoni*
+25. El porqué de las cosas. *Quim Monzó*
+26. Una pequeña historia de la filosofía. *Nigel Warburton*
+27. La mujer justa. *Sándor Márai*
+28. Lo esencial de Mises. *Murray N. Rothbard*
+29. Autobiografía y otros escritos. *Benjamin Franklin*
+30. The Sketchnote Handbook. *Mike Rohde*
+31. ¿Me hablas a mí? La retórica, de Aristóteles a Obama. *Sam Leith*
+32. El emperador de todos los males: una biografía del cáncer. *Siddhartha Mukherjee*
+33. The Movie Book. *DK Publishing*
+34. Homo Ludens. *Johan Huizinga*
 
 
 ### 2016
@@ -59,7 +62,7 @@ I love reading. This is the complete list of all books that I read in my life.
 13. Fahrenheit 451. *Ray Bradbury*
 14. Cambia el chip. *Chip Heath & Dan Heath*
 15. Growing Object-Oriented Software, Guided by Tests. *Steve Freeman & Nat Pryce*
-16. Sapiens. *Yuval Noah Harari*
+16. Sapiens. De animales a dioses: Una breve historia de la humanidad. *Yuval Noah Harari*
 17. La pizarra de Juan Ramón Rallo. *Juan Ramón Rallo*
 18. The Great Gatsby. *F. Scott Fitzgerald*
 19. Nadie es perfecto. *Hellmuth Karasek*
