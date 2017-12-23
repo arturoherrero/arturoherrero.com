@@ -9,7 +9,6 @@ permalink: /books/
 I love reading. This is the complete list of all books that I read in my life.
 
 ### 2017
-
 1. Kanban. *David J. Anderson*
 2. Barba Azul. *Amélie Nothomb*
 3. Homo Deus: Breve historia del mañana. *Yuval Noah Harari*
@@ -51,6 +50,16 @@ I love reading. This is the complete list of all books that I read in my life.
 39. Civilización: Occidente y el resto. *Niall Ferguson*
 40. 1001 Video Games You Must Play Before You Die. *Tony Mott*
 41. 1001 Ideas That Changed The Way We Think. *Robert Arp*
+42. La miseria del historicismo. *Karl R. Popper*
+43. Estupor y temblores. *Amélie Nothomb*
+44. La utilidad de lo inútil: Manifiesto. *Nuccio Ordine*
+45. Design It! From Programmer to Software Architect. *Michael Keeling*
+46. El epicureísmo. *Emilio Lledó*
+47. El gen: Una historia personal. *Siddhartha Mukherjee*
+48. Intertwingled: Information Changes Everything. *Peter Morville*
+49. Jugaban con serpientes. *Francisco Solano*
+50. Quiero ser arquitecto. *Alberto Campo Baeza*
+51. Montaigne. *Stefan Zweig*
 
 
 ### 2016
@@ -143,7 +152,6 @@ I love reading. This is the complete list of all books that I read in my life.
 
 
 ### 2014
-
 1. Meditaciones. *Marco Aurelio*
 2. Los tres hábitos que cambiarán tu vida. *Homo Minimus*
 3. Bitcoin: La moneda del futuro. *Bitcoin en Español*
@@ -188,7 +196,6 @@ I love reading. This is the complete list of all books that I read in my life.
 
 
 ### 2013
-
 1. La vida simple. *Yael Farache*
 2. Cine Negro. *Alain Silver*
 3. Implementation Patterns. *Kent Beck*
@@ -230,7 +237,6 @@ I love reading. This is the complete list of all books that I read in my life.
 
 
 ### 2012
-
 1. Pragmatic Thinking & Learning. *Andy Hunt*
 2. Una breve historia de casi todo. *Bill Bryson*
 3. Creía que mi padre era Dios. *Paul Auster*
@@ -276,7 +282,6 @@ I love reading. This is the complete list of all books that I read in my life.
 
 
 ### 2011
-
 1. Pragmatic Version Control: Using Subversion. *Mike Mason*
 2. Clean Code. *Robert C. Martin*
 3. Usted puede ser lo bueno que quiera ser. *Paul Arden*
@@ -328,7 +333,6 @@ I love reading. This is the complete list of all books that I read in my life.
 
 
 ### 2010
-
 1. ¿Existe la suerte? *Nassim Nicholas Taleb*
 2. Trampa 22. *Joseph Heller*
 3. Ansiedad por el estatus. *Alain de Botton*
@@ -368,7 +372,6 @@ I love reading. This is the complete list of all books that I read in my life.
 
 
 ### 2009
-
 1. Novela de ajedrez. *Stefan Zweig*
 2. La última lección. *Randy Pausch*
 3. Guía del autoestopista galáctico. *Douglas Adams*
@@ -399,7 +402,6 @@ I love reading. This is the complete list of all books that I read in my life.
 
 
 ### 2008
-
 1. El arte del mínimo esfuerzo. *Barbara Berckhan*
 2. El arte de la guerra. *Sun Tzu*
 3. Snow Crash. *Neal Stephenson*
@@ -425,7 +427,6 @@ I love reading. This is the complete list of all books that I read in my life.
 
 
 ### — 2007
-
 * Los tres mosqueteros. *Alexandre Dumas*
 * El mundo de ayer: Memorias de un europeo. *Stefan Zweig*
 * Veinticuatro horas en la vida de una mujer. *Stefan Zweig*
