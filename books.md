@@ -40,10 +40,10 @@ I love reading. This is the complete list of all books that I read in my life.
 29. Autobiografía y otros escritos. *Benjamin Franklin*
 30. The Sketchnote Handbook. *Mike Rohde*
 31. ¿Me hablas a mí? La retórica, de Aristóteles a Obama. *Sam Leith*
-32. El emperador de todos los males: una biografía del cáncer. *Siddhartha Mukherjee*
+32. El emperador de todos los males: Una biografía del cáncer. *Siddhartha Mukherjee*
 33. The Movie Book. *DK Publishing*
 34. Homo Ludens. *Johan Huizinga*
-35. The Life-Changing Magic of Not Giving a F**k. *Sarah Knight*
+35. The Life-Changing Magic of Not Giving a F\*\*k. *Sarah Knight*
 36. Thinking in Systems: A Primer. *Donella H. Meadows*
 37. Armas, gérmenes y acero. *Jared Diamond*
 38. Mendel el de los libros. *Stefan Zweig*
@@ -60,6 +60,8 @@ I love reading. This is the complete list of all books that I read in my life.
 49. Jugaban con serpientes. *Francisco Solano*
 50. Quiero ser arquitecto. *Alberto Campo Baeza*
 51. Montaigne. *Stefan Zweig*
+52. Cartas a su hijo. *Lord Chesterfield*
+53. Comer sin miedo: Mitos, falacias y mentiras sobre la alimentación en el siglo XXI. *J. M. Mulet*
 
 
 ### 2016
