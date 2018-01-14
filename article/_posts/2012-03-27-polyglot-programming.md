@@ -21,7 +21,7 @@ use to craft software. Just like regular engineers must understand the
 physical properties of different materials, we should understand the
 capabilities, strengths, and weaknesses of different languages. And when to
 apply them.  
-> ~Neal Ford
+> –Neal Ford
 
 
 ### Polyglot JVM
