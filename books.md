@@ -8,6 +8,13 @@ permalink: /books/
 
 I love reading. This is the complete list of all books that I read in my life.
 
+### 2018
+1. Saber comer. *Michael Pollan*
+2. Yo contengo multitudes: Los microbios que nos habitan y una visión más amplia de la vida. *Ed Yong*
+3. La isla misteriosa. *Jules Verne*
+4. Steal Like an Artist: 10 Things Nobody Told You About Being Creative. *Austin Kleon*
+
+
 ### 2017
 1. Kanban. *David J. Anderson*
 2. Barba Azul. *Amélie Nothomb*
