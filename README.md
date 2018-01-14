@@ -8,7 +8,7 @@ A [Jekyll][1] powered blog, hosted by [GitHub Pages][4] at http://arturoherrero.
 ## Setup
 
     $ bundle install
-    $ bundle exec jekyll server --incremental --future
+    $ bundle exec jekyll server --future
 
 ### Live reload
 
