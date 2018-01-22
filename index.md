@@ -26,7 +26,7 @@ Check out my [GitHub account][2]{:target="_blank"} to see what I've been hacking
 
 ## Articles
 
-I publish articles from time to time, which you will find on the [archive][3].
+I publish articles from time to time, which you will find on the [articles archive][3].
 
 
 ## Life Streaming
