@@ -13,6 +13,8 @@ I love reading. This is the complete list of all books that I read in my life.
 2. Yo contengo multitudes: Los microbios que nos habitan y una visión más amplia de la vida. *Ed Yong*
 3. La isla misteriosa. *Jules Verne*
 4. Steal Like an Artist: 10 Things Nobody Told You About Being Creative. *Austin Kleon*
+5. Cómo la vida imita al ajedrez. *Garry Kasparov*
+6. Smalltalk Best Practice Patterns. *Kent Beck*
 
 
 ### 2017
