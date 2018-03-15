@@ -15,6 +15,13 @@ I love reading. This is the complete list of all books that I read in my life.
 4. Steal Like an Artist: 10 Things Nobody Told You About Being Creative. *Austin Kleon*
 5. Cómo la vida imita al ajedrez. *Garry Kasparov*
 6. Smalltalk Best Practice Patterns. *Kent Beck*
+7. 12 Rules for Life: An Antidote to Chaos. *Jordan B. Peterson*
+8. Masa crítica: Cambio, caos y complejidad. *Philip Ball*
+9. SOA Patterns. *Arnon Rotem-Gal-Oz*
+10. Pons Asinorum. *Francisco Bernabé Durán*
+11. Impact Mapping: Making a big impact with software products and projects. *Gojko Adzic*
+12. Resistencia: Un año en el espacio. *Scott Kelly*
+13. Magallanes: El hombre y su gesta. *Stefan Zweig*
 
 
 ### 2017
