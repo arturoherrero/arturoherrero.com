@@ -22,6 +22,14 @@ I love reading. This is the complete list of all books that I read in my life.
 11. Impact Mapping: Making a big impact with software products and projects. *Gojko Adzic*
 12. Resistencia: Un año en el espacio. *Scott Kelly*
 13. Magallanes: El hombre y su gesta. *Stefan Zweig*
+14. Why Information Grows: The Evolution of Order, from Atoms to Economies. *César Hidalgo*
+15. El día enterrado. *Francisco Solano*
+16. La llamada de la tribu. *Mario Vargas Llosa*
+17. The Nature of Software Development. *Ron Jeffries*
+18. Skin in the Game: Hidden Asymmetries in Daily Life. *Nassim Nicholas Taleb*
+19. Complexity: A Very Short Introduction. *John H. Holland*
+20. The Bed of Procrustes: Philosophical and Practical Aphorisms. *Nassim Nicholas Taleb*
+21. Caos: La creación de una ciencia. *James Gleick*
 
 
 ### 2017
