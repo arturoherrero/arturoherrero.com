@@ -1,8 +1,8 @@
 # arturoherrero.com
 
-My personal blog.
+My personal website.
 
-A [Jekyll][1] powered blog, hosted by [GitHub Pages][4] at http://arturoherrero.com.
+A [Jekyll][1] powered website, hosted by [GitHub Pages][4] at https://arturoherrero.com.
 
 
 ## Setup
