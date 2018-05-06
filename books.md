@@ -30,6 +30,11 @@ I love reading. This is the complete list of all books that I read in my life.
 19. Complexity: A Very Short Introduction. *John H. Holland*
 20. The Bed of Procrustes: Philosophical and Practical Aphorisms. *Nassim Nicholas Taleb*
 21. Caos: La creación de una ciencia. *James Gleick*
+22. The Software Craftsman: Professionalism, Pragmatism, Pride. *Sandro Mancuso*
+23. Los Hermanos Karamazov. *Fyodor Dostoyevsky*
+24. Turn the Ship Around! A True Story of Turning Followers into Leaders. *L. David Marquet*
+25. Chaos: A Very Short Introduction. *Leonard Smith*
+26. Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization. *Niels Pflaeging*
 
 
 ### 2017
