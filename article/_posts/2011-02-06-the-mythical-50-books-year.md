@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Mythical 50 Books-Year
-redirect_from: /2011/02/06/the-mythical-50-books-year/
 ---
 
 I love reading books and learning from them.

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Blogging Like a Hacker
-redirect_from: /2010/12/20/blogging-like-a-hacker/
 ---
 
 Hacking is an overused term for a simple concept: to explore the limits of what is

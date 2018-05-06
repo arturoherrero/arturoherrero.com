@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Agile Inception
-redirect_from: /2011/06/01/agile-inception/
 ---
 
 Many projects die before being released, mainly for two reasons:

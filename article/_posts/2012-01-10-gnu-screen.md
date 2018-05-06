@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GNU Screen
-redirect_from: /2012/01/10/gnu-screen/
 ---
 
 [GNU Screen][1]{:target="_blank"} is a full-screen window manager that multiplexes a physical

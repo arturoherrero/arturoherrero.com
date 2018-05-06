@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Polyglot Programming
-redirect_from: /2012/03/27/polyglot-programming/
 ---
 
 How many programming languages do you know?

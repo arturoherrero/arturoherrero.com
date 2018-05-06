@@ -1,6 +1,5 @@
 ---
 layout: default
-redirect_from: /about/
 ---
 
 Hello! I'm Arturo. I write code and I live in London.
