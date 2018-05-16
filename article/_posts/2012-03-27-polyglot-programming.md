@@ -36,7 +36,7 @@ Scala, Clojure... I shared my experiences with others developers at [Codemotion
 
 Hope you enjoy the slides.
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/12150303" width="720"
+<iframe src="https://www.slideshare.net/slideshow/embed_code/12150303" width="720"
 height="579" frameborder="0" marginwidth="0" marginheight="0"
 scrolling="no" allowfullscreen></iframe>
 

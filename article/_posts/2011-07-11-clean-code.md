@@ -61,7 +61,7 @@ I try to summarize a few ideas from the book:
 
 I did a talk at the Agile Madrid User Group about this book.
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/8036914" width="720"
+<iframe src="https://www.slideshare.net/slideshow/embed_code/8036914" width="720"
 height="519" frameborder="0" marginwidth="0" marginheight="0"
 scrolling="no" allowfullscreen></iframe>
 
