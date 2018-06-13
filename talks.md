@@ -8,6 +8,9 @@ title: Talks
 I have given a number of talks over the years. Here I'm trying to compile
 together the talks I have given in the past and sharing them with you.
 
+- #### Pamplona Software Crafters. *Jun 2018*
+[Mental models, complexity and software][8].
+
 - #### Mastered Summer Event. *Aug 2015*
 [Agile For Non Developers][7].
 
@@ -21,7 +24,7 @@ together the talks I have given in the past and sharing them with you.
 [Functional Programming with Groovy][3].
 
 - #### Agile Spain Conference. *Oct 2011*
-BKOOL: The evolution of an agile project. I was presenting with
+The evolution of an agile project. I was presenting with
 [Marcin Gryszko][4]{:target="_blank"} our experiences with agile development.
 
 - #### Agile Madrid User Group. *May 2011*
@@ -31,6 +34,7 @@ BKOOL: The evolution of an agile project. I was presenting with
 [1]: /command-line-one-liners/
 [2]: /polyglot-programming/
 [3]: /functional-programming-with-groovy/
-[4]: http://grysz.com/
+[4]: https://grysz.com/
 [5]: /clean-code/
 [7]: /agile-for-non-developers/
+[8]: /mental-models-complexity-and-software/
