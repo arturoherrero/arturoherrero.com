@@ -3,7 +3,7 @@ layout: post
 title: Command line one-liners
 ---
 
-I attended the [SoCraTes UK][1]{:target="_blank"} unconference. We had a space for lightning talks
+I attended the [SoCraTes UK 2013][1]{:target="_blank"} unconference. We had a space for lightning talks
 and I did a presentation about command line one-liners.
 
 I love Unix and I talked about terminal commands so I used [Terminal
