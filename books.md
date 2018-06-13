@@ -35,6 +35,14 @@ I love reading. This is the complete list of all books that I read in my life.
 24. Turn the Ship Around! A True Story of Turning Followers into Leaders. *L. David Marquet*
 25. Chaos: A Very Short Introduction. *Leonard Smith*
 26. Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization. *Niels Pflaeging*
+27. Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger. *Charles T. Munger*
+28. Clean Architecture. *Robert C. Martin*
+29. Very British Problems: Making Life Awkward for Ourselves, One Rainy Day at a Time. *Rob Temple*
+30. Antifragile Software. *Russ Miles*
+31. Invirtiendo a largo plazo: Mi experiencia como inversor. *Francisco García Paramés*
+32. La lengua de los dioses: Nueve razones para amar el griego. *Andrea Marcolongo*
+33. Siete breves lecciones de física. *Carlo Rovelli*
+34. Individualidad humana: Qué nos hace diferentes y cómo aprovecharlo. *Remo H. Largo*
 
 
 ### 2017
@@ -103,7 +111,7 @@ I love reading. This is the complete list of all books that I read in my life.
 7. How to Get More From Life. *Scott Young*
 8. Design Patterns in Ruby. *Russ Olsen*
 9. Metaprogramming Ruby 2. *Paolo Perrotta*
-10. Antifragile. *Nassim Nicholas Taleb*
+10. Antifragile: Things That Gain from Disorder. *Nassim Nicholas Taleb*
 11. Programming Elixir. *Dave Thomas*
 12. Thinkertoys. *Michael Michalko*
 13. Fahrenheit 451. *Ray Bradbury*
