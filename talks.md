@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Talks
-permalink: /talks/
 redirect_from: /events/
 ---
 
