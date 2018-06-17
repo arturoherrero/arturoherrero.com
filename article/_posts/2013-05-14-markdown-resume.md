@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Markdown Resume
+redirect_from: /2013/05/14/markdown-resume/
 ---
 
 A few weeks ago I needed to update my curriculum vitae. When was the last time

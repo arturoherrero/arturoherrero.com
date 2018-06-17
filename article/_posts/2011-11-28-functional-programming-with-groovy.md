@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Functional Programming with Groovy
+redirect_from: /2011/11/28/functional-programming-with-groovy/
 ---
 
 The diversity of languages and programming paradigms allows us to solve

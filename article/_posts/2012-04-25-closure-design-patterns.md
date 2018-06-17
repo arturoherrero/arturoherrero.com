@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Closure Design Patterns
+redirect_from: /2012/04/25/closure-design-patterns/
 ---
 
 ### Design Patterns

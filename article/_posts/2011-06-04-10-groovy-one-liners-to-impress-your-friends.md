@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 10 Groovy One Liners to Impress Your Friends
+redirect_from: /2011/06/04/10-groovy-one-liners-to-impress-your-friends/
 ---
 
 I find that comparing programming languages is a worthwhile exercise mainly

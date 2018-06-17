@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Command line one-liners
+redirect_from: /2013/11/29/command-line-one-liners/
 ---
 
 I attended the [SoCraTes UK 2013][1]{:target="_blank"} unconference. We had a space for lightning talks

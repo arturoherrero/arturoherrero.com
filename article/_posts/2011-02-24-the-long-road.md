@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Long Road
+redirect_from: /2011/02/24/the-long-road/
 ---
 
 I believe that continuous learning is a core skill everyone should have.

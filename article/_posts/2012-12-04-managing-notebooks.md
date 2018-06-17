@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Managing Notebooks
+redirect_from: /2012/12/04/managing-notebooks/
 ---
 
 There are a lot of tools to organize and get work done, some are more focused

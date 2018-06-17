@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Create your own Groovy type conversion
+redirect_from: /2012/02/06/create-your-own-groovy-type-conversion/
 ---
 
 ### Type conversion, the standard way
