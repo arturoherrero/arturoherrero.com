@@ -21,8 +21,10 @@ Patterns in Java and Groovy][2]{:target="_blank"} and another presentation of Ne
 these presentations that involve closures and add others patterns based on my
 own experience.
 
+You can also find the same examples for Ruby here: [Closure Design Patterns. Ruby Edition][4].
+
 <sup>\* Groovy makes no such distinction between closures or anonymous functions.
-I'm really trying to get at is how we can use tools such as first-class
+What I'm really trying to get at is how we can use tools such as first-class
 functions, lambdas and closures when implementing design patterns.</sup>
 
 
@@ -206,3 +208,4 @@ assert 3 == take2andAdd([1, 2, 3, 4, 5])
 [1]: http://norvig.com/design-patterns/
 [2]: http://www.agiledeveloper.com/presentations/design_patterns_in_java_and_groovy.pdf
 [3]: http://assets.en.oreilly.com/1/event/27/_Design%20Patterns_%20in%20Dynamic%20Languages%20Presentation.pdf
+[4]: /closure-design-patterns-ruby-edition/
