@@ -95,5 +95,5 @@ class User {
 ```
 
 
-[1]: http://groovy.codehaus.org/Operator+Overloading
-[2]: http://groovy.codehaus.org/groovy-jdk/java/lang/Object.html#asType%28java.lang.Class%29
+[1]: http://groovy-lang.org/operators.html#Operator-Overloading
+[2]: http://docs.groovy-lang.org/latest/html/groovy-jdk/java/lang/Object.html#asType(java.lang.Class)
