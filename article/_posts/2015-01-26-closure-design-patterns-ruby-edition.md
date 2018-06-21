@@ -102,7 +102,7 @@ Defines common algorithm steps (getting a customer) and customizations (passed
 as a block).
 
 ```ruby
-def with_customer (id, &block)
+def with_customer(id, &block)
   customer = get_customer(id)
   block.call(customer)
 end

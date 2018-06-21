@@ -107,7 +107,7 @@ greet(user, { println "Hi Admin!" }, { println "Hello User" })
 Define common algorithm steps (getting a customer) and customizations (passed as a closure).
 
 ```groovy
-def withCustomer (id, closure) {
+def withCustomer(id, closure) {
     def customer = getCustomer(id)
     closure(customer)
 }
