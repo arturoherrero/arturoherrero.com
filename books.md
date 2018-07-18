@@ -42,6 +42,11 @@ I love reading. This is the complete list of all books that I read in my life.
 32. La lengua de los dioses: Nueve razones para amar el griego. *Andrea Marcolongo*
 33. Siete breves lecciones de física. *Carlo Rovelli*
 34. Individualidad humana: Qué nos hace diferentes y cómo aprovecharlo. *Remo H. Largo*
+35. Leonardo da Vinci: La biografía. *Walter Isaacson*
+36. Seven Languages in Seven Weeks. *Bruce A. Tate*
+37. El latín ha muerto, ¡viva el latín! Breve historia de una gran lengua. *Wilfried Stroh*
+38. How To Drive: The Ultimate Guide, from the Man Who Was the Stig. *Ben Collins*
+39. Cincuenta innovaciones que han cambiado el mundo. *Tim Harford*
 
 
 ### 2017
