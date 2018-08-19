@@ -47,6 +47,17 @@ I love reading. This is the complete list of all books that I read in my life.
 37. El latín ha muerto, ¡viva el latín! Breve historia de una gran lengua. *Wilfried Stroh*
 38. How To Drive: The Ultimate Guide, from the Man Who Was the Stig. *Ben Collins*
 39. Cincuenta innovaciones que han cambiado el mundo. *Tim Harford*
+40. Otras mentes. El pulpo, el mar y los orígenes profundos de la consciencia. *Peter Godfrey-Smith*
+41. Emprender y liderar una startup: El duro camino hasta el éxito. *Ben Horowitz*
+42. 4 3 2 1. *Paul Auster*
+43. El camino del guerrero: sabiduría samurai. *VV. AA.*
+44. Los hermanos Wright. *David McCullough*
+45. De Pixar al cielo. *Lawrence Levy*
+46. Todo lo que he aprendido con la psicología económica. *Richard H. Thaler*
+47. La economía en una lección. *Henry Hazlitt*
+48. Fouché: Retrato de un hombre político. *Stefan Zweig*
+49. Progreso: 10 razones para mirar al futuro con optimismo. *Johan Norberg*
+50. Articulating Design Decisions. *Tom Greever*
 
 
 ### 2017
