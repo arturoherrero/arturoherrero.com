@@ -58,6 +58,10 @@ I love reading. This is the complete list of all books that I read in my life.
 48. Fouché: Retrato de un hombre político. *Stefan Zweig*
 49. Progreso: 10 razones para mirar al futuro con optimismo. *Johan Norberg*
 50. Articulating Design Decisions. *Tom Greever*
+51. Breve historia de Occidente: las civilizaciones y las culturas. *Judith G. Coffin & Robert C. Stacey*
+52. User Story Mapping: Discover the Whole Story, Build the Right Product. *Jeff Patton & Peter Economy*
+53. Lo que viene: Cómo Uber, Airbnb y las nuevas empresas de Silicon Valley están cambiando el mundo. *Brad Stone*
+54. Ampliación del campo de batalla. *Michel Houellebecq*
 
 
 ### 2017
