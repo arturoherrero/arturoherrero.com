@@ -9,45 +9,45 @@ I love reading. This is the complete list of all books that I read in my life.
 
 ### 2018
 1. Saber comer. *Michael Pollan*
-2. Yo contengo multitudes: Los microbios que nos habitan y una visión más amplia de la vida. *Ed Yong*
+2. Yo contengo multitudes. *Ed Yong*
 3. La isla misteriosa. *Jules Verne*
-4. Steal Like an Artist: 10 Things Nobody Told You About Being Creative. *Austin Kleon*
+4. Steal Like an Artist. *Austin Kleon*
 5. Cómo la vida imita al ajedrez. *Garry Kasparov*
 6. Smalltalk Best Practice Patterns. *Kent Beck*
 7. 12 Rules for Life: An Antidote to Chaos. *Jordan B. Peterson*
 8. Masa crítica: Cambio, caos y complejidad. *Philip Ball*
 9. SOA Patterns. *Arnon Rotem-Gal-Oz*
 10. Pons Asinorum. *Francisco Bernabé Durán*
-11. Impact Mapping: Making a big impact with software products and projects. *Gojko Adzic*
+11. Impact Mapping. *Gojko Adzic*
 12. Resistencia: Un año en el espacio. *Scott Kelly*
 13. Magallanes: El hombre y su gesta. *Stefan Zweig*
-14. Why Information Grows: The Evolution of Order, from Atoms to Economies. *César Hidalgo*
+14. Why Information Grows. *César Hidalgo*
 15. El día enterrado. *Francisco Solano*
 16. La llamada de la tribu. *Mario Vargas Llosa*
 17. The Nature of Software Development. *Ron Jeffries*
 18. Skin in the Game: Hidden Asymmetries in Daily Life. *Nassim Nicholas Taleb*
 19. Complexity: A Very Short Introduction. *John H. Holland*
-20. The Bed of Procrustes: Philosophical and Practical Aphorisms. *Nassim Nicholas Taleb*
+20. The Bed of Procrustes. *Nassim Nicholas Taleb*
 21. Caos: La creación de una ciencia. *James Gleick*
 22. The Software Craftsman: Professionalism, Pragmatism, Pride. *Sandro Mancuso*
 23. Los Hermanos Karamazov. *Fyodor Dostoyevsky*
-24. Turn the Ship Around! A True Story of Turning Followers into Leaders. *L. David Marquet*
+24. Turn the Ship Around! *L. David Marquet*
 25. Chaos: A Very Short Introduction. *Leonard Smith*
-26. Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization. *Niels Pflaeging*
-27. Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger. *Charles T. Munger*
+26. Organize for Complexity. *Niels Pflaeging*
+27. Poor Charlie's Almanack. *Charles T. Munger*
 28. Clean Architecture. *Robert C. Martin*
-29. Very British Problems: Making Life Awkward for Ourselves, One Rainy Day at a Time. *Rob Temple*
+29. Very British Problems. *Rob Temple*
 30. Antifragile Software. *Russ Miles*
 31. Invirtiendo a largo plazo: Mi experiencia como inversor. *Francisco García Paramés*
 32. La lengua de los dioses: Nueve razones para amar el griego. *Andrea Marcolongo*
 33. Siete breves lecciones de física. *Carlo Rovelli*
-34. Individualidad humana: Qué nos hace diferentes y cómo aprovecharlo. *Remo H. Largo*
+34. Individualidad humana. *Remo H. Largo*
 35. Leonardo da Vinci: La biografía. *Walter Isaacson*
 36. Seven Languages in Seven Weeks. *Bruce A. Tate*
 37. El latín ha muerto, ¡viva el latín! Breve historia de una gran lengua. *Wilfried Stroh*
 38. How To Drive: The Ultimate Guide, from the Man Who Was the Stig. *Ben Collins*
 39. Cincuenta innovaciones que han cambiado el mundo. *Tim Harford*
-40. Otras mentes. El pulpo, el mar y los orígenes profundos de la consciencia. *Peter Godfrey-Smith*
+40. Otras mentes. *Peter Godfrey-Smith*
 41. Emprender y liderar una startup: El duro camino hasta el éxito. *Ben Horowitz*
 42. 4 3 2 1. *Paul Auster*
 43. El camino del guerrero: sabiduría samurai. *VV. AA.*
@@ -58,9 +58,9 @@ I love reading. This is the complete list of all books that I read in my life.
 48. Fouché: Retrato de un hombre político. *Stefan Zweig*
 49. Progreso: 10 razones para mirar al futuro con optimismo. *Johan Norberg*
 50. Articulating Design Decisions. *Tom Greever*
-51. Breve historia de Occidente: las civilizaciones y las culturas. *Judith G. Coffin & Robert C. Stacey*
-52. User Story Mapping: Discover the Whole Story, Build the Right Product. *Jeff Patton & Peter Economy*
-53. Lo que viene: Cómo Uber, Airbnb y las nuevas empresas de Silicon Valley están cambiando el mundo. *Brad Stone*
+51. Breve historia de Occidente. *Judith G. Coffin & Robert C. Stacey*
+52. User Story Mapping. *Jeff Patton & Peter Economy*
+53. Lo que viene. *Brad Stone*
 54. Ampliación del campo de batalla. *Michel Houellebecq*
 
 
@@ -117,7 +117,7 @@ I love reading. This is the complete list of all books that I read in my life.
 50. Quiero ser arquitecto. *Alberto Campo Baeza*
 51. Montaigne. *Stefan Zweig*
 52. Cartas a su hijo. *Lord Chesterfield*
-53. Comer sin miedo: Mitos, falacias y mentiras sobre la alimentación en el siglo XXI. *J. M. Mulet*
+53. Comer sin miedo. *J. M. Mulet*
 
 
 ### 2016
@@ -136,7 +136,7 @@ I love reading. This is the complete list of all books that I read in my life.
 13. Fahrenheit 451. *Ray Bradbury*
 14. Cambia el chip. *Chip Heath & Dan Heath*
 15. Growing Object-Oriented Software, Guided by Tests. *Steve Freeman & Nat Pryce*
-16. Sapiens. De animales a dioses: Una breve historia de la humanidad. *Yuval Noah Harari*
+16. Sapiens. De animales a dioses. *Yuval Noah Harari*
 17. La pizarra de Juan Ramón Rallo. *Juan Ramón Rallo*
 18. The Great Gatsby. *F. Scott Fitzgerald*
 19. Nadie es perfecto. *Hellmuth Karasek*
@@ -326,7 +326,7 @@ I love reading. This is the complete list of all books that I read in my life.
 29. Extraños en un tren. *Patricia Highsmith*
 30. American Gods. *Neil Gaiman*
 31. Sinatra: Up and Running. *Alan Harris & Konstantin Haase*
-32. From Bash to Z Shell: Conquering the Command Line. *Oliver Kiddle, Jerry Peek & Peter Stephenson*
+32. From Bash to Z Shell. *Oliver Kiddle, Jerry Peek & Peter Stephenson*
 33. JavaScript: The Good Parts. *Douglas Crockford*
 34. La presentación de la persona en la vida cotidiana. *Erving Goffman*
 35. The Zombie Survival Guide. *Max Brooks*
@@ -367,7 +367,7 @@ I love reading. This is the complete list of all books that I read in my life.
 25. The Agile Samurai. *Jonathan Rasmusson*
 26. Manual de desarrollo web con Grails. *Nacho Brito*
 27. Lean Software Development. *Mary & Tom Poppendieck*
-28. Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel. *Rolf Potts*
+28. Vagabonding. *Rolf Potts*
 29. El sinsentido del sentido o el sentido del sinsentido. *Paul Watzlawick*
 30. Principios universales de diseño. *William Lidwell, Kritina Holden & Jill Butler*
 31. Structure and Interpretation of Computer Programs. *Hal Abelson, Jerry & Julie Sussman*
