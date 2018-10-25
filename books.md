@@ -79,7 +79,7 @@ I love reading. This is the complete list of all books that I read in my life.
 3. Homo Deus: Breve historia del mañana. *Yuval Noah Harari*
 4. Momentos de inadvertida felicidad. *Francesco Piccolo*
 5. The Daily Stoic. *Ryan Holiday & Stephen Hanselman*
-6. Don Quijote de la Mancha. *Miguel de Cervantes Saavedra*
+6. El ingenioso hidalgo don Quijote de la Mancha. *Miguel de Cervantes Saavedra*
 7. The Art of Empathy. *Karla McLaren*
 8. Introducing Psychology. *Nigel C. Benson*
 9. The Rough Guide to 21st Century Cinema. *Adam Nickle Smith*
@@ -212,7 +212,7 @@ I love reading. This is the complete list of all books that I read in my life.
 39. Contra la renta básica. *Juan Ramón Rallo*
 40. The Clean Coder. *Robert C. Martin*
 41. Pebbles of Perception. *Laurence Endersen*
-42. El Mito del Votante Racional. *Bryan Caplan*
+42. El mito del votante racional. *Bryan Caplan*
 43. La investigación. *Stanisław Lem*
 44. Gamestorming. *Dave Gray, Sunni Brown & James Macanufo*
 45. Visual Leaders. *David Sibbet*
@@ -222,11 +222,11 @@ I love reading. This is the complete list of all books that I read in my life.
 1. Meditaciones. *Marco Aurelio*
 2. Los tres hábitos que cambiarán tu vida. *Homo Minimus*
 3. Bitcoin: La moneda del futuro. *Bitcoin en Español*
-4. Better than college. *Blake Boles*
+4. Better Than College. *Blake Boles*
 5. Mil cretinos. *Quim Monzó*
 6. Padre rico, padre pobre. *Robert Kiyosaki*
 7. Patterns of Enterprise Application Architecture. *Martin Fowler*
-8. Hacking your education. *Dale J. Stephens*
+8. Hacking Your Education. *Dale J. Stephens*
 9. El elemento. *Ken Robinson*
 10. El código del dinero. *Raimon Samsó*
 11. El arte de negociar y persuadir. *Allan Pease*
@@ -264,7 +264,7 @@ I love reading. This is the complete list of all books that I read in my life.
 
 ### 2013
 1. La vida simple. *Yael Farache*
-2. Cine Negro. *Alain Silver*
+2. Cine negro. *Alain Silver*
 3. Implementation Patterns. *Kent Beck*
 4. Mindstorms: Children, Computers, And Powerful Ideas. *Seymour A. Papert*
 5. The $100 Startup. *Chris Guillebeau*
@@ -293,10 +293,10 @@ I love reading. This is the complete list of all books that I read in my life.
 28. The Mammoth Book of Street Art. *Jake*
 29. Code Complete. *Steve McConnell*
 30. La rendición. *Toni Bentley*
-31. El Método. *Neil Strauss*
+31. El método. *Neil Strauss*
 32. The Practicing Mind. *Thomas M. Sterner*
 33. tmux. *Brian P. Hogan*
-34. El Manantial. *Ayn Rand*
+34. El manantial. *Ayn Rand*
 35. How to Save an Hour Every Day. *Michael Heppell*
 36. The Second World War. *Richard Overy*
 37. The 4-Hour Chef. *Timothy Ferriss*
@@ -426,7 +426,7 @@ I love reading. This is the complete list of all books that I read in my life.
 24. La última respuesta. *Álex Rovira, Francesc Miralles*
 25. La metamorfosis y otros cuentos. *Franz Kafka*
 26. El mal de Montano. *Enrique Vila-Matas*
-27. Héroes Cotidianos. *Pilar Jericó*
+27. Héroes cotidianos. *Pilar Jericó*
 28. Un mundo sin fin. *Ken Follet*
 29. Lo que vio el perro y otras aventuras. *Malcolm Gladwell*
 30. Grandes episodios desconocidos de la historia. *Joseph Cummins*
@@ -485,7 +485,7 @@ I love reading. This is the complete list of all books that I read in my life.
 14. La caza del carnero salvaje. *Haruki Murakami*
 15. La mujer y el paisaje. *Stefan Zweig*
 16. Eurekas y Euforias. *Walter Gratzer*
-17. Mueve tu dinero …y hazte rico. *Aitor Zárate*
+17. Mueve tu dinero y hazte rico. *Aitor Zárate*
 18. Hijos de la medianoche. *Salman Rushdie*
 19. Nuestra felicidad. *Luis Rojas Marcos*
 20. El país de las últimas cosas. *Paul Auster*
@@ -505,7 +505,7 @@ I love reading. This is the complete list of all books that I read in my life.
 * El médico. *Noah Gordon*
 * Chamán. *Noah Gordon*
 * La doctora Cole. *Noah Gordon*
-* Memorias de una Geisha. *Arthur Golden*
+* Memorias de una geisha. *Arthur Golden*
 * El alquimista. *Paulo Coelho*
 * Los hijos de la luz. *César Vidal*
 * Los masones. *César Vidal*
@@ -513,7 +513,7 @@ I love reading. This is the complete list of all books that I read in my life.
 * El club Dumas. *Arturo Pérez-Reverte*
 * El capitán Alatriste. *Arturo Pérez-Reverte*
 * Limpieza de sangre. *Arturo Pérez-Reverte*
-* El sol de Bresa. *Arturo Pérez-Reverte*
+* El sol de Breda. *Arturo Pérez-Reverte*
 * El oro del rey. *Arturo Pérez-Reverte*
 * El rostro de un extraño. *Anne Perry*
 * El caso de Farrier’s Lane. *Anne Perry*
@@ -545,9 +545,9 @@ I love reading. This is the complete list of all books that I read in my life.
 * Cuentos para pensar. *Jorge Bucay*
 * Asesinato en el Orient Express. *Agatha Christie*
 * La sombra del viento. *Carlos Ruiz Zafón*
-* El Palacio de la Luna. *Paul Auster*
+* El palacio de la luna. *Paul Auster*
 * La ética del hacker. *Pekka Himanen*
-* Claves Hackers en Windosw. *Michael O'Dea*
+* Claves hackers en Windows. *Michael O'Dea*
 * Microsiervos. *Douglas Coupland*
 * ¡Ajá! Paradojas que hacen pensar. *Martin Gardner*
 * Hacking con Google. *Johnny Long*
