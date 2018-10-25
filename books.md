@@ -30,7 +30,7 @@ I love reading. This is the complete list of all books that I read in my life.
 20. The Bed of Procrustes. *Nassim Nicholas Taleb*
 21. Caos: La creación de una ciencia. *James Gleick*
 22. The Software Craftsman: Professionalism, Pragmatism, Pride. *Sandro Mancuso*
-23. Los Hermanos Karamazov. *Fyodor Dostoyevsky*
+23. Los hermanos Karamazov. *Fyodor Dostoyevsky*
 24. Turn the Ship Around! *L. David Marquet*
 25. Chaos: A Very Short Introduction. *Leonard Smith*
 26. Organize for Complexity. *Niels Pflaeging*
@@ -58,10 +58,19 @@ I love reading. This is the complete list of all books that I read in my life.
 48. Fouché: Retrato de un hombre político. *Stefan Zweig*
 49. Progreso: 10 razones para mirar al futuro con optimismo. *Johan Norberg*
 50. Articulating Design Decisions. *Tom Greever*
-51. Breve historia de Occidente. *Judith G. Coffin & Robert C. Stacey*
+51. Breve Historia de Occidente. *Judith G. Coffin & Robert C. Stacey*
 52. User Story Mapping. *Jeff Patton & Peter Economy*
 53. Lo que viene. *Brad Stone*
 54. Ampliación del campo de batalla. *Michel Houellebecq*
+55. Vida 3.0: Ser humano en la era de la inteligencia artificial. *Max Tegmark*
+56. Diez razones para borrar tus redes sociales de inmediato. *Jaron Lanier*
+57. El extranjero. *Albert Camus*
+58. It Doesn't Have to Be Crazy at Work. *Jason Fried & David Heinemeier Hansson*
+59. Learn Functional Programming with Elixir. *Ulisses Almeida*
+60. Erasmo de Rotterdam: Triunfo y tragedia de un humanista. *Stefan Zweig*
+61. Una lectora nada común. *Alan Bennett*
+62. Designing Data-Intensive Applications. *Martin Kleppmann*
+63. El infiel y el profesor: David Hume y Adam Smith. *Dennis C. Rasmussen*
 
 
 ### 2017
@@ -164,7 +173,7 @@ I love reading. This is the complete list of all books that I read in my life.
 ### 2015
 1. Programming Grails. *Burt Beckwith*
 2. A Mind for Numbers. *Barbara Oakley*
-3. Remote. *David Heinemeier Hansson & Jason Fried*
+3. Remote. *Jason Fried & David Heinemeier Hansson*
 4. Nuestro Enemigo, el Estado. *Albert Jay Nock*
 5. Inceptions. *Enrique Comba*
 6. Ruby Under a Microscope. *Pat Shaughnessy*
