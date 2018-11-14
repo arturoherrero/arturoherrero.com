@@ -71,6 +71,8 @@ I love reading. This is the complete list of all books that I read in my life.
 61. Una lectora nada común. *Alan Bennett*
 62. Designing Data-Intensive Applications. *Martin Kleppmann*
 63. El infiel y el profesor: David Hume y Adam Smith. *Dennis C. Rasmussen*
+64. Effective Testing with Rspec 3. *Myron Marston & Ian Dees*
+65. Deshaciendo errores. *Michael Lewis*
 
 
 ### 2017
