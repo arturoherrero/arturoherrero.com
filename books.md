@@ -73,6 +73,8 @@ I love reading. This is the complete list of all books that I read in my life.
 63. El infiel y el profesor: David Hume y Adam Smith. *Dennis C. Rasmussen*
 64. Effective Testing with Rspec 3. *Myron Marston & Ian Dees*
 65. Deshaciendo errores. *Michael Lewis*
+66. Geometría y arte: Influencias matematicas durante el Renacimiento. *David Wade*
+67. La felicidad conyugal. *Leo Tolstoy*
 
 
 ### 2017
@@ -195,29 +197,30 @@ I love reading. This is the complete list of all books that I read in my life.
 20. Lo que escucha la lluvia. *Francisco Solano*
 21. Hitchcock's Secret Notebooks. *Dan Auiler*
 22. Creativity, Inc. *Ed Catmull*
-23. Quiet. *Susan Cain*
-24. The Rails 4 Way. *Obie Fernandez*
-25. The Complete Photo Manual. *Popular Photography*
-26. 100 Ideas that Changed Film. *David Parkinson*
-27. Growth Hacker Marketing. *Ryan Holiday*
-28. El economista camuflado. *Tim Harford*
-29. Complete Guide to Digital Photography. *Ian Farrell*
-30. A Book for People Who Want to Become Stinking Rich But Aren't Quite Sure How. *Benrik*
-31. El conde de Montecristo. *Alexandre Dumas*
-32. Raspberry Pi User Guide. *Eben Upton & Gareth Halfacree*
-33. Teach Yourself Visually Raspberry Pi. *Richard Wentk*
-34. How to be a Productivity Ninja. *Graham Allcott*
-35. Elon Musk. *Ashlee Vance*
-36. The 10X Rule. *Grant Cardone*
-37. What If? *Randall Munroe*
-38. Lean Analytics. *Alistair Croll & Benjamin Yoskovitz*
-39. Contra la renta básica. *Juan Ramón Rallo*
-40. The Clean Coder. *Robert C. Martin*
-41. Pebbles of Perception. *Laurence Endersen*
-42. El mito del votante racional. *Bryan Caplan*
-43. La investigación. *Stanisław Lem*
-44. Gamestorming. *Dave Gray, Sunni Brown & James Macanufo*
-45. Visual Leaders. *David Sibbet*
+23. Guerra y paz. *Leo Tolstoy*
+24. Quiet. *Susan Cain*
+25. The Rails 4 Way. *Obie Fernandez*
+26. The Complete Photo Manual. *Popular Photography*
+27. 100 Ideas that Changed Film. *David Parkinson*
+28. Growth Hacker Marketing. *Ryan Holiday*
+29. El economista camuflado. *Tim Harford*
+30. Complete Guide to Digital Photography. *Ian Farrell*
+31. A Book for People Who Want to Become Stinking Rich But Aren't Quite Sure How. *Benrik*
+32. El conde de Montecristo. *Alexandre Dumas*
+33. Raspberry Pi User Guide. *Eben Upton & Gareth Halfacree*
+34. Teach Yourself Visually Raspberry Pi. *Richard Wentk*
+35. How to be a Productivity Ninja. *Graham Allcott*
+36. Elon Musk. *Ashlee Vance*
+37. The 10X Rule. *Grant Cardone*
+38. What If? *Randall Munroe*
+39. Lean Analytics. *Alistair Croll & Benjamin Yoskovitz*
+40. Contra la renta básica. *Juan Ramón Rallo*
+41. The Clean Coder. *Robert C. Martin*
+42. Pebbles of Perception. *Laurence Endersen*
+43. El mito del votante racional. *Bryan Caplan*
+44. La investigación. *Stanisław Lem*
+45. Gamestorming. *Dave Gray, Sunni Brown & James Macanufo*
+46. Visual Leaders. *David Sibbet*
 
 
 ### 2014
