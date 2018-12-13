@@ -75,6 +75,8 @@ I love reading. This is the complete list of all books that I read in my life.
 65. Deshaciendo errores. *Michael Lewis*
 66. Geometría y arte: Influencias matematicas durante el Renacimiento. *David Wade*
 67. La felicidad conyugal. *Leo Tolstoy*
+68. La plaza y la torre. Redes y poder: de los masones a facebook. *Niall Ferguson*
+69. El futuro es hoy: España en el cambio de época. *José María Aznar*
 
 
 ### 2017
