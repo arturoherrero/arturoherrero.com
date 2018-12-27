@@ -77,6 +77,12 @@ I love reading. This is the complete list of all books that I read in my life.
 67. La felicidad conyugal. *Leo Tolstoy*
 68. La plaza y la torre. Redes y poder: de los masones a facebook. *Niall Ferguson*
 69. El futuro es hoy: España en el cambio de época. *José María Aznar*
+70. Leer y escribir: Dos mundos. *V. S. Naipaul*
+71. Las virtudes cotidianas: El orden moral en un mundo dividido. *Michael Ignatieff*
+72. El reino del lenguaje. *Tom Wolfe*
+73. Bartleby el escribiente. *Herman Melville*
+74. El regreso liberal: Más allá de la política de la identidad. *Mark Lilla*
+75. La Enciclopedia: Breve antología de las entradas más significativas del magno proyecto que dirigieron Diderot y D'Alembert. *Gonzalo Torné*
 
 
 ### 2017
