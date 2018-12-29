@@ -3,30 +3,22 @@ layout: default
 redirect_from: /about/
 ---
 
-Hello! I'm Arturo. I write code and I live in London.
 
-## Software Development
+Hello! I'm Arturo, a software engineer based in London.
 
-Software is my craft.
-
-I've written a lot of code in Ruby and Groovy, and I'm working on deepening my
-knowledge in functional languages.
-
-I strive for excellence and share my passion for programming, ideas and
-practices with those around me.
+Software is my craft. I help businesses to define and implement their products
+by keeping a holistic approach. I strive for excellence and share my passion,
+ideas and practices with those around me.
 
 
 ## Projects
 
-I love open source and I'm continually learning and working on personal projects.
-Check out my [GitHub account][2]{:target="_blank"} to see what I've been hacking on lately.
-
-- [iShows][8] is an iPhone app designed to track TV shows.
+I’m continually learning and working on personal [projects][8].
 
 
 ## Articles
 
-I publish articles from time to time, which you will find on the [articles archive][3].
+I publish articles from time to time, which you will find in the [articles archive][3].
 
 
 ## Life Streaming
@@ -54,11 +46,9 @@ Occasionally, I speak at conferences. You will find more information on my [talk
 Want to get in touch? Email me at *<arturo.herrero@gmail.com>*.
 
 
-[1]: https://www.mastered.com/
-[2]: https://github.com/arturoherrero
 [3]: /articles
 [4]: https://twitter.com/ArturoHerrero
 [5]: https://www.packtpub.com/web-development/instant-markdown-instant
 [6]: /talks
 [7]: /books
-[8]: /ishows
+[8]: /projects
