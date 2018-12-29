@@ -36,8 +36,6 @@ that you consider useful, but be careful;
 # => "12"
 ```
 
-[Come and see!][1]{:target="_blank"}
-
 
 [1]: https://github.com/arturoherrero/powercore
 [2]: http://edgeguides.rubyonrails.org/active_support_core_extensions.html

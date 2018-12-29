@@ -15,7 +15,7 @@ craft a tool to do the job.
 
 ### Biteydown
 
-[Biteydown][2]{:target="_blank"} is Ruby application that turns a simple
+**[Biteydown][2]{:target="_blank"}** is Ruby application that turns a simple
 Markdown document into a resume in HTML or PDF file.
 
 #### Instalation
