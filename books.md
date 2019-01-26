@@ -5,10 +5,11 @@ title: Books
 
 ## Reading List
 
-I love reading. This is the complete list of all books that I read in my life.
+I love reading. This is the complete list of all books that I've read in my life.
 
 ### 2019
-1. De qué hablo cuando hablo de correr. *Haruki Murakami*
+1. De qué hablo cuando hablo de correr. *Haruki Murakami* ⭑
+2. Lo que no podemos saber. *Marcus du Sautoy* ⭑
 
 
 ### 2018
