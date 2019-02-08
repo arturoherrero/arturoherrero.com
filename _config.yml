@@ -1,6 +1,6 @@
 title: Arturo Herrero
 description: The personal website of Arturo Herrero
-url: "http://arturoherrero.com"
+url: "https://arturoherrero.com"
 
 markdown: kramdown
 permalink: :title/
