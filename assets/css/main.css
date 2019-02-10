@@ -108,7 +108,8 @@ img {
 }
 
 footer {
-  padding-top: 60px;
+  margin: 20px auto;
+  padding-bottom: 60px;
 }
 
 .articles .date {
@@ -149,11 +150,6 @@ footer {
 
 .articles .article a.title:hover {
   color: #cb0063;
-}
-
-#swirly {
-  display: block;
-  margin: 20px auto;
 }
 
 .error {
