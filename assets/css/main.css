@@ -152,6 +152,11 @@ footer {
   color: #cb0063;
 }
 
+#date {
+  margin-top: 40px;
+  text-align: right;
+}
+
 .error {
   display: block;
   text-align: center;
