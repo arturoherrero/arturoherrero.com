@@ -23,7 +23,7 @@ I publish articles from time to time, which you will find in the [articles archi
 
 ## Life Streaming
 
-I'm [@ArturoHerrero][4]{:target="_blank"} on Twitter.
+I'm [@ArturoHerrero][4]{:target="_blank" onclick="ga('send', 'event', 'Extra', 'Twitter Click', 'Twitter Home');"} on Twitter.
 
 
 ## Reading
@@ -33,7 +33,7 @@ Reading is one of my passions, and I keep a [list of the books I read][7].
 
 ## Writing
 
-I wrote a book about Markdown, published by Packt Publishing: *[Instant Markdown][5]{:target="_blank"}*.
+I wrote a book about Markdown, published by Packt Publishing: *[Instant Markdown][5]{:target="_blank" onclick="ga('send', 'event', 'Extra', 'Markdown Click', 'Markdown');"}*.
 
 
 ## Presenting

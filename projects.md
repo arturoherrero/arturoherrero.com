@@ -6,7 +6,7 @@ title: Projects
 ## Projects
 
 I love open source and I'm continually learning and working on personal projects.
-To stay updated with my work check out my [GitHub][1]{:target="_blank"} account.
+To stay updated with my work check out my [GitHub][1]{:target="_blank" onclick="ga('send', 'event', 'Extra', 'GitHub Click', 'GitHub');"} account.
 
 - [iShows][2] is an iPhone app designed to track TV shows
 - Extending the Ruby programming language with extensions or gems:

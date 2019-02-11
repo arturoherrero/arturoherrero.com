@@ -5,5 +5,7 @@ layout: default
 <article>
   <h2>{{page.title}}</h2>
   {{ content }}
-  <p id="date">{{ page.date | date: "%B %d, %Y" }}&nbsp;&nbsp;<a href="https://twitter.com/ArturoHerrero" target="_blank">@ArturoHerrero</a></p>
+  <p id="date">{{ page.date | date: "%B %d, %Y" }}&nbsp;&nbsp;
+    <a href="https://twitter.com/ArturoHerrero" target="_blank" onclick="ga('send', 'event', 'Extra', 'Twitter Click', 'Twitter Signature');">@ArturoHerrero</a>
+  </p>
 </article>
