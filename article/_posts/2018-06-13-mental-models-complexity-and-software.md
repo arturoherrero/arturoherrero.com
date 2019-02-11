@@ -110,7 +110,7 @@ width="720" height="443" frameborder="0" marginwidth="0" marginheight="0"
 scrolling="no" allowfullscreen></iframe>
 
 
-[1]: http://pamplonaswcraft.com/
+[1]: http://2018.pamplonaswcraft.com/
 [2]: http://curtclifton.net/papers/MoseleyMarks06a.pdf
 [3]: https://arxiv.org/abs/0812.4360
 [5]: https://youtu.be/Q3Ve7ec1HpY
