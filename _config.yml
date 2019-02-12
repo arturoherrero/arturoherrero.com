@@ -7,7 +7,6 @@ permalink: :title/
 
 sass:
   style: :compressed
-  sass_dir: assets/sass
 
 plugins:
   - jekyll-redirect-from
