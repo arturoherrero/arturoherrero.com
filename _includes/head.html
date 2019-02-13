@@ -1,17 +1,20 @@
+{% capture title %}{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}{% endcapture %}
+{% capture description %}{% if page.title %}{{ page.title }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Arturo Herrero">
-  <meta name="description" content="{% if page.title %}{{ page.title }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{{ description }}">
 
-  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta property="og:description" content="{% if page.title %}{{ page.title }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:image" content="{{ site.url }}/assets/images/cover.png">
-  <meta property="og:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:image" content="{{ "/assets/images/cover.png" | absolute_url }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta name="twitter:card" content="summary">
 
-  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <title>{{ title }}</title>
 
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Vollkorn:400,400italic" type="text/css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/css/foundation.min.css" type="text/css">
