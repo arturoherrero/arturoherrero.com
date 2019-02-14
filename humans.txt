@@ -1,12 +1,10 @@
 /* TEAM */
-  Chef: Arturo Herrero
+  Name: Arturo Herrero
   Contact: arturo.herrero@gmail.com
   Twitter: @ArturoHerrero
   From: Madrid, Spain
-  Living in: London, United Kingdom
 
 /* SITE */
-  Last update: 2014/12/31
   Language: English
   Doctype: HTML5 && CSS3
   IDE: MacVim
