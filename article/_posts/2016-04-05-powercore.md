@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Powercore
+description: PowerCore extends the Ruby Core with useful extensions.
 ---
 
 During the last few weeks I have been working on **[PowerCore][1]{:target="_blank"}**,

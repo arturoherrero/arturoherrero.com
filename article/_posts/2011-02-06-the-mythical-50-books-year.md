@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Mythical 50 Books-Year
+description: Can a person read 50 books a year?
 redirect_from: /2011/02/06/the-mythical-50-books-year/
 ---
 

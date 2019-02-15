@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Command line one-liners
+description: I attended the SoCraTes UK 2013 unconference and I did a presentation about command line one-liners.
 redirect_from: /2013/11/29/command-line-one-liners/
 ---
 

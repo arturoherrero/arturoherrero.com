@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blogging Like a Hacker
+description: I can't imagine a simpler or better way to write a blog.
 redirect_from: /2010/12/20/blogging-like-a-hacker/
 ---
 

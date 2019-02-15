@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Closure Design Patterns. Ruby Edition
+description: Back in 2012 I wrote an article about closure design patterns using Groovy. I have decided to use Ruby this time.
 ---
 
 Back in 2012 I wrote an article about **[closure design patterns][1]**. I used

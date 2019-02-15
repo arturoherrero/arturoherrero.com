@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OpenFastStruct
+description: OpenFastStruct is a data structure, similar to an OpenStruct but faster.
 ---
 
 After having a lot of fun building [YARR][1], I have built a new Ruby gem.

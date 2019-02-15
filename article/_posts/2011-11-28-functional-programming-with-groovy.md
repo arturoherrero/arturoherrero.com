@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Functional Programming with Groovy
+description: Basic concepts of functional programming and how to apply them with Groovy.
 redirect_from: /2011/11/28/functional-programming-with-groovy/
 ---
 

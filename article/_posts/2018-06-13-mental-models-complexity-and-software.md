@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mental models, complexity and software
+description: I was invited to speak at Pamplona Software Crafters 2018.
 ---
 
 I was invited to speak at [Pamplona Software Crafters

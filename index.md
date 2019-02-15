@@ -1,5 +1,6 @@
 ---
 layout: default
+description: My personal website.
 redirect_from: /about/
 ---
 

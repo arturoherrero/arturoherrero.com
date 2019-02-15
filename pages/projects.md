@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projects
+description: I love open source and I'm continually learning and working on personal projects.
 permalink: /projects
 ---
 

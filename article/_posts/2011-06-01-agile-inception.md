@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Agile Inception
+description: Many projects die before being released.
 redirect_from: /2011/06/01/agile-inception/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Clean Code
+description: A Handbook of Agile Software Craftsmanship.
 redirect_from: /2011/07/11/clean-code/
 ---
 

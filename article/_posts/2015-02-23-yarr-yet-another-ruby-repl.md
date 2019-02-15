@@ -1,6 +1,7 @@
 ---
 layout: post
 title: YARR. Yet Another Ruby REPL
+description: YARR is a Ruby REPL (it’s just a hobby, it won’t be big and professional like Pry).
 ---
 
 **[YARR (Yet Another Ruby REPL)][1]{:target="_blank"}** is a Ruby REPL (it's just a hobby, it won't be big and

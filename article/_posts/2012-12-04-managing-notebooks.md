@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Managing Notebooks
+description: I prefer notebooks over other devices and media. Do you know Bullet Journal note-taking system?
 redirect_from: /2012/12/04/managing-notebooks/
 ---
 

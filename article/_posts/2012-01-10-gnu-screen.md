@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GNU Screen
+description: GNU Screen is a full-screen window manager that multiplexes a physical terminal between several processes.
 redirect_from: /2012/01/10/gnu-screen/
 ---
 

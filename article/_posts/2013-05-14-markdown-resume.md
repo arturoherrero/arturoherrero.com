@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Markdown Resume
+description: Convert your curriculum vitae in markdown syntax to HTML or PDF file.
 redirect_from: /2013/05/14/markdown-resume/
 ---
 

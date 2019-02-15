@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Agile For Non Developers
+description: Agile methodology could be valid for other non software teams, or even your personal life.
 ---
 
 Agile methodology is an alternative to traditional project management,

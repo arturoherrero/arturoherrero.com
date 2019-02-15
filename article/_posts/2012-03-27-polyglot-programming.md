@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Polyglot Programming
+description: Learning different languages allows us to solve problems with the most appropriate language.
 redirect_from: /2012/03/27/polyglot-programming/
 ---
 

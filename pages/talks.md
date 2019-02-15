@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Talks
+description: I have given a number of talks over the years.
 permalink: /talks
 redirect_from: /events/
 ---

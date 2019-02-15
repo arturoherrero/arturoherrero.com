@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Create your own Groovy type conversion
+description: Type conversion is a programming language technique for changing an object's data type into another.
 redirect_from: /2012/02/06/create-your-own-groovy-type-conversion/
 ---
 
