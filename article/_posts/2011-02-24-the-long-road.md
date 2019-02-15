@@ -30,5 +30,5 @@ The patterns are divided into different sections:
 6. Construct your curriculum: discusses why you have to read continuously and become expert.
 
 
-[1]: http://chimera.labs.oreilly.com/books/1234000001813/index.html
+[1]: https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/
 [2]: /assets/images/apprenticeship-patterns.png

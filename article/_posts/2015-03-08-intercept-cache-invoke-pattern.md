@@ -5,7 +5,7 @@ description: I heard about the Intercept-Cache-Invoke pattern for the first time
 ---
 
 I heard about the **Intercept-Cache-Invoke pattern** for the first time from
-Graeme Rocher; he was explaining how he had implemented the dynamic finders on Grails.
+[Graeme Rocher][4]{:target="_blank"}; he was explaining how he had implemented the dynamic finders on Grails.
 
 The idea is to dynamically figure out the behaviour for methods upon invocation
 so that we can create new methods with flexible and dynamic names *on-the-fly*.
@@ -100,3 +100,4 @@ performance depends on whether we use `block.call` or just `yield`
 [1]: https://github.com/JuanitoFatas/fast-ruby#proccall-vs-yield-code
 [2]: https://twitter.com/otikik
 [3]: https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding
+[4]: https://twitter.com/graemerocher
