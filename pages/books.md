@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Books
+permalink: /books
 ---
 
 ## Reading List
