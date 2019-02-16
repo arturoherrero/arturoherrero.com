@@ -2,7 +2,7 @@
 layout: default
 title: Books
 description: The complete list of all books that I've read in my life.
-permalink: /books
+permalink: /books/
 ---
 
 ## Reading List
