@@ -13,4 +13,10 @@ sass:
 plugins:
   - jekyll-redirect-from
 
-exclude: [Gemfile, Gemfile.lock, Guardfile, .gitignore, README.md]
+exclude:
+  - .gitignore
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - Guardfile
+  - README.md
