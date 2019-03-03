@@ -12,9 +12,10 @@ I love reading. This is the complete list of all books that I've read in my life
 ### 2019
 1. De qué hablo cuando hablo de correr. *Haruki Murakami* ⭑
 2. Lo que no podemos saber. *Marcus du Sautoy* ⭑
-3. Creative Selection. *Ken Kocienda*
+3. Creative Selection. *Ken Kocienda* ⭑
 4. Cómo vivir. Una vida con Montaigne. *Sarah Bakewell* ⭑
 5. Planning for Everything: The Design of Paths and Goals. *Peter Morville*
+6. Nobleza de espíritu: Una idea olvidada. *Rob Riemen*
 
 
 ### 2018
