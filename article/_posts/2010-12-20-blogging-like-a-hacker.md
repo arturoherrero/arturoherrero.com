@@ -11,17 +11,18 @@ possible doing something in a different way.
 For me, writing is simply the act of putting some ideas in order. This is why
 I've always tried to focus on what truly matters and avoid all sorts of distractions.
 
-This blog is built with [<s>toto</s>][3]{:target="_blank"}
+This blog is built with [<s>toto</s>][2]{:target="_blank"}
 [Jekyll][1]{:target="_blank"}, a static site generator that transforms Markdown
-text into HTML code. It is hosted on [GitHub Pages][4]{:target="_blank"}.
+text into HTML code. It is hosted on [<s>Heroku</s>][3]{:target="_blank"}
+[GitHub Pages][4]{:target="_blank"}.
 
-I also use [Guard LiveReload][2]{:target="_blank"} to automatically reload my
-browser when files are modified.
+LiveReload is available during development to automatically reload my browser
+when files are modified.
 
 I can't imagine a simpler or better way to write a blog.
 
 
-[1]: http://jekyllrb.com
-[2]: https://github.com/guard/guard-livereload
-[3]: https://github.com/cloudhead/toto
+[1]: https://jekyllrb.com/
+[2]: https://github.com/cloudhead/toto
+[3]: https://www.heroku.com/
 [4]: https://pages.github.com/
