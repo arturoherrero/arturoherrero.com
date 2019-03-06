@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Books
+title: Reading List
 description: The complete list of all books that I've read in my life.
 permalink: /books/
 ---
 
-## Reading List
+## {{ page.title }}
 
 I love reading. This is the complete list of all books that I've read in my life.
 

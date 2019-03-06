@@ -14,7 +14,7 @@ ideas and practices with those around me.
 
 ## Projects
 
-I’m continually learning and working on personal [projects][8].
+I’m continually learning and working on [personal projects][8].
 
 
 ## Articles

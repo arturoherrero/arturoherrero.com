@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Projects
+title: Personal Projects
 description: I love open source and I'm continually learning and working on personal projects.
 permalink: /projects/
 ---
 
-## Projects
+## {{ page.title }}
 
 I love open source and I'm continually learning and working on personal projects.
 To stay updated with my work check out my [GitHub][1]{:target="_blank" onclick="ga('send', 'event', 'Extra', 'GitHub Click', 'GitHub');"} account.
