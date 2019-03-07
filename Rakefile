@@ -5,6 +5,7 @@ task :test do
 
   options = {
     assume_extension: true,
+    check_external_hash: true,
     check_favicon: true,
     check_html: true,
     check_img_http: true,
