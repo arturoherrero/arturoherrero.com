@@ -1,4 +1,6 @@
 language: ruby
+rvm:
+  - ruby-head
 
 cache:
   - bundler # caching bundler gem packages will speed up build

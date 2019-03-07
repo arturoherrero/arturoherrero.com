@@ -15,8 +15,11 @@ plugins:
 
 exclude:
   - .gitignore
+  - .travis.yml
   - CNAME
   - Gemfile
   - Gemfile.lock
   - Guardfile
+  - Rakefile
   - README.md
+  - vendor
