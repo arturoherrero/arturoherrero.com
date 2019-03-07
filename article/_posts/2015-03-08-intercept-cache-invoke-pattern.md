@@ -97,7 +97,7 @@ performance depends on whether we use `block.call` or just `yield`
             Method Missing:   316729.8 i/s - 3.19x slower
 
 
-[1]: https://github.com/JuanitoFatas/fast-ruby#proccall-vs-yield-code
+[1]: https://github.com/JuanitoFatas/fast-ruby#proccall-and-block-arguments-vs-yieldcode
 [2]: https://twitter.com/otikik
 [3]: https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding
 [4]: https://twitter.com/graemerocher

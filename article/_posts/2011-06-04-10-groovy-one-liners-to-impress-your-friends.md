@@ -90,7 +90,7 @@ for (i in 1..100) { println "${i%3?'':'Fizz'}${i%5?'':'Buzz'}" ?: i }
 ```
 
 
-[Scala]: https://mkaz.com/2011/05/31/10-scala-one-liners-to-impress-your-friends/
+[Scala]: https://gist.github.com/mkaz/d11f8f08719d6d27bab5
 [CoffeeScript]: http://ricardo.cc/2011/06/02/10-CoffeeScript-One-Liners-to-Impress-Your-Friends.html
 [Ruby]: http://programmingzen.com/2011/06/02/10-ruby-one-liners-to-impress-your-friends/
 [Python]: http://codeblog.dhananjaynene.com/2011/06/10-python-one-liners-to-impress-your-friends/
@@ -99,5 +99,5 @@ for (i in 1..100) { println "${i%3?'':'Fizz'}${i%5?'':'Buzz'}" ?: i }
 [C#]: https://gist.github.com/1004837
 [F#]: http://willwhim.wpengine.com/2011/06/02/fsharp-one-liners-to-impress-your-friends/
 
-[Gpars]: http://gpars.codehaus.org/
+[Gpars]: http://www.gpars.org/
 [Groovy Prime Numbers]: http://www.thejavajar.com/2009/05/11/groovy-prime-numbers/
