@@ -1,6 +1,7 @@
 language: ruby
-rvm:
-  - ruby-head
+
+script:
+  - bundle exec rake test
 
 cache:
   - bundler # caching bundler gem packages will speed up build
