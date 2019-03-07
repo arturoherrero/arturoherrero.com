@@ -1,10 +1,6 @@
 language: ruby
 
-script:
-  - bundle exec rake test
-
 cache:
-  - bundler # caching bundler gem packages will speed up build
   directories:
     - $TRAVIS_BUILD_DIR/tmp/.htmlproofer # https://github.com/gjtorikian/html-proofer/issues/381
 
