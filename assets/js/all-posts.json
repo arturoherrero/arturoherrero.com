@@ -1,0 +1,12 @@
+---
+layout: null
+permalink: "/all-posts.json"
+---
+
+{
+  "posts" : [
+    {% for photo in site.photos %}
+      "{{ photo.url }}"{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}

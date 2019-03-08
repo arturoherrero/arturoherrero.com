@@ -6,6 +6,13 @@ url: "https://arturoherrero.com"
 markdown: kramdown
 permalink: :title/
 
+collections:
+  articles:
+    output: true
+    permalink: :title/
+  photos:
+    output: true
+
 sass:
   style: :compressed
   sass_dir: assets/css
