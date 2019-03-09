@@ -5,7 +5,8 @@ permalink: "/all-posts.json"
 
 {
   "posts" : [
-    {% for photo in site.photos %}
+    {% assign photos = site.photos | reverse %}
+    {% for photo in photos %}
       "{{ photo.url }}"{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ]
