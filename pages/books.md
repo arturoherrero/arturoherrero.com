@@ -17,7 +17,9 @@ I love reading. This is the complete list of all books that I've read in my life
 5. Planning for Everything: The Design of Paths and Goals. *Peter Morville*
 6. Nobleza de espíritu: Una idea olvidada. *Rob Riemen*
 7. El orden del tiempo. *Carlo Rovelli*
-8. El milagro Spinoza: Una filosofía para iluminar nuestra vida. *Frédéric Lenoir*
+8. El milagro Spinoza: Una filosofía para iluminar nuestra vida. *Frédéric Lenoir* ⭑
+9. La mente de los justos. *Jonathan Haidt*
+10. Plataforma. *Michel Houellebecq*
 
 
 ### 2018
