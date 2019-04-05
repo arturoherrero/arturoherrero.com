@@ -18,8 +18,10 @@ I love reading. This is the complete list of all books that I've read in my life
 6. Nobleza de espíritu: Una idea olvidada. *Rob Riemen*
 7. El orden del tiempo. *Carlo Rovelli*
 8. El milagro Spinoza: Una filosofía para iluminar nuestra vida. *Frédéric Lenoir* ⭑
-9. La mente de los justos. *Jonathan Haidt*
+9. La mente de los justos. *Jonathan Haidt* ⭑
 10. Plataforma. *Michel Houellebecq*
+11. Miedo. *Stefan Zweig* ⭑
+12. Site Reliability Engineering. *Beyer, Jones, Petoff & Murphy*
 
 
 ### 2018
