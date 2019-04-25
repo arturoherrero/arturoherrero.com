@@ -22,6 +22,10 @@ I love reading. This is the complete list of all books that I've read in my life
 10. Plataforma. *Michel Houellebecq*
 11. Miedo. *Stefan Zweig* ⭑
 12. Site Reliability Engineering. *Beyer, Jones, Petoff & Murphy*
+13. Dichosos dichos. *Victor Amiano*
+14. Cronometrados: Cómo el mundo se obsesionó con el tiempo. *Simon Garfield* ⭑
+15. Serverless Architectures on AWS. *Peter Sbarski*
+16. Contra la democracia. *Jason Brennan*
 
 
 ### 2018
