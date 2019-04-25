@@ -16,8 +16,6 @@ task :test do
   }
 
   HTMLProofer.check_directory("./_site", options).run
-rescue => exception
-  puts exception
 end
 
 task default: :test
