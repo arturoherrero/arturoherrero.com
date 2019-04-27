@@ -12,6 +12,7 @@ collections:
     permalink: :title/
   photos:
     output: true
+    permalink: /photos/:title/
 
 sass:
   style: :compressed
