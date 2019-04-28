@@ -3,11 +3,4 @@ layout: null
 permalink: "/all-posts.json"
 ---
 
-{
-  "posts" : [
-    {% assign photos = site.photos | reverse %}
-    {% for photo in photos %}
-      "{{ photo.url }}"{% unless forloop.last %},{% endunless %}
-    {% endfor %}
-  ]
-}
+{{ site.photos | reverse | map: "url" | jsonify }}
