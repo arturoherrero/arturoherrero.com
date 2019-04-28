@@ -10,6 +10,9 @@ collections:
   articles:
     output: true
     permalink: :title/
+  notes:
+    output: true
+    permalink: /notes/:title/
   photos:
     output: true
     permalink: /photos/:title/

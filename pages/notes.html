@@ -1,17 +1,16 @@
 ---
 layout: default
-title: Photos
-description: "Taking a picture every day: a 365 project."
-permalink: /photos/
+title: Notes
+description: My notebook and commonplace.
+permalink: /notes/
 ---
 
-{% assign items = site.photos | reverse %}
+{% assign items = site.notes | reverse %}
 
 {% capture content %}
   {% for item in items limit: 10 %}
     <div class="post">
       <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
-      <p class="date">{{ item.date | date: "%d %B %Y" }}</p>
       {{ item.content }}
     </div>
   {% endfor %}

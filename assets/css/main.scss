@@ -204,7 +204,7 @@ footer {
   }
 }
 
-.photos {
+#infinite {
   h3 {
     margin-top: 30px;
     font-size: 36px;
@@ -220,6 +220,8 @@ footer {
 
   .one a {
     color: inherit;
+    pointer-events: none;
+    cursor: default;
   }
 
   img:hover {
