@@ -1,6 +1,0 @@
----
-layout: null
-permalink: "/all-posts.json"
----
-
-{{ site.photos | reverse | map: "url" | jsonify }}
