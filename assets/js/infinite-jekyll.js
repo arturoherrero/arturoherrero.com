@@ -1,7 +1,5 @@
----
----
-$(function() {
-  var postURLs = {{ site.photos | reverse | map: "url" | jsonify }},
+function infiniteScroll(urls) {
+  var postURLs = urls,
       isFetchingPosts = false,
       shouldFetchPosts = true,
       postsToLoad = $(".post-list").children().length,
@@ -74,4 +72,4 @@ $(function() {
     isFetchingPosts = false;
     $(".infinite-spinner").fadeOut();
   }
-});
+}

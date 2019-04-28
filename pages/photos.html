@@ -26,3 +26,7 @@ permalink: /photos/
     <div class="sk-child sk-double-bounce2"></div>
   </div>
 </div>
+
+<script>
+  infiniteScroll({{ photos | map: "url" | jsonify }});
+</script>
