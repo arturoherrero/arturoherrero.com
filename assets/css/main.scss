@@ -223,7 +223,9 @@ footer {
     pointer-events: none;
     cursor: default;
   }
+}
 
+.photos {
   img:hover {
     filter: url(filters.svg#grayscale); /* Firefox 3.5+ */
     filter: gray; /* IE6-9 */

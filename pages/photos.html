@@ -9,7 +9,7 @@ permalink: /photos/
 
 {% capture content %}
   {% for item in items limit: 10 %}
-    <div class="post">
+    <div class="post photos">
       <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
       <p class="date">{{ item.date | date: "%d %B %Y" }}</p>
       {{ item.content }}
