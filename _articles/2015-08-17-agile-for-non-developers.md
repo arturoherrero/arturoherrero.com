@@ -12,4 +12,4 @@ software teams, or even your personal life.
 ![agile][1]
 
 
-[1]: /assets/images/agile-for-non-developers.jpg
+[1]: /assets/images/articles/agile-for-non-developers.jpg

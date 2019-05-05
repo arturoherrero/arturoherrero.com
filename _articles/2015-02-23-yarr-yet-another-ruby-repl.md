@@ -93,7 +93,7 @@ end
 [4]: http://pryrepl.org/
 [5]: http://www.gnu.org/software/bash/
 [6]: http://www.vim.org/
-[7]: /assets/images/yarr.png
+[7]: /assets/images/articles/yarr.png
 [8]: https://github.com/arturoherrero/yarr/blob/v0.0.1/lib/interpreter.rb#L82-L84
 [9]: https://github.com/arturoherrero/yarr/blob/v0.0.1/lib/interpreter.rb#L104-L110
 [10]: https://github.com/arturoherrero/yarr/blob/v0.0.1/spec/lib/interpreter_spec.rb#L22-L26

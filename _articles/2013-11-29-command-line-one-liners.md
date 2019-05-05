@@ -385,4 +385,4 @@ $ telnet towel.blinkenlights.nl
 [1]: http://socratesuk.org/
 [2]: https://github.com/fxn/tkn
 [3]: https://github.com/arturoherrero/command-line-one-liners
-[4]: /assets/images/command-line-one-liners.png
+[4]: /assets/images/articles/command-line-one-liners.png

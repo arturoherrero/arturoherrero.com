@@ -25,4 +25,4 @@ Do you know [Bullet Journal][3]{:target="_blank"} note-taking system?
 [1]: http://www.wunderlist.com/
 [2]: https://trello.com
 [3]: http://www.bulletjournal.com/
-[4]: /assets/images/bulletjournal.png
+[4]: /assets/images/articles/bulletjournal.png
