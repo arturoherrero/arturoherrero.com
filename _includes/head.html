@@ -1,4 +1,5 @@
-{% capture title %}{% if page.title %}{{ page.title }} | {{ site.author }}{% else %}{{ site.title }}{% endif %}{% endcapture %}
+{% capture collection %}{% if page.collection != "articles" %}{{ page.collection | capitalize }}{% endif %}{% endcapture %}
+{% capture title %}{% if page.title %}{{ collection }} {{ page.title }} | {{ site.author }}{% else %}{{ site.title }}{% endif %}{% endcapture %}
 {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
 
 <head>
@@ -8,18 +9,19 @@
   <meta name="author" content="{{ site.author }}">
   <meta name="description" content="{{ description }}">
 
-  <meta property="og:title" content="{{ title }}">
+  <meta property="og:title" content="{{ title | strip }}">
   <meta property="og:description" content="{{ description }}">
   <meta property="og:image" content="{{ "/assets/images/cover.png" | absolute_url }}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta name="twitter:card" content="summary">
 
-  <title>{{ title }}</title>
+  <title>{{ title | strip }}</title>
 
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Vollkorn:400,400italic" type="text/css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/css/foundation.min.css" type="text/css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" type="text/css">
   <link rel="stylesheet" href="/assets/css/main.css" type="text/css">
+
   <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
 
   <link rel="alternate" href="https://feeds.feedburner.com/arturoherrero" type="application/rss+xml" title="{{ site.title }}">
