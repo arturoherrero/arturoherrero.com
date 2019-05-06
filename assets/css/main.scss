@@ -232,3 +232,17 @@ footer {
     -webkit-filter: grayscale(1); /* Google Chrome & Safari 6+ */
   }
 }
+
+.side-image {
+  position: absolute;
+  margin-left: -250px;
+  margin-top: 8px;
+  float: right;
+  width: 200px;
+}
+
+@media(max-width: 1024px) {
+  .side-image {
+    margin-left: -350px;
+  }
+}
