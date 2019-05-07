@@ -20,9 +20,11 @@ A few weeks ago, I spoke about functional programming with Groovy at
 paradigm and then focused on how to apply them to improve the code that we
 write with Groovy.
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/10041168" width="720"
-height="579" frameborder="0" marginwidth="0" marginheight="0"
-scrolling="no"></iframe>
+<div class="iframe-container iframe-579">
+  <iframe src="https://www.slideshare.net/slideshow/embed_code/10041168"
+  width="720" height="579" frameborder="0" marginwidth="0" marginheight="0"
+  scrolling="no"></iframe>
+</div>
 
 
 [1]: http://greachconf.com/

@@ -105,10 +105,11 @@ But, **why should you care about mental models?**
 - Antifragile: Things That Gain from Disorder. *Nassim Nicholas Taleb*
 - Skin in the Game: Hidden Asymmetries in Daily Life. *Nassim Nicholas Taleb*
 
-
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/bKchRh0iIDMIJO"
-width="720" height="443" frameborder="0" marginwidth="0" marginheight="0"
-scrolling="no" allowfullscreen></iframe>
+<div class="iframe-container iframe-443">
+  <iframe src="https://www.slideshare.net/slideshow/embed_code/key/bKchRh0iIDMIJO"
+  width="720" height="443" frameborder="0" marginwidth="0" marginheight="0"
+  scrolling="no"></iframe>
+</div>
 
 
 [1]: http://2018.pamplonaswcraft.com/

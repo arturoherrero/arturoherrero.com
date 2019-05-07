@@ -38,9 +38,11 @@ Scala, Clojure... I shared my experiences with others developers at [Codemotion
 
 Hope you enjoy the slides.
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/12150303" width="720"
-height="579" frameborder="0" marginwidth="0" marginheight="0"
-scrolling="no" allowfullscreen></iframe>
+<div class="iframe-container iframe-579">
+  <iframe src="https://www.slideshare.net/slideshow/embed_code/12150303"
+  width="720" height="579" frameborder="0" marginwidth="0" marginheight="0"
+  scrolling="no"></iframe>
+</div>
 
 
 [1]: http://en.wikipedia.org/wiki/List_of_JVM_languages
