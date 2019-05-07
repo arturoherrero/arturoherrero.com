@@ -68,7 +68,7 @@ This is known as having **T-shaped skills** or being an **expert-generalist**.
 At the end of the day, we can understand [multiple mental models][6]{:target="_blank"}
 from Charlie Munger as a collection of big ideas from big disciplines that contains
 a checklist for decision-making. You can explore some of them in this infographic of [the
-top 12 most useful & universal mental models][7]{:target="_blank"}.
+top 12 most useful & universal mental models][7]{:target="_blank"} by Michael Simmons.
 
 
 But, **why should you care about mental models?**
@@ -116,4 +116,4 @@ scrolling="no" allowfullscreen></iframe>
 [3]: https://arxiv.org/abs/0812.4360
 [5]: https://youtu.be/Q3Ve7ec1HpY
 [6]: https://www.fs.blog/mental-models/
-[7]: https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+[7]: /assets/images/articles/mental-models.jpg
