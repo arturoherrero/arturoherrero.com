@@ -242,7 +242,9 @@ footer {
 
 @media(max-width: 1024px) {
   .side-image {
-    margin-left: -450px;
+    img {
+      display: none;
+    }
   }
 }
 
