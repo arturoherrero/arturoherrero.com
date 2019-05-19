@@ -5,6 +5,9 @@ description: Many projects die before being released.
 redirect_from: /2011/06/01/agile-inception/
 ---
 
+![The Agile Samurai][2]
+{: .side-image }
+
 Many projects die before being released, mainly for two reasons:
 
 - They fail to ask the right questions.
@@ -69,3 +72,4 @@ How much is it? Who are you going to need for your team?
 
 
 [1]: http://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/
+[2]: /assets/images/articles/the-agile-samurai.jpg

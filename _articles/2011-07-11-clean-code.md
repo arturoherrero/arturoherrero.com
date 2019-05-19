@@ -5,6 +5,9 @@ description: A Handbook of Agile Software Craftsmanship.
 redirect_from: /2011/07/11/clean-code/
 ---
 
+![Clean Code][5]
+{: .side-image }
+
 [Clean Code: A Handbook of Agile Software Craftsmanship][1]{:target="_blank"}
 is a book that every developer should read.
 
@@ -74,3 +77,4 @@ I did a talk at the Agile Madrid User Group about this book.
 [2]: https://martinfowler.com/bliki/BeckDesignRules.html
 [3]: https://leanpub.com/4rulesofsimpledesign
 [4]: http://www.maultech.com/chrislott/resources/cstyle/ottinger-naming.html
+[5]: /assets/images/articles/clean-code.jpg
