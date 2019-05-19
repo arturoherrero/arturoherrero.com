@@ -26,7 +26,13 @@ I love reading. This is the complete list of all books that I've read in my life
 14. Cronometrados: Cómo el mundo se obsesionó con el tiempo. *Simon Garfield* ⭑
 15. Serverless Architectures on AWS. *Peter Sbarski*
 16. Contra la democracia. *Jason Brennan*
-17. De cero a uno: Cómo inventar el futuro. *Peter Thiel*
+17. De cero a uno: Cómo inventar el futuro. *Peter Thiel* ⭑
+18. The Making of a Manager: What to Do When Everyone Looks to You. *Julie Zhuo* ⭑
+19. Ordesa. *Manuel Vilas*
+20. Breviario de los políticos. *Cardenal Mazarino*
+21. Una educación. *Tara Westover* ⭑
+22. Longitud. *Dava Sobel* ⭑
+23. Así se domina el mundo: Desvelando las claves del poder mundial. *Pedro Baños*
 
 
 ### 2018

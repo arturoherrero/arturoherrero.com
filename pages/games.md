@@ -14,6 +14,7 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 2. Little Nightmares. *PS4*
 3. Deus Ex: Mankind Divided. *PS4*
 4. Hitman: Episode 2 - Sapienza. *PS4* ⭑
+5. Plants vs. Zombies 2. *iOS*
 
 
 ### 2018
