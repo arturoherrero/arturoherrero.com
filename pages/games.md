@@ -15,6 +15,8 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 3. Deus Ex: Mankind Divided. *PS4*
 4. Hitman: Episode 2 - Sapienza. *PS4* ⭑
 5. Plants vs. Zombies 2. *iOS*
+6. Outlast 2. *PS4*
+7. Ratchet & Clank. *PS4* ⭑
 
 
 ### 2018
@@ -44,13 +46,13 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 7. The Order: 1886. *PS4* ⭑
 8. Thimbleweed Park. *PC* ⭑
 9. This War of Mine. *PS4* ⭑
-10. The Division. *PS4*
+10. Tom Clancy's The Division. *PS4*
 11. Fran Bow. *PC*
 12. Guacamelee! Super Turbo Championship Edition. *PS4*
 13. Everybody's Gone to the Rapture. *PS4*
 14. Metal Gear Solid V: The Phantom Pain. *PS4* ⭑
 15. Mini Metro. *PC*
-16. The Witcher 3 Game of the Year Edition. *PS4*
+16. The Witcher 3: Wild Hunt - Game of the Year Edition. *PS4*
 17. Horizon Zero Dawn. *PS4* ⭑
 18. Child of Light. *PS4*
 19. Firewatch. *PS4*
