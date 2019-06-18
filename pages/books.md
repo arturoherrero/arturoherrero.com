@@ -35,6 +35,7 @@ I love reading. This is the complete list of all books that I've read in my life
 23. Así se domina el mundo: Desvelando las claves del poder mundial. *Pedro Baños*
 24. El dominio mundial: Elementos del poder y claves geopolíticas. *Pedro Baños*
 25. La música de los números primos. *Marcus du Sautoy* ⭑
+26. 150 videojuegos. *Alejandro Crespo*
 
 
 ### 2018

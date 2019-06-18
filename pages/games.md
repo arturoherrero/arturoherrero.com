@@ -17,6 +17,7 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 5. Plants vs. Zombies 2. *iOS*
 6. Outlast 2. *PS4*
 7. Ratchet & Clank. *PS4* ⭑
+8. The Last Guardian. *PS4*
 
 
 ### 2018
@@ -68,19 +69,19 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 
 ### 2016
 1. Unravel. *PS4* ⭑
-2. Uncharted 1. *PS4*
-3. Uncharted 2. *PS4* ⭑
-4. Uncharted 3. *PS4*
+2. Uncharted: Drake's Fortune. *PS4*
+3. Uncharted 2: Among Thieves. *PS4* ⭑
+4. Uncharted 3: Drake's Deception. *PS4*
 5. Rayman Legends. *PS4* ⭑
 6. Driveclub. *PS4* ⭑
 7. Journey. *PS4* ⭑
-8. Pixeljunk Shooter. *PS4* ⭑
+8. PixelJunk Shooter Ultimate. *PS4* ⭑
 9. The Witness. *PS4* ⭑
 10. The Vanishing of Ethan Carter. *PS4*
 11. The Escape Plan. *PS4*
 12. Human Resource Machine. *PC* ⭑
 13. Battlefield 4. *PS4*
-14. Uncharted 4. *PS4* ⭑
+14. Uncharted 4: A Thief's End. *PS4* ⭑
 15. Portal. *PC* ⭑
 16. Portal 2. *Xbox 360* ⭑
 
