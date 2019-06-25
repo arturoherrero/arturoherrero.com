@@ -93,8 +93,10 @@ h1 {
   }
 }
 
-ul li, ol li {
-  margin-left: 1.35em;
+ul, ol {
+  li {
+    margin-left: 1.0em;
+  }
 }
 
 p > code, li > code {
