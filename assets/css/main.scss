@@ -247,6 +247,11 @@ footer {
   width: 200px;
 }
 
+.side-image-border {
+  @extend .side-image;
+  border: 1px solid black;
+}
+
 @media(max-width: 1024px) {
   .side-image {
     img {
