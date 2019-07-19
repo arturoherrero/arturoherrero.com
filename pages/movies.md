@@ -131,10 +131,11 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Amelie. *Jean-Pierre Jeunet. 2001*
 * La maldición del escorpión de jade. *Woody Allen. 2001*
 * El hombre que nunca estuvo allí. *Joel Coen. 2001*
-* El caso Bourne. *Doug Liman. 2002*
-* Ciudad de Dios. *Fernando Meirelles, Kátia Lund. 2002*
 * Camino a la perdición. *Sam Mendes. 2002*
+* Ciudad de Dios. *Fernando Meirelles, Kátia Lund. 2002*
+* El caso Bourne. *Doug Liman. 2002*
 * El pianista. *Roman Polanski. 2002*
+* Minority Report. *Steven Spielberg. 2002*
 * Mystic River. *Clint Eastwood. 2003*
 * Kill Bill: Volume 1. *Quentin Tarantino. 2003*
 * Kill Bill: Volume 2. *Quentin Tarantino. 2004*
@@ -192,6 +193,13 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Coco. *Lee Unkrich, Adrián Molina. 2017*
 * Yo, Tonya. *Craig Gillespie. 2017*
 * Cold War. *Pawel Pawlikowski. 2018*
+
+
+### Documentary
+
+* Jiro Dreams of Sushi. *David Gelb. 2011*
+* AlphaGo. *Greg Kohs. 2017*
+* Apolo 11. *Todd Miller. 2019*
 
 
 ### TV Shows

@@ -20,6 +20,7 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 8. The Last Guardian. *PS4*
 9. BioShock. *PS4* ⭑
 10. Baba Is You. *PC* ⭑
+11. Celeste. *PC*
 
 
 ### 2018

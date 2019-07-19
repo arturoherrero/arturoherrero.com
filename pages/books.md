@@ -38,6 +38,9 @@ I love reading. This is the complete list of all books that I've read in my life
 26. 150 videojuegos. *Alejandro Crespo*
 27. El patrón Bitcoin. *Saifedean Ammous* ⭑
 28. El futuro de la humanidad. *Michio Kaku*
+29. Shape Up: Stop Running in Circles and Ship Work that Matters. *Ryan Singer* ⭑
+30. 20 Patterns to Watch for in Your Engineering Team. *GitPrime Press*
+31. La imaginación conservadora. *Gregorio Luri*
 
 
 ### 2018
