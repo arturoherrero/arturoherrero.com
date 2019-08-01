@@ -41,6 +41,11 @@ I love reading. This is the complete list of all books that I've read in my life
 29. Shape Up: Stop Running in Circles and Ship Work that Matters. *Ryan Singer* ⭑
 30. 20 Patterns to Watch for in Your Engineering Team. *GitPrime Press*
 31. La imaginación conservadora. *Gregorio Luri*
+32. Atlas of Cyberspace. *Martin Dodge & Rob Kitchin*
+33. Camino de servidumbre. *Friedrich A. Hayek*
+34. El mundo de ayer: Memorias de un europeo. *Stefan Zweig* ⭑
+35. Espía y traidor: La mayor historia de espionaje de la Guerra Fría. *Ben Macintyre* ⭑
+36. La rebelión de Atlas. *Ayn Rand*
 
 
 ### 2018
