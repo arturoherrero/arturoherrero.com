@@ -45,7 +45,7 @@ I love reading. This is the complete list of all books that I've read in my life
 33. Camino de servidumbre. *Friedrich A. Hayek*
 34. El mundo de ayer: Memorias de un europeo. *Stefan Zweig* ⭑
 35. Espía y traidor: La mayor historia de espionaje de la Guerra Fría. *Ben Macintyre* ⭑
-36. La rebelión de Atlas. *Ayn Rand*
+36. La rebelión de Atlas. *Ayn Rand* ⭑
 
 
 ### 2018

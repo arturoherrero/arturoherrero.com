@@ -21,6 +21,9 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 9. BioShock. *PS4* ⭑
 10. Baba Is You. *PC* ⭑
 11. Celeste. *PC*
+12. Into the Breach. *PC* ⭑
+13. Return of the Obra Dinn. *PC* ⭑
+14. Prison Architect. *PC* ⭑
 
 
 ### 2018
