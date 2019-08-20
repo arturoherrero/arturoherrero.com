@@ -24,6 +24,8 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 12. Into the Breach. *PC* ⭑
 13. Return of the Obra Dinn. *PC* ⭑
 14. Prison Architect. *PC* ⭑
+15. 7 Billion Humans. *PC* ⭑
+16. FEZ. *PC* ⭑
 
 
 ### 2018
