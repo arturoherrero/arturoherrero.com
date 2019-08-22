@@ -6,7 +6,7 @@ redirect_from: /about/
 ---
 
 
-Hello! I'm Arturo, a software engineer based in London.
+Hello! I'm Arturo, a software engineer & designer based in London.
 
 Software is my craft. I help businesses to define and implement their products
 by keeping a holistic approach. I strive for excellence and share my passion,
