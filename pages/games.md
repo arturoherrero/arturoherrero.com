@@ -26,6 +26,7 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 14. Prison Architect. *PC* ⭑
 15. 7 Billion Humans. *PC* ⭑
 16. FEZ. *PC* ⭑
+17. BioShock 2. *PS4*
 
 
 ### 2018
