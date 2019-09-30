@@ -48,6 +48,8 @@ I love reading. This is the complete list of all books that I've read in my life
 36. La rebelión de Atlas. *Ayn Rand*
 37. The Science Behind the Speed. *David Tremayne*
 38. Core. *Andrzej Szczeklik* ⭑
+39. Catarsis: Sobre el poder curativo de la naturaleza y del arte. *Andrzej Szczeklik* ⭑
+40. Meditaciones. *Marco Aurelio* ⭑
 
 
 ### 2018
