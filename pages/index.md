@@ -6,7 +6,7 @@ redirect_from: /about/
 ---
 
 
-Hello! I'm Arturo, a software engineer & designer based in London.
+Hi! I'm Arturo, a software engineer & designer based in London. I work at [GitLab][9]{:target="_blank"}.
 
 Software is my craft. I help businesses to define and implement their products
 by keeping a holistic approach. I strive for excellence and share my passion,
@@ -54,3 +54,4 @@ Want to get in touch? Email me at *<arturo.herrero@gmail.com>*.
 [6]: /talks
 [7]: /books
 [8]: /projects
+[9]: https://gitlab.com
