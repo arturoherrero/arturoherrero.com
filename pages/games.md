@@ -39,7 +39,7 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 7. Life Is Strange. *PS4*
 8. A Way Out. *Xbox One* ⭑
 9. Rise of the Tomb Raider. *Xbox One*
-10. Assassin's Creed Unity. *PS4*
+10. Assassin's Creed Syndicate. *PS4*
 11. Snake Pass. *PS4* ⭑
 12. Wolfenstein: The New Order. *Xbox One* ⭑
 13. Never Alone. *Xbox One*

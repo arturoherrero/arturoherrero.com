@@ -50,6 +50,7 @@ I love reading. This is the complete list of all books that I've read in my life
 38. Core. *Andrzej Szczeklik* ⭑
 39. Catarsis: Sobre el poder curativo de la naturaleza y del arte. *Andrzej Szczeklik* ⭑
 40. Meditaciones. *Marco Aurelio* ⭑
+41. Cómo leer un libro. *Mortimer J. Adler & Charles Van Doren*
 
 
 ### 2018
@@ -232,7 +233,7 @@ I love reading. This is the complete list of all books that I've read in my life
 1. Programming Grails. *Burt Beckwith*
 2. A Mind for Numbers. *Barbara Oakley* ⭑
 3. Remote. *Jason Fried & David Heinemeier Hansson* ⭑
-4. Nuestro Enemigo, el Estado. *Albert Jay Nock*
+4. Nuestro enemigo, el Estado. *Albert Jay Nock*
 5. Inceptions. *Enrique Comba*
 6. Ruby Under a Microscope. *Pat Shaughnessy*
 7. Making Ideas Happen. *Scott Belsky*
@@ -601,7 +602,7 @@ I love reading. This is the complete list of all books that I've read in my life
 * Rastros de nadie. *Francisco Solano*
 * Bajo las nubes de Mexico. *Francisco Solano*
 * Desarrolla una mente prodigiosa. *Ramón Campayo*
-* Funky Business. *Jonas Ridderstrale, Kjell Nordström*
+* Funky Business. *Jonas Ridderstrale & Kjell Nordström*
 * Cuentos para pensar. *Jorge Bucay*
 * Asesinato en el Orient Express. *Agatha Christie*
 * La sombra del viento. *Carlos Ruiz Zafón*
