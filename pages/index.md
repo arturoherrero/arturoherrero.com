@@ -50,7 +50,7 @@ Want to get in touch? Email me at *<arturo.herrero@gmail.com>*.
 
 [3]: /articles
 [4]: https://twitter.com/ArturoHerrero
-[5]: https://www.packtpub.com/gb/web-development/instant-markdown-instant
+[5]: https://www.packtpub.com/web-development/instant-markdown-instant
 [6]: /talks
 [7]: /books
 [8]: /projects
