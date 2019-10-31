@@ -208,5 +208,5 @@ assert 3 == take2andAdd([1, 2, 3, 4, 5])
 
 [1]: http://norvig.com/design-patterns/
 [2]: http://www.agiledeveloper.com/presentations/design_patterns_in_java_and_groovy.pdf
-[3]: http://assets.en.oreilly.com/1/event/27/_Design%20Patterns_%20in%20Dynamic%20Languages%20Presentation.pdf
+[3]: https://github.com/nealford/presentations/blob/master/Design%20Patterns%20in%20Dynamic%20Languages%20(Neal%20Ford).pdf
 [4]: /closure-design-patterns-ruby-edition/
