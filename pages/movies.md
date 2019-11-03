@@ -57,6 +57,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Cantando bajo la lluvia. *Stanley Donen, Gene Kelly. 1952*
 * Cautivos del mal. *Vincente Minnelli. 1952*
 * Crimen perfecto. *Alfred Hitchcock. 1954*
+* La invasión de los ladrones de cuerpos. *Don Siegel. 1956*
 * Ariane. *Billy Wilder. 1957*
 * Doce hombres sin piedad. *Sidney Lumet. 1957*
 * Vértigo. *Alfred Hitchcock. 1958*

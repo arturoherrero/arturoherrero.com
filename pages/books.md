@@ -51,6 +51,11 @@ I love reading. This is the complete list of all books that I've read in my life
 39. Catarsis: Sobre el poder curativo de la naturaleza y del arte. *Andrzej Szczeklik* ⭑
 40. Meditaciones. *Marco Aurelio* ⭑
 41. Cómo leer un libro. *Mortimer J. Adler & Charles Van Doren*
+42. Américo Vespucio: Relato de un error histórico. *Stefan Zweig*
+43. La ruta del conocimiento. *Violet Moller* ⭑
+44. Billy Budd, marinero. *Herman Melville*
+45. Manual para mujeres de la limpieza. *Lucia Berlin*
+46. El giro. *Stephen Greenblatt*
 
 
 ### 2018

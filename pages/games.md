@@ -27,6 +27,7 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 15. 7 Billion Humans. *PC* ⭑
 16. FEZ. *PC* ⭑
 17. BioShock 2. *PS4*
+18. Red Dead Redemption 2. *PS4* ⭑
 
 
 ### 2018
