@@ -55,7 +55,12 @@ I love reading. This is the complete list of all books that I've read in my life
 43. La ruta del conocimiento. *Violet Moller* ⭑
 44. Billy Budd, marinero. *Herman Melville*
 45. Manual para mujeres de la limpieza. *Lucia Berlin*
-46. El giro. *Stephen Greenblatt*
+46. El giro. *Stephen Greenblatt* ⭑
+47. Tao Te Ching. *Lao-Tse* ⭑
+48. Hua Hu Ching: Meditaciones Taoístas. *Lao-Tse*
+49. Sobre la brevedad de la vida. *Lucio Anneo Séneca* ⭑
+50. Enquiridión. *Epicteto*
+51. Historia menor de Grecia. *Pedro Olalla*
 
 
 ### 2018
