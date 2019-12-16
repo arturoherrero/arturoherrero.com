@@ -64,6 +64,8 @@ I love reading. This is the complete list of all books that I've read in my life
 52. El mundo como obra de arte. *Frank Wilczek*
 53. Chess Player's Bible. *James Eade*
 54. El príncipe. *Nicolás Maquiavelo*
+55. Ascenso y caída de Adán y Eva. *Stephen Greenblatt*
+56. Arte: La historia visual definitiva. *Andrew Graham-Dixon*
 
 
 ### 2018
