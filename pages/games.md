@@ -28,6 +28,9 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 16. FEZ. *PC* ⭑
 17. BioShock 2. *PS4*
 18. Red Dead Redemption 2. *PS4* ⭑
+19. Rayman Mini. *Apple Arcade*
+20. Sayonara Wild Hearts. *Apple Arcade*
+21. Mini Motorways. *Apple Arcade*
 
 
 ### 2018

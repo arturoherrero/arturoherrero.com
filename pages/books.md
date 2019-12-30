@@ -61,11 +61,14 @@ I love reading. This is the complete list of all books that I've read in my life
 49. Sobre la brevedad de la vida. *Lucio Anneo Séneca* ⭑
 50. Enquiridión. *Epicteto* ⭑
 51. Historia menor de Grecia. *Pedro Olalla*
-52. El mundo como obra de arte. *Frank Wilczek*
+52. El mundo como obra de arte. *Frank Wilczek* ⭑
 53. Chess Player's Bible. *James Eade*
 54. El príncipe. *Nicolás Maquiavelo*
-55. Ascenso y caída de Adán y Eva. *Stephen Greenblatt*
+55. Ascenso y caída de Adán y Eva. *Stephen Greenblatt* ⭑
 56. Arte: La historia visual definitiva. *Andrew Graham-Dixon*
+57. Noventa poemas últimos. *Fernando Pessoa*
+58. Dios: Una historia humana. *Reza Aslan* ⭑
+59. El poder de las historias. *Martin Puchner*
 
 
 ### 2018
