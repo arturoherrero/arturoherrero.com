@@ -94,4 +94,4 @@ first. Finally we solve all problems:
 
 
 [1]: http://www.gnu.org/software/screen/
-[2]: http://www.harding.motd.ca/autossh/
+[2]: https://www.harding.motd.ca/autossh/
