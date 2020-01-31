@@ -9,6 +9,11 @@ permalink: /books/
 
 I love reading. This is the complete list of all books that I've read in my life.
 
+### 2020
+1. El demonio de la depresión: Un atlas de la enfermedad. *Andrew Solomon* ⭑
+2. Discurso del método. *René Descartes*
+
+
 ### 2019
 1. De qué hablo cuando hablo de correr. *Haruki Murakami* ⭑
 2. Lo que no podemos saber. *Marcus du Sautoy* ⭑

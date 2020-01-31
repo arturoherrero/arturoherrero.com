@@ -194,6 +194,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * La suerte de los Logan. *Steven Soderbergh. 2017*
 * Yo, Tonya. *Craig Gillespie. 2017*
 * Cold War. *Pawel Pawlikowski. 2018*
+* Joker. *Todd Phillips. 2019*
 
 
 ### Documentary
@@ -219,4 +220,5 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Chef's Table. *David Gelb. 2015*
 * Narcos. *Chris Brancato, Carlo Bernard, Doug Miro, Paul Eckstein. 2015*
 * The Crown. *Peter Morgan. 2016*
+* The Young Pope. *Paolo Sorrentino. 2016*
 * Mindhunter. *Joe Penhall. 2017*
