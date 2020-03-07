@@ -60,6 +60,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * La invasión de los ladrones de cuerpos. *Don Siegel. 1956*
 * Ariane. *Billy Wilder. 1957*
 * Doce hombres sin piedad. *Sidney Lumet. 1957*
+* Senderos de gloria. *Stanley Kubrick. 1957*
 * Vértigo. *Alfred Hitchcock. 1958*
 * Anatomía de un asesinato. *Otto Preminger. 1959*
 * Con faldas y a lo loco. *Billy Wilder. 1959*
@@ -95,6 +96,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 
 ### 1980
 * Star Wars. Episode V: The Empire Strikes Back. *Irvin Kershner. 1980*
+* El rey de la comedia. *Martin Scorsese. 1982*
 * Regreso al futuro. *Robert Zemeckis. 1985*
 * Los intocables de Eliot Ness. *Brian De Palma. 1987*
 * Cinema Paradiso. *Giuseppe Tornatore. 1988*
@@ -121,6 +123,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Lock & Stock. *Guy Ritchie. 1998*
 * American Beauty. *Sam Mendes. 1999*
 * El club de la lucha. *David Fincher. 1999*
+* El talento de Mr. Ripley. *Anthony Minghella. 1999*
 * La milla verde. *Frank Darabont. 1999*
 * Matrix. *Lilly Wachowski, Lana Wachowski. 1999*
 * Toy Story 2. *John Lasseter, Ash Brannon, Lee Unkrich. 1999*
@@ -194,7 +197,10 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * La suerte de los Logan. *Steven Soderbergh. 2017*
 * Yo, Tonya. *Craig Gillespie. 2017*
 * Cold War. *Pawel Pawlikowski. 2018*
+* Klaus. *Sergio Pablos*. 2019*
 * Joker. *Todd Phillips. 2019*
+* Parásitos. *Bong Joon-ho. 2019*
+* Toy Story 4. *Josh Cooley. 2019*
 
 
 ### Documentary
@@ -203,6 +209,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * AlphaGo. *Greg Kohs. 2017*
 * Becoming Warren Buffett. *Peter W. Kunhardt, Brian Oakes. 2017*
 * Apolo 11. *Todd Miller. 2019*
+* The Imagineering Story. *Leslie Iwerks. 2019*
 
 
 ### TV Shows

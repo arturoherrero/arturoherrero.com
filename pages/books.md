@@ -12,6 +12,7 @@ I love reading. This is the complete list of all books that I've read in my life
 ### 2020
 1. El demonio de la depresión: Un atlas de la enfermedad. *Andrew Solomon* ⭑
 2. Discurso del método. *René Descartes*
+3. Al este del Edén. *John Steinbeck* ⭑
 
 
 ### 2019
@@ -70,10 +71,10 @@ I love reading. This is the complete list of all books that I've read in my life
 53. Chess Player's Bible. *James Eade*
 54. El príncipe. *Nicolás Maquiavelo*
 55. Ascenso y caída de Adán y Eva. *Stephen Greenblatt* ⭑
-56. Arte: La historia visual definitiva. *Andrew Graham-Dixon*
+56. Arte: La historia visual definitiva. *Andrew Graham-Dixon* ⭑
 57. Noventa poemas últimos. *Fernando Pessoa*
 58. Dios: Una historia humana. *Reza Aslan* ⭑
-59. El poder de las historias. *Martin Puchner*
+59. El poder de las historias. *Martin Puchner* ⭑
 
 
 ### 2018
