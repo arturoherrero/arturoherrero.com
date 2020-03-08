@@ -152,7 +152,7 @@ I love reading. This is the complete list of all books that I've read in my life
 72. El reino del lenguaje. *Tom Wolfe* ⭑
 73. Bartleby el escribiente. *Herman Melville* ⭑
 74. El regreso liberal: Más allá de la política de la identidad. *Mark Lilla*
-75. La Enciclopedia: Breve antología de las entradas más significativas del magno proyecto que dirigieron Diderot y D'Alembert. *Gonzalo Torné* ⭑
+75. La Enciclopedia. *Gonzalo Torné* ⭑
 
 
 ### 2017
