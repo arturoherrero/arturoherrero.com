@@ -79,6 +79,7 @@ But, **why should you care about mental models?**
 - You can increase (self-)awareness.
 - They provide ways to work more collaboratively by understanding your coworkers.
 - They also provide ways to improve yourself so you can be more effective
+{: .list-related }
 
 
 ### Summary

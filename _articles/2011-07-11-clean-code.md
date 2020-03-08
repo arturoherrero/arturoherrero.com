@@ -59,8 +59,9 @@ I try to summarize a few ideas from the book:
     To create a good emergent design we should run all tests, eliminate duplication,
     express the intention in the code and minimize the number of classes and methods.
     These are Kent Beck's *Four Rules of Simple Design*:
-    - [Martin Fowler on Beck Design Rules][2]{:target="_blank"}
-    - [Understanding the Four Rules of Simple Design by Corey Haines][3]{:target="_blank"}
+    - Martin Fowler on [Beck Design Rules][2]{:target="_blank"}.
+    - [Understanding the Four Rules of Simple Design][3]{:target="_blank"} by Corey Haines.
+    {: .list-related }
 
 ---
 
