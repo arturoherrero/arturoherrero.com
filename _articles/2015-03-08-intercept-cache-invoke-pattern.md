@@ -16,7 +16,7 @@ application to implement it on the fly, let us cache that implementation for
 future invocation, and then invoke it. The first call takes performance hit but
 next calls are faster.
 
-- Bonus: [Enrique García][2]{:target="_blank"} pointed out to me that it's a good idea to
+Bonus: [Enrique García][2]{:target="_blank"} pointed out to me that it's a good idea to
 define `respond_to_missing?` when overriding `method_missing` <sup>[[thoughtbot][3]{:target="_blank"}]</sup>.
 
 ```ruby
