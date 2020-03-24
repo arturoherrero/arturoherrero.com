@@ -13,6 +13,9 @@ I love reading. This is the complete list of all books that I've read in my life
 1. El demonio de la depresión: Un atlas de la enfermedad. *Andrew Solomon* ⭑
 2. Discurso del método. *René Descartes*
 3. Al este del Edén. *John Steinbeck* ⭑
+4. The Complete Guide to Rails Performance. *Nate Berkopec*
+5. María Estuardo. *Stefan Zweig* ⭑
+6. El imperio británico: Cómo Gran Bretaña forjó el orden mundial. *Niall Ferguson*
 
 
 ### 2019
@@ -145,7 +148,7 @@ I love reading. This is the complete list of all books that I've read in my life
 65. Deshaciendo errores. *Michael Lewis* ⭑
 66. Geometría y arte. *David Wade* ⭑
 67. La felicidad conyugal. *Leo Tolstoy*
-68. La plaza y la torre. Redes y poder: de los masones a facebook. *Niall Ferguson* ⭑
+68. La plaza y la torre. Redes y poder: de los masones a Facebook. *Niall Ferguson* ⭑
 69. El futuro es hoy: España en el cambio de época. *José María Aznar*
 70. Leer y escribir: Dos mundos. *V. S. Naipaul*
 71. Las virtudes cotidianas: El orden moral en un mundo dividido. *Michael Ignatieff*
