@@ -16,6 +16,7 @@ I love reading. This is the complete list of all books that I've read in my life
 4. The Complete Guide to Rails Performance. *Nate Berkopec*
 5. María Estuardo. *Stefan Zweig* ⭑
 6. El imperio británico: Cómo Gran Bretaña forjó el orden mundial. *Niall Ferguson*
+7. De senectute politica: Carta sin respuesta a Cicerón. *Pedro Olalla*
 
 
 ### 2019

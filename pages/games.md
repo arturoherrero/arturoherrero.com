@@ -11,6 +11,7 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 
 ### 2020
 1. The Legend of Zelda: Breath of the Wild. *Switch* ⭑
+2. Lara Croft GO. *iOS*
 
 
 ### 2019

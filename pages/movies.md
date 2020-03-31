@@ -44,6 +44,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Berlín Occidente. *Billy Wilder. 1948*
 * Carta de una desconocida. *Max Ophüls. 1948*
 * Ladrón de bicicletas. *Vittorio De Sica. 1948*
+* Las zapatillas rojas. *Michael Powell, Emeric Pressburger. 1948*
 * El manantial. *King Vidor. 1949*
 * El tercer hombre. *Carol Reed. 1949*
 
@@ -197,7 +198,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * La suerte de los Logan. *Steven Soderbergh. 2017*
 * Yo, Tonya. *Craig Gillespie. 2017*
 * Cold War. *Pawel Pawlikowski. 2018*
-* Klaus. *Sergio Pablos*. 2019*
+* Klaus. *Sergio Pablos. 2019*
 * Joker. *Todd Phillips. 2019*
 * Parásitos. *Bong Joon-ho. 2019*
 * Toy Story 4. *Josh Cooley. 2019*
