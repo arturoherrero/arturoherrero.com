@@ -58,6 +58,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Cantando bajo la lluvia. *Stanley Donen, Gene Kelly. 1952*
 * Cautivos del mal. *Vincente Minnelli. 1952*
 * Crimen perfecto. *Alfred Hitchcock. 1954*
+* La ventana indiscreta. *Alfred Hitchcock. 1954*
 * La invasión de los ladrones de cuerpos. *Don Siegel. 1956*
 * Ariane. *Billy Wilder. 1957*
 * Doce hombres sin piedad. *Sidney Lumet. 1957*
@@ -151,6 +152,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Gracias por fumar. *Jason Reitman. 2005*
 * Match Point. *Woody Allen. 2005*
 * Orgullo y prejuicio. *Joe Wright. 2005*
+* Sin City (Ciudad del pecado). *Robert Rodriguez, Frank Miller, Quentin Tarantino. 2005*
 * El Perfume. Historia de un asesino. *Tom Tykwer. 2006*
 * Infiltrados. *Martin Scorsese. 2006*
 * La vida de los otros. *Florian Henckel von Donnersmarck. 2006*
@@ -186,7 +188,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Nightcrawler. *Dan Gilroy. 2014*
 * Relatos salvajes. *Damián Szifrón. 2014*
 * Whiplash. *Damien Chazelle. 2014*
-* La La Land. *Damien Chazelle. 2016*
+* La ciudad de las estrellas (La La Land). *Damien Chazelle. 2016*
 * Lion. *Garth Davis. 2016*
 * Mujeres del siglo XX. *Mike Mills. 2016*
 * Nocturnal Animals. *Tom Ford. 2016*

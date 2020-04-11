@@ -17,6 +17,8 @@ I love reading. This is the complete list of all books that I've read in my life
 5. María Estuardo. *Stefan Zweig* ⭑
 6. El imperio británico: Cómo Gran Bretaña forjó el orden mundial. *Niall Ferguson*
 7. De senectute politica: Carta sin respuesta a Cicerón. *Pedro Olalla*
+8. Diario del año de la peste. *Daniel Defoe*
+9. The Ghost Map. *Steven Johnson*
 
 
 ### 2019
