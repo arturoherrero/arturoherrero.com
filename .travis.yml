@@ -2,9 +2,6 @@ language: ruby
 rvm:
   - 2.6.5
 
-before_install:
-  - gem install bundler
-
 cache:
   bundler: true
   directories:
