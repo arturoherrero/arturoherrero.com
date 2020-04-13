@@ -7,6 +7,9 @@ permalink: /directors/
 
 ## {{ page.title }}
 
+I love cinema. This is the list of my favorite cinema directors and their movies.
+
+
 ##### Charles Chaplin
 - El chico. *1921*
 - Luces de la ciudad. *1931*
@@ -84,6 +87,11 @@ permalink: /directors/
 - Atraco perfecto. *1956*
 - Senderos de gloria. *1957*
 - ¿Teléfono rojo? Volamos hacia Moscú. *1964*
+
+##### Sidney Lumet
+- Doce hombres sin piedad. *1957*
+- Tarde de perros. *1975*
+- Antes que el diablo sepa que has muerto. *2007*
 
 ##### Akira Kurosawa
 - Los canallas duermen en paz. *1960*
