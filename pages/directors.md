@@ -251,25 +251,34 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 - Moneyball: Rompiendo las reglas. *2011*
 - Foxcatcher. *2014*
 
+##### Wes Anderson
+- Moonrise Kingdom. *2012*
+- El Gran Hotel Budapest. *2014*
+- Isla de perros. *2018*
+
 ##### Denis Villeneuve
 - Enemy. *2013*
 - Prisioneros. *2013*
 - Sicario. *2015*
 - La llegada. *2016*
 
+##### Alfonso Cuarón
+- Gravity. *2013*
+- Roma. *2018*
+
 ##### Rodrigo Sorogoyen
 - Stockholm. *2013*
 - Que Dios nos perdone. *2016*
 - El Reino. *2018*
 
-##### Alfonso Cuarón
-- Gravity. *2013*
-- Roma. *2018*
+##### Alberto Rodríguez
+- La isla mínima. *2014*
+- El hombre de las mil caras. *2016*
 
 ##### Damien Chazelle
 - Whiplash. *2014*
 - La ciudad de las estrellas (La La Land). *2016*
 
-##### Alberto Rodríguez
-- La isla mínima. *2014*
-- El hombre de las mil caras. *2016*
+##### Greta Gerwig
+- Lady Bird. *2017*
+- Mujercitas. *2019*

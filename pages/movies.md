@@ -202,6 +202,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Cold War. *Pawel Pawlikowski. 2018*
 * Klaus. *Sergio Pablos. 2019*
 * Joker. *Todd Phillips. 2019*
+* Mujercitas. *Greta Gerwig. 2019*
 * Parásitos. *Bong Joon-ho. 2019*
 * Toy Story 4. *Josh Cooley. 2019*
 

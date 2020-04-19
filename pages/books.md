@@ -11,14 +11,16 @@ I love reading. This is the complete list of all books that I've read in my life
 
 ### 2020
 1. El demonio de la depresión: Un atlas de la enfermedad. *Andrew Solomon* ⭑
-2. Discurso del método. *René Descartes*
+2. Discurso del método. *René Descartes* ⭑
 3. Al este del Edén. *John Steinbeck* ⭑
 4. The Complete Guide to Rails Performance. *Nate Berkopec*
 5. María Estuardo. *Stefan Zweig* ⭑
 6. El imperio británico: Cómo Gran Bretaña forjó el orden mundial. *Niall Ferguson*
 7. De senectute politica: Carta sin respuesta a Cicerón. *Pedro Olalla*
 8. Diario del año de la peste. *Daniel Defoe*
-9. The Ghost Map. *Steven Johnson*
+9. The Ghost Map. *Steven Johnson* ⭑
+10. Visual Explanations. *Edward R. Tufte*
+11. Frankenstein o el moderno Prometeo. *Mary Shelley*
 
 
 ### 2019
@@ -458,7 +460,7 @@ I love reading. This is the complete list of all books that I've read in my life
 17. Stalingrado. *Antony Beevor*
 18. ¡Indignaos! *Stéphane Hessel*
 19. El libro de las ilusiones. *Paul Auster*
-20. Envisioning Information. *Edward Tufte* ⭑
+20. Envisioning Information. *Edward R. Tufte* ⭑
 21. Linchpin: Are You Indispensable? *Seth Godin* ⭑
 22. The Productive Programmer. *Neal Ford*
 23. Groovy in Action. *Dierk Koenig with others*
@@ -471,7 +473,7 @@ I love reading. This is the complete list of all books that I've read in my life
 30. Principios universales de diseño. *William Lidwell, Kritina Holden & Jill Butler* ⭑
 31. Structure and Interpretation of Computer Programs. *Abelson, J & J Sussman* ⭑
 32. Functional Programming for Java Developers. *Dean Wampler*
-33. Seis sombreros para pensar. *Edward De Bono*
+33. Seis sombreros para pensar. *Edward de Bono*
 34. 50 cosas que hay que saber sobre filosofía. *Ben Dupré*
 35. El ABC de la felicidad. *Lou Marinoff*
 36. Implementing Lean Software Development. *Mary & Tom Poppendieck* ⭑
