@@ -91,6 +91,7 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 ##### Sidney Lumet
 - Doce hombres sin piedad. *1957*
 - Tarde de perros. *1975*
+- Network, un mundo implacable. *1976*
 - Antes que el diablo sepa que has muerto. *2007*
 
 ##### Akira Kurosawa

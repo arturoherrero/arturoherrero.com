@@ -20,7 +20,9 @@ I love reading. This is the complete list of all books that I've read in my life
 8. Diario del año de la peste. *Daniel Defoe*
 9. The Ghost Map. *Steven Johnson* ⭑
 10. Visual Explanations. *Edward R. Tufte*
-11. Frankenstein o el moderno Prometeo. *Mary Shelley*
+11. Frankenstein o el moderno Prometeo. *Mary Shelley* ⭑
+12. Bernie Wrightson's Frankenstein: Or the Modern Prometheus. *Bernie Wrightson* ⭑
+13. Peste & Cólera. *Patrick Deville*
 
 
 ### 2019
