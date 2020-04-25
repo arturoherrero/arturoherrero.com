@@ -58,6 +58,7 @@ a {
 h1 {
   font-size: 3em;
   padding-top: 25px;
+  margin: 0.67em 0;
 
   > a {
     color: black;
@@ -133,6 +134,11 @@ pre {
   padding-right: 1px;
   padding-left: 10px;
   overflow: auto;
+}
+
+sub, sup {
+  line-height: 0;
+  font-size: 75%;
 }
 
 img {
