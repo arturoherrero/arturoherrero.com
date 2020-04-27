@@ -244,6 +244,27 @@ hr {
   margin: 1.25rem 0 1.1875rem;
 }
 
+table {
+  border: solid 1px #DDDDDD;
+}
+
+table thead {
+  background: #F5F5F5;
+
+  tr th, tr td {
+    padding: 0.5rem 0.625rem 0.625rem;
+  }
+}
+
+table tr th, table tr td {
+  padding: 0.5625rem 0.625rem;
+  line-height: 1.125rem;
+}
+
+table tr.even, table tr.alt, table tr:nth-of-type(even) {
+  background: #F9F9F9;
+}
+
 footer {
   margin: 20px auto;
   padding-bottom: 30px;
