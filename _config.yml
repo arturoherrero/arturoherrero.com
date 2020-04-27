@@ -18,6 +18,8 @@ collections:
     output: true
     permalink: /photos/:title/
 
+future: true
+
 sass:
   style: :compressed
   sass_dir: assets/css
