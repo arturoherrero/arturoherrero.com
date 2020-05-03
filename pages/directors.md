@@ -133,6 +133,10 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 - Regreso al futuro. *1985*
 - Forrest Gump. *1994*
 
+##### Giuseppe Tornatore
+- Cinema Paradiso. *1988*
+- La mejor oferta. *2013*
+
 ##### James Cameron
 - Terminator 2: El juicio final. *1991*
 - Mentiras arriesgadas. *1994*
@@ -182,6 +186,7 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 ##### Sam Mendes
 - American Beauty. *1999*
 - Camino a la perdición. *2002*
+- 1917\. *2019*
 
 ##### Spike Jonze
 - Cómo ser John Malkovich. *1999*

@@ -189,6 +189,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Relatos salvajes. *Damián Szifrón. 2014*
 * Whiplash. *Damien Chazelle. 2014*
 * La ciudad de las estrellas (La La Land). *Damien Chazelle. 2016*
+* La doncella (The Handmaiden). *Park Chan-wook. 2016*
 * Lion. *Garth Davis. 2016*
 * Mujeres del siglo XX. *Mike Mills. 2016*
 * Nocturnal Animals. *Tom Ford. 2016*
@@ -200,6 +201,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * La suerte de los Logan. *Steven Soderbergh. 2017*
 * Yo, Tonya. *Craig Gillespie. 2017*
 * Cold War. *Pawel Pawlikowski. 2018*
+* 1917\. *Sam Mendes. 2019*
 * Klaus. *Sergio Pablos. 2019*
 * Joker. *Todd Phillips. 2019*
 * Mujercitas. *Greta Gerwig. 2019*

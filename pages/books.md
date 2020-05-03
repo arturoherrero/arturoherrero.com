@@ -23,6 +23,8 @@ I love reading. This is the complete list of all books that I've read in my life
 11. Frankenstein o el moderno Prometeo. *Mary Shelley* ⭑
 12. Bernie Wrightson's Frankenstein: Or the Modern Prometheus. *Bernie Wrightson* ⭑
 13. Peste & Cólera. *Patrick Deville*
+14. En el mapa. De cómo el mundo adquirió su aspecto. *Simon Garfield* ⭑
+15. Ulises y la comadreja. *Georg von Wallwitz*
 
 
 ### 2019
