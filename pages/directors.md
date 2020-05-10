@@ -86,6 +86,7 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 ##### Stanley Kubrick
 - Atraco perfecto. *1956*
 - Senderos de gloria. *1957*
+- Espartaco. *1960*
 - ¿Teléfono rojo? Volamos hacia Moscú. *1964*
 
 ##### Sidney Lumet
