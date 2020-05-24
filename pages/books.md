@@ -26,6 +26,7 @@ I love reading. This is the complete list of all books that I've read in my life
 14. En el mapa. De cómo el mundo adquirió su aspecto. *Simon Garfield* ⭑
 15. Ulises y la comadreja. *Georg von Wallwitz* ⭑
 16. El ingenioso caballero don Quijote de la Mancha. *Miguel de Cervantes Saavedra* ⭑
+17. El triunfo del dinero: Cómo las finanzas mueven el mundo. *Niall Ferguson* ⭑
 
 
 ### 2019

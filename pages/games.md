@@ -14,6 +14,7 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 2. Lara Croft GO. *iOS*
 3. Monument Valley 2. *iOS*
 4. Captain Toad: Treasure Tracker. *Switch* ⭑
+5. God of War. *PS4*
 
 
 ### 2019

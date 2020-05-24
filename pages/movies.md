@@ -57,6 +57,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Un lugar en el sol. *George Stevens. 1951*
 * Cantando bajo la lluvia. *Stanley Donen, Gene Kelly. 1952*
 * Cautivos del mal. *Vincente Minnelli. 1952*
+* Melodías de Broadway 1955. *Vincente Minnelli. 1953*
 * Crimen perfecto. *Alfred Hitchcock. 1954*
 * La ventana indiscreta. *Alfred Hitchcock. 1954*
 * La invasión de los ladrones de cuerpos. *Don Siegel. 1956*
@@ -92,6 +93,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 
 
 ### 1970
+* El padrino. *Francis Ford Coppola. 1972*
 * El golpe. *George Roy Hill. 1973*
 * Chinatown. *Roman Polanski. 1974*
 * Primera plana. *Billy Wilder. 1974*
@@ -100,6 +102,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 
 ### 1980
 * Star Wars. Episode V: The Empire Strikes Back. *Irvin Kershner. 1980*
+* The Shining. *Stanley Kubrick. 1980*
 * El rey de la comedia. *Martin Scorsese. 1982*
 * Regreso al futuro. *Robert Zemeckis. 1985*
 * Los intocables de Eliot Ness. *Brian De Palma. 1987*

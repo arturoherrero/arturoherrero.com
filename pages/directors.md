@@ -72,6 +72,10 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 - Una cara con ángel. *1957*
 - Charada. *1963*
 
+##### Vincente Minnelli
+- Cautivos del mal. *1952*
+- Melodías de Broadway 1955. *1953*
+
 ##### Alfred Hitchcock
 - Crimen perfecto. *1954*
 - La ventana indiscreta. *1954*
@@ -88,6 +92,7 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 - Senderos de gloria. *1957*
 - Espartaco. *1960*
 - ¿Teléfono rojo? Volamos hacia Moscú. *1964*
+- The Shining. *1980*
 
 ##### Sidney Lumet
 - Doce hombres sin piedad. *1957*
