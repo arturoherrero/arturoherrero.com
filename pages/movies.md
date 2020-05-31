@@ -90,6 +90,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * La leyenda del indomable. *Stuart Rosenberg. 1967*
 * Sola en la oscuridad. *Terence Young. 1967*
 * La extraña pareja. *Gene Saks. 1968*
+* Dos hombres y un destino. *George Roy Hill. 1969*
 
 
 ### 1970
@@ -102,7 +103,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 
 ### 1980
 * Star Wars. Episode V: The Empire Strikes Back. *Irvin Kershner. 1980*
-* The Shining. *Stanley Kubrick. 1980*
+* El resplandor (The Shining). *Stanley Kubrick. 1980*
 * El rey de la comedia. *Martin Scorsese. 1982*
 * Regreso al futuro. *Robert Zemeckis. 1985*
 * Los intocables de Eliot Ness. *Brian De Palma. 1987*
@@ -128,6 +129,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * American History X. *Tony Kaye. 1998*
 * La cena de los idiotas. *Francis Veber. 1998*
 * Lock & Stock. *Guy Ritchie. 1998*
+* Salvar al soldado Ryan. *Steven Spielberg. 1998*
 * American Beauty. *Sam Mendes. 1999*
 * El club de la lucha. *David Fincher. 1999*
 * El talento de Mr. Ripley. *Anthony Minghella. 1999*

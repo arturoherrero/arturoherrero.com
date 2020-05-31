@@ -92,7 +92,7 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 - Senderos de gloria. *1957*
 - Espartaco. *1960*
 - ¿Teléfono rojo? Volamos hacia Moscú. *1964*
-- The Shining. *1980*
+- El resplandor (The Shining). *1980*
 
 ##### Sidney Lumet
 - Doce hombres sin piedad. *1957*
@@ -116,6 +116,7 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 - Tiburón. *1975*
 - La lista de Schindler. *1993*
 - Parque Jurásico (Jurassic Park). *1993*
+- Salvar al soldado Ryan. *1998*
 - Atrápame si puedes. *2002*
 - Minority Report. *2002*
 - Munich. *2005*
@@ -134,6 +135,10 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 - Infiltrados. *2006*
 - Shutter Island. *2010*
 - El lobo de Wall Street. *2013*
+
+##### George Roy Hill
+- Dos hombres y un destino. *1969*
+- El golpe. *1973*
 
 ##### Robert Zemeckis
 - Regreso al futuro. *1985*

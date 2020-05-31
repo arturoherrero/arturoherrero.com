@@ -27,6 +27,7 @@ I love reading. This is the complete list of all books that I've read in my life
 15. Ulises y la comadreja. *Georg von Wallwitz* ⭑
 16. El ingenioso caballero don Quijote de la Mancha. *Miguel de Cervantes Saavedra* ⭑
 17. El triunfo del dinero: Cómo las finanzas mueven el mundo. *Niall Ferguson* ⭑
+18. Explicar el mundo: El descubrimiento de la ciencia moderna. *Steven Weinberg*
 
 
 ### 2019
