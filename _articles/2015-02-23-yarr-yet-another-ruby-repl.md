@@ -88,11 +88,11 @@ end
 
 
 [1]: https://github.com/arturoherrero/yarr/
-[2]: http://groovy-lang.org/groovysh.html
-[3]: http://ruby-doc.org/stdlib/libdoc/irb/rdoc/IRB.html
-[4]: http://pryrepl.org/
-[5]: http://www.gnu.org/software/bash/
-[6]: http://www.vim.org/
+[2]: https://groovy-lang.org/groovysh.html
+[3]: https://ruby-doc.org/stdlib/libdoc/irb/rdoc/IRB.html
+[4]: https://pryrepl.org/
+[5]: https://www.gnu.org/software/bash/
+[6]: https://www.vim.org/
 [7]: /assets/images/articles/yarr.png
 [8]: https://github.com/arturoherrero/yarr/blob/v0.0.1/lib/interpreter.rb#L82-L84
 [9]: https://github.com/arturoherrero/yarr/blob/v0.0.1/lib/interpreter.rb#L104-L110
