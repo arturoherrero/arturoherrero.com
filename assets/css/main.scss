@@ -370,10 +370,6 @@ footer {
     cursor: default;
   }
 
-  .photo {
-    margin-bottom: 0px;
-  }
-
   #signature {
     margin-top: -$post_margin_bottom + $signature_margin_top;
   }
@@ -383,12 +379,14 @@ footer {
   margin-bottom: $post_margin_bottom;
 }
 
-.photos {
+.photo {
   img:hover {
     filter: url(filters.svg#grayscale); /* Firefox 3.5+ */
     filter: gray; /* IE6-9 */
     -webkit-filter: grayscale(1); /* Google Chrome & Safari 6+ */
   }
+
+  margin-bottom: 0px;
 }
 
 .side-image {
