@@ -363,6 +363,18 @@ footer {
     pointer-events: none;
     cursor: default;
   }
+
+  .photo {
+    margin-bottom: 0px;
+  }
+
+  #signature {
+    margin-top: -60px;
+  }
+}
+
+.post {
+  margin-bottom: 100px;
 }
 
 .photos {
@@ -426,11 +438,4 @@ footer {
   img {
     margin: 0;
   }
-}
-
-.notes-separator {
-  color: #6f6f6f;
-  border-width: 1.6px 0 0;
-  margin-top: 40px;
-  margin-bottom: 50px;
 }
