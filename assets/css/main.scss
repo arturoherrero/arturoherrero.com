@@ -228,6 +228,10 @@ pre {
   overflow: auto;
 }
 
+/**
+ * Prevent `sub` and `sup` elements from affecting the line height in
+ * all browsers.
+ */
 sub, sup {
   line-height: 0;
   font-size: 75%;
@@ -440,4 +444,13 @@ footer {
   img {
     margin: 0;
   }
+}
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+pre {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
 }
