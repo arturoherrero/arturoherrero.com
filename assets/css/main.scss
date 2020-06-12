@@ -6,6 +6,8 @@
 
 $main_color: #cb0063;
 $font_family: "Vollkorn", serif;
+$signature_margin_top: 40px;
+$post_margin_bottom: 100px;
 
 body {
   font-family: $font_family;
@@ -324,7 +326,7 @@ footer {
 }
 
 #signature {
-  margin-top: 40px;
+  margin-top: $signature_margin_top;
   text-align: right;
 
   #pipe {
@@ -369,12 +371,12 @@ footer {
   }
 
   #signature {
-    margin-top: -60px;
+    margin-top: -$post_margin_bottom + $signature_margin_top;
   }
 }
 
 .post {
-  margin-bottom: 100px;
+  margin-bottom: $post_margin_bottom;
 }
 
 .photos {
