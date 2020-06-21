@@ -108,6 +108,11 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 - Descalzos por el parque. *1967*
 - La extraña pareja. *1968*
 
+##### Francis Ford Coppola
+- El padrino. *1972*
+- La conversación. *1974*
+- El padrino. Parte II. *1974*
+
 ##### Roman Polanski
 - Chinatown. *1974*
 - El pianista. *2002*

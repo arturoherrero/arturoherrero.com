@@ -32,6 +32,9 @@ I love reading. This is the complete list of all books that I've read in my life
 20. Alabanza de la estupidez. *Erasmo de Rotterdam*
 21. La Escuela Española de Economía. *Ángel Fernández Álvarez*
 22. Del rey y de la institución real. *Juan de Mariana*
+23. 60 poemas. *Emily Dickinson*
+24. Casanova. *Stefan Zweig* ⭑
+25. El regreso de Casanova. *Arthur Schnitzler*
 
 
 ### 2019

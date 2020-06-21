@@ -97,6 +97,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * El padrino. *Francis Ford Coppola. 1972*
 * El golpe. *George Roy Hill. 1973*
 * Chinatown. *Roman Polanski. 1974*
+* El padrino. Parte II. *Francis Ford Coppola. 1974*
 * Primera plana. *Billy Wilder. 1974*
 * Taxi Driver. *Martin Scorsese. 1976*
 
