@@ -31,3 +31,10 @@ permalink: /devices/
 
 ### TVs
 - Samsung 43RU7100 43". *2020-03*
+- <strike>Samsung UE32H5000 32". <em>2014-09</em></strike>
+
+
+### Others
+- Samsung LU28H750UQUXEN 28". *2019-09*
+- Raspberry Pi 2 Model B. *2015-09*
+- WD 2T Elements Portable Hard Drive. *2014-11*
