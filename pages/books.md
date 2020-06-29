@@ -37,6 +37,7 @@ I love reading. This is the complete list of all books that I've read in my life
 25. El regreso de Casanova. *Arthur Schnitzler* ⭑
 26. Del origen del dinero. *Carl Menger*
 27. Eso lo explica todo. *John Brockman*
+28. Software Engineering at Google. *Titus Winters, Tom Manshreck & Hyrum Wright*
 
 
 ### 2019
