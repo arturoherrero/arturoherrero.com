@@ -36,8 +36,10 @@ I love reading. This is the complete list of all books that I've read in my life
 24. Casanova. *Stefan Zweig* ⭑
 25. El regreso de Casanova. *Arthur Schnitzler* ⭑
 26. Del origen del dinero. *Carl Menger*
-27. Eso lo explica todo. *John Brockman*
-28. Software Engineering at Google. *Titus Winters, Tom Manshreck & Hyrum Wright*
+27. Eso lo explica todo. *John Brockman* ⭑
+28. Software Engineering at Google. *Titus Winters, Tom Manshreck & Hyrum Wright* ⭑
+29. El hombre que confundió a su mujer con un sombrero. *Oliver Sacks* ⭑
+30. El proceso. *Franz Kafka*
 
 
 ### 2019
