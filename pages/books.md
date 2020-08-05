@@ -40,6 +40,13 @@ I love reading. This is the complete list of all books that I've read in my life
 28. Software Engineering at Google. *Titus Winters, Tom Manshreck & Hyrum Wright* ⭑
 29. El hombre que confundió a su mujer con un sombrero. *Oliver Sacks* ⭑
 30. El proceso. *Franz Kafka*
+31. Nuestro pan de cada día. *Predrag Matvejević*
+32. El sueño eterno. *Raymond Chandler*
+33. El corazón del mundo: Una nueva historia universal. *Peter Frankopan*
+34. HHhH. *Laurent Binet* ⭑
+35. Pasión del dios que quiso ser hombre. *Rafael Argullol*
+36. Siguiendo mi camino. *Mauricio Wiesenthal*
+37. La vida es buena si no te rindes. *Seth*
 
 
 ### 2019
