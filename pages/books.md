@@ -45,8 +45,13 @@ I love reading. This is the complete list of all books that I've read in my life
 33. El corazón del mundo: Una nueva historia universal. *Peter Frankopan*
 34. HHhH. *Laurent Binet* ⭑
 35. Pasión del dios que quiso ser hombre. *Rafael Argullol*
-36. Siguiendo mi camino. *Mauricio Wiesenthal*
+36. Siguiendo mi camino. *Mauricio Wiesenthal* ⭑
 37. La vida es buena si no te rindes. *Seth*
+38. Breve historia de Inglaterra. *G.K. Chesterton* ⭑
+39. Leer la arquitectura: diccionario visual. *Owen Hopkins*
+40. Hojas de hierba. *Walt Whitman*
+41. El camino de la vida. *Lev Tolstói* ⭑
+42. El nudo y la esfera. El navegante como artífice del mundo moderno. *Isabel Soler*
 
 
 ### 2019
@@ -178,7 +183,7 @@ I love reading. This is the complete list of all books that I've read in my life
 64. Effective Testing with Rspec 3. *Myron Marston & Ian Dees* ⭑
 65. Deshaciendo errores. *Michael Lewis* ⭑
 66. Geometría y arte. *David Wade* ⭑
-67. La felicidad conyugal. *Leo Tolstoy*
+67. La felicidad conyugal. *Lev Tolstói*
 68. La plaza y la torre. Redes y poder: de los masones a Facebook. *Niall Ferguson* ⭑
 69. El futuro es hoy: España en el cambio de época. *José María Aznar*
 70. Leer y escribir: Dos mundos. *V. S. Naipaul*
