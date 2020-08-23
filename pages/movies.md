@@ -27,6 +27,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 ### 1940
 * Luna nueva. *Howard Hawks. 1940*
 * Bola de fuego. *Howard Hawks. 1941*
+* Ciudadano Kane. *Orson Welles. 1941*
 * ¡Qué verde era mi valle! *John Ford. 1941*
 * Casablanca. *Michael Curtiz. 1942*
 * Alma rebelde. *Robert Stevenson. 1943*
@@ -113,6 +114,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 
 ### 1990
 * Uno de los nuestros. *Martin Scorsese. 1990*
+* El cabo del miedo. *Martin Scorsese. 1991*
 * La bella y la bestia. *Gary Trousdale, Kirk Wise. 1991*
 * Atrapado en el tiempo. *Harold Ramis. 1993*
 * La lista de Schindler. *Steven Spielberg. 1993*
@@ -168,6 +170,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * El orfanato. *J.A. Bayona. 2007*
 * Promesas del este. *David Cronenberg. 2007*
 * Ratatouille. *Brad Bird. 2007*
+* El caballero oscuro. *Christopher Nolan. 2008*
 * El curioso caso de Benjamin Button. *David Fincher. 2008*
 * El intercambio (Changeling). *Clint Eastwood. 2008*
 * Slumdog Millionaire. *Danny Boyle, Loveleen Tandan. 2008*

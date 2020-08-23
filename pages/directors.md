@@ -136,6 +136,7 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 - Taxi Driver. *1976*
 - El rey de la comedia. *1982*
 - Uno de los nuestros. *1990*
+- El cabo del miedo. *1991*
 - Casino. *1995*
 - Infiltrados. *2006*
 - Shutter Island. *2010*
