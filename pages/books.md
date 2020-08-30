@@ -54,6 +54,7 @@ I love reading. This is the complete list of all books that I've read in my life
 42. El nudo y la esfera. El navegante como artífice del mundo moderno. *Isabel Soler*
 43. Orient-Express: El tren de Europa. *Mauricio Wiesenthal*
 44. Life in the United Kingdom: A Guide for New Residents. *Home Office*
+45. Rituales cotidianos: Cómo trabajan los artistas. *Mason Currey*
 
 
 ### 2019
