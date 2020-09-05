@@ -255,7 +255,7 @@ table {
 }
 
 table thead {
-  background: #F5F5F5;
+  background: #F0F0F0;
 
   tr th, tr td {
     padding: 0.5rem 0.625rem 0.625rem;
@@ -267,7 +267,7 @@ table tr th, table tr td {
 }
 
 table tr.even, table tr.alt, table tr:nth-of-type(even) {
-  background: #F9F9F9;
+  background: #F5F5F5;
 }
 
 footer {
