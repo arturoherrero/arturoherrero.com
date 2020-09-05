@@ -21,7 +21,7 @@ body {
 
 .row {
   margin: 0 auto;
-  max-width: 62.5rem;
+  max-width: 67.4rem;
 }
 
 .row:before,
@@ -58,7 +58,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $font_family;
   font-weight: normal;
-  line-height: 1.4;
   margin: 0;
   margin-bottom: 0.5rem;
 }
@@ -144,7 +143,7 @@ em {
 ul, ol, p,
 table > thead > tr > th,
 table > tbody > tr > td {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 
 blockquote {
@@ -195,7 +194,6 @@ ul li ul, ul li ol {
 p {
   margin: 0;
   margin-bottom: 1.25rem;
-  line-height: 1.6;
 }
 
 p > code,
@@ -266,7 +264,6 @@ table thead {
 
 table tr th, table tr td {
   padding: 0.5625rem 0.625rem;
-  line-height: 1.125rem;
 }
 
 table tr.even, table tr.alt, table tr:nth-of-type(even) {
@@ -282,8 +279,8 @@ footer {
   .date {
     color: #666666;
     float: left;
-    font-size: 15px;
-    line-height: 15px;
+    font-size: 16px;
+    line-height: 20px;
     padding-top: 24px;
     width: 115px;
 
@@ -293,13 +290,13 @@ footer {
       display: block;
       float: right;
       height: 5px;
-      margin: 4px 17px 0 0;
+      margin: 7px 15px 0 0;
       width: 5px;
     }
   }
 
   .article {
-    line-height: 1.75em;
+    line-height: 2em;
     border-bottom: 2px solid #d9d9d9;
     display: block;
 
@@ -450,5 +447,5 @@ footer {
  */
 pre {
   font-family: monospace, monospace; /* 1 */
-  font-size: 1em; /* 2 */
+  font-size: 1.08em; /* 2 */
 }
