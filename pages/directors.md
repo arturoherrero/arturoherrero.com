@@ -200,6 +200,11 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 - Quemar después de leer. *2008*
 - Valor de ley. *2010*
 
+##### Guy Ritchie
+- Lock & Stock. *1998*
+- Snatch. Cerdos y diamantes. *2000*
+- RocknRolla. *2008*
+
 ##### Sam Mendes
 - American Beauty. *1999*
 - Camino a la perdición. *2002*
