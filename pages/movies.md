@@ -104,8 +104,9 @@ I love cinema. This is the list of best movies that I've watched in my life.
 
 
 ### 1980
-* Star Wars. Episode V: The Empire Strikes Back. *Irvin Kershner. 1980*
+* El hombre elefante. *David Lynch. 1980*
 * El resplandor (The Shining). *Stanley Kubrick. 1980*
+* Star Wars. Episode V: The Empire Strikes Back. *Irvin Kershner. 1980*
 * El rey de la comedia. *Martin Scorsese. 1982*
 * Regreso al futuro. *Robert Zemeckis. 1985*
 * Los intocables de Eliot Ness. *Brian De Palma. 1987*

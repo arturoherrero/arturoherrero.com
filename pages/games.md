@@ -16,6 +16,7 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 4. Captain Toad: Treasure Tracker. *Switch* ⭑
 5. God of War. *PS4*
 6. Fallout 4. *PS4*
+7. Donkey Kong Country: Tropical Freeze. *Switch* ⭑
 
 
 ### 2019

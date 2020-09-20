@@ -55,6 +55,8 @@ I love reading. This is the complete list of all books that I've read in my life
 43. Orient-Express: El tren de Europa. *Mauricio Wiesenthal*
 44. Life in the United Kingdom: A Guide for New Residents. *Home Office*
 45. Rituales cotidianos: Cómo trabajan los artistas. *Mason Currey*
+46. Mastery. *Robert Greene*
+47. The Psychology of Money. *Morgan Housel* ⭑
 
 
 ### 2019
