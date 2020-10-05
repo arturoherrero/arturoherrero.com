@@ -57,6 +57,8 @@ I love reading. This is the complete list of all books that I've read in my life
 45. Rituales cotidianos: Cómo trabajan los artistas. *Mason Currey*
 46. Mastery. *Robert Greene*
 47. The Psychology of Money. *Morgan Housel* ⭑
+48. Lecciones de liderazgo creativo. *Robert Iger* ⭑
+49. La liebre con ojos de ámbar: Una herencia oculta. *Edmund de Waal*
 
 
 ### 2019

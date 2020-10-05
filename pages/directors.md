@@ -24,6 +24,7 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 
 ##### Ernst Lubitsch
 - Un ladrón en la alcoba. *1932*
+- La octava mujer de Barba Azul. *1938*
 - Ninotchka. *1939*.
 - El bazar de las sorpresas. *1940*
 - Ser o no ser. *1942*
@@ -118,9 +119,7 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 - El pianista. *2002*
 
 ##### Steven Spielberg
-- Tiburón. *1975*
 - La lista de Schindler. *1993*
-- Parque Jurásico (Jurassic Park). *1993*
 - Salvar al soldado Ryan. *1998*
 - Atrápame si puedes. *2002*
 - Minority Report. *2002*

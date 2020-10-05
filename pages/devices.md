@@ -35,6 +35,7 @@ permalink: /devices/
 
 
 ### Others
+- ASUS RT-AC68U. *2020-10*
 - Samsung LU28H750UQUXEN 28". *2019-09*
 - Raspberry Pi 2 Model B. *2015-09*
 - WD 2T Elements Portable Hard Drive. *2014-11*
