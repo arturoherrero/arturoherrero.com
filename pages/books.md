@@ -58,7 +58,9 @@ I love reading. This is the complete list of all books that I've read in my life
 46. Mastery. *Robert Greene*
 47. The Psychology of Money. *Morgan Housel* ⭑
 48. Lecciones de liderazgo creativo. *Robert Iger* ⭑
-49. La liebre con ojos de ámbar: Una herencia oculta. *Edmund de Waal*
+49. La liebre con ojos de ámbar: Una herencia oculta. *Edmund de Waal* ⭑
+50. El orden del día. *Éric Vuillard* ⭑
+51. Los europeos: Tres vidas y el nacimiento de la cultura europea. *Orlando Figes*
 
 
 ### 2019
