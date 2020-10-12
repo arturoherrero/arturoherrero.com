@@ -100,6 +100,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Chinatown. *Roman Polanski. 1974*
 * El padrino. Parte II. *Francis Ford Coppola. 1974*
 * Primera plana. *Billy Wilder. 1974*
+* Alguien voló sobre el nido del cuco. *Milos Forman. 1975*
 * Taxi Driver. *Martin Scorsese. 1976*
 
 
