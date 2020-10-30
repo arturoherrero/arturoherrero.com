@@ -17,6 +17,7 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 5. God of War. *PS4*
 6. Fallout 4. *PS4*
 7. Donkey Kong Country: Tropical Freeze. *Switch* ⭑
+8. Uncharted: The Lost Legacy. *PS4*
 
 
 ### 2019
