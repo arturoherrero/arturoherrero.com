@@ -94,6 +94,7 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 - Espartaco. *1960*
 - ¿Teléfono rojo? Volamos hacia Moscú. *1964*
 - El resplandor (The Shining). *1980*
+- La chaqueta metálica. *1987*
 
 ##### Sidney Lumet
 - Doce hombres sin piedad. *1957*

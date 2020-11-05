@@ -110,6 +110,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Star Wars. Episode V: The Empire Strikes Back. *Irvin Kershner. 1980*
 * El rey de la comedia. *Martin Scorsese. 1982*
 * Regreso al futuro. *Robert Zemeckis. 1985*
+* La chaqueta metálica. *Stanley Kubrick. 1987*
 * Los intocables de Eliot Ness. *Brian De Palma. 1987*
 * Cinema Paradiso. *Giuseppe Tornatore. 1988*
 

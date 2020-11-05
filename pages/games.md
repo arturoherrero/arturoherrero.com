@@ -18,6 +18,7 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 6. Fallout 4. *PS4*
 7. Donkey Kong Country: Tropical Freeze. *Switch* ⭑
 8. Uncharted: The Lost Legacy. *PS4*
+9. Super Mario 64. *Switch*
 
 
 ### 2019
