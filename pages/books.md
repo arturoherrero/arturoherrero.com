@@ -64,6 +64,8 @@ I love reading. This is the complete list of all books that I've read in my life
 52. Antifrágil: Las cosas que se benefician del desorden. *Nassim Nicholas Taleb* ⭑
 53. En busca de Venus: El arte de medir el cielo. *Andrea Wulf*
 54. Aforismos sobre el arte de vivir. *Arthur Schopenhauer*
+55. Atomic Habits. *James Clear*
+56. La búsqueda de los elementos. *Isaac Asimov*
 
 
 ### 2019

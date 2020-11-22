@@ -100,7 +100,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Chinatown. *Roman Polanski. 1974*
 * El padrino. Parte II. *Francis Ford Coppola. 1974*
 * Primera plana. *Billy Wilder. 1974*
-* Alguien voló sobre el nido del cuco. *Milos Forman. 1975*
+* Alguien voló sobre el nido del cuco. *Miloš Forman. 1975*
 * Taxi Driver. *Martin Scorsese. 1976*
 
 
@@ -109,6 +109,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * El resplandor (The Shining). *Stanley Kubrick. 1980*
 * Star Wars. Episode V: The Empire Strikes Back. *Irvin Kershner. 1980*
 * El rey de la comedia. *Martin Scorsese. 1982*
+* Amadeus. *Miloš Forman. 1984*
 * Regreso al futuro. *Robert Zemeckis. 1985*
 * La chaqueta metálica. *Stanley Kubrick. 1987*
 * Los intocables de Eliot Ness. *Brian De Palma. 1987*
@@ -244,6 +245,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Breaking Bad. *Vince Gilligan. 2008*
 * Black Mirror. *Charlie Brooker. 2011*
 * Peaky Blinders. *Steven Knight. 2013*
+* Halt and Catch Fire. *Christopher Cantwell, Christopher C. Rogers. 2014*
 * Chef's Table. *David Gelb. 2015*
 * Narcos. *Chris Brancato, Carlo Bernard, Doug Miro, Paul Eckstein. 2015*
 * The Crown. *Peter Morgan. 2016*

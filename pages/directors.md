@@ -112,8 +112,12 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 
 ##### Francis Ford Coppola
 - El padrino. *1972*
-- La conversación. *1974*
 - El padrino. Parte II. *1974*
+- La conversación. *1974*
+
+##### Miloš Forman
+- Alguien voló sobre el nido del cuco. *1975*
+- Amadeus. *1984*
 
 ##### Roman Polanski
 - Chinatown. *1974*

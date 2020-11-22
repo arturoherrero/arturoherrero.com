@@ -19,6 +19,9 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 7. Donkey Kong Country: Tropical Freeze. *Switch* ⭑
 8. Uncharted: The Lost Legacy. *PS4*
 9. Super Mario 64. *Switch*
+10. Bad North: Jotunn Edition. *PC*
+11. Wilmot's Warehouse. *PC*
+12. Super Mario Sunshine. *Switch*
 
 
 ### 2019
