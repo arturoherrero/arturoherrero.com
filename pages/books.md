@@ -63,9 +63,13 @@ I love reading. This is the complete list of all books that I've read in my life
 51. Los europeos: Tres vidas y el nacimiento de la cultura cosmopolita. *Orlando Figes* ⭑
 52. Antifrágil: Las cosas que se benefician del desorden. *Nassim Nicholas Taleb* ⭑
 53. En busca de Venus: El arte de medir el cielo. *Andrea Wulf*
-54. Aforismos sobre el arte de vivir. *Arthur Schopenhauer*
+54. Aforismos sobre el arte de vivir. *Arthur Schopenhauer* ⭑
 55. Atomic Habits. *James Clear*
 56. La búsqueda de los elementos. *Isaac Asimov*
+57. Ortodoxia. *G.K. Chesterton*
+58. Un año con Schopenhauer. *Irvin D. Yalom*
+59. Castellio contra Calvino: Conciencia contra violencia. *Stefan Zweig* ⭑
+60. Las reglas del contagio. *Adam Kucharski*
 
 
 ### 2019

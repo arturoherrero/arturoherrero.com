@@ -209,6 +209,11 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 - Snatch. Cerdos y diamantes. *2000*
 - RocknRolla. *2008*
 
+##### Javier Fesser
+- El milagro de P. Tinto. *1998*
+- Campeones. *2018*
+- Historias lamentables. *2020*
+
 ##### Sam Mendes
 - American Beauty. *1999*
 - Camino a la perdición. *2002*
@@ -235,6 +240,12 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 - Erin Brockovich. *2000*
 - Ocean's Eleven. *2001*
 - La suerte de los Logan. *2017*
+
+##### Peter Jackson
+- El señor de los anillos: La comunidad del anillo. *2001*
+- El señor de los anillos: Las dos torres. *2002*
+- El señor de los anillos: El retorno del rey. *2003*
+- They Shall Not Grow Old. *2018*
 
 ##### Ron Howard
 - Una mente maravillosa. *2001*
@@ -302,6 +313,7 @@ I love cinema. This is the list of my favorite cinema directors and their movies
 - Stockholm. *2013*
 - Que Dios nos perdone. *2016*
 - El Reino. *2018*
+- Antidisturbios. *2020*
 
 ##### Alberto Rodríguez
 - La isla mínima. *2014*
