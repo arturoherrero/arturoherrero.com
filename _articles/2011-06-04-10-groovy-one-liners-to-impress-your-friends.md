@@ -9,8 +9,9 @@ I find that comparing programming languages is a worthwhile exercise mainly
 because of the different techniques and styles that you are exposed to.
 
 After 10 [Scala]{:target="_blank"} / [CoffeeScript]{:target="_blank"} /
-[Ruby]{:target="_blank"} / [Python]{:target="_blank"} / [Haskell]{:target="_blank"}
+[Ruby]{:target="_blank"} / [Haskell]{:target="_blank"}
 / [Clojure]{:target="_blank"} /[C#]{:target="_blank"} / [F#]{:target="_blank"}
+/ [Nim]{:target="_blank"} / [Swift]{:target="_blank"}
 one liners to impress your friends, here are the Groovy one liners.
 
 #### 1. Multiple Each Item in a List by 2
@@ -93,11 +94,10 @@ for (i in 1..100) { println "${i%3?'':'Fizz'}${i%5?'':'Buzz'}" ?: i }
 [Scala]: https://gist.github.com/mkaz/d11f8f08719d6d27bab5
 [CoffeeScript]: http://ricardo.cc/2011/06/02/10-CoffeeScript-One-Liners-to-Impress-Your-Friends.html
 [Ruby]: http://programmingzen.com/2011/06/02/10-ruby-one-liners-to-impress-your-friends/
-[Python]: http://codeblog.dhananjaynene.com/2011/06/10-python-one-liners-to-impress-your-friends/
 [Haskell]: http://blog.fogus.me/2011/06/03/10-haskell-one-liners-to-impress-your-friends/
 [Clojure]: https://gist.github.com/klang/1007697
 [C#]: https://gist.github.com/1004837
 [F#]: http://willwhim.wpengine.com/2011/06/02/fsharp-one-liners-to-impress-your-friends/
-
+[Nim]: https://ubergarm.com/article/archive/archive-ten-nim-one-liners/
+[Swift]: https://www.uraimo.com/2016/01/06/10-Swift-One-Liners-To-Impress-Your-Friends/
 [Gpars]: http://www.gpars.org/
-[Groovy Prime Numbers]: http://www.thejavajar.com/2009/05/11/groovy-prime-numbers/
