@@ -374,6 +374,10 @@ footer {
 
 .post {
   margin-bottom: $post_margin_bottom;
+
+  img {
+    width: 100%;
+  }
 }
 
 .photo {
