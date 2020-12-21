@@ -1,6 +1,5 @@
 # arturoherrero.com
 
-[![Build Status](https://travis-ci.org/arturoherrero/arturoherrero.com.svg?branch=master)](https://travis-ci.org/arturoherrero/arturoherrero.com)
 [![Build Status](https://github.com/arturoherrero/arturoherrero.com/workflows/build/badge.svg?branch=master)](https://github.com/arturoherrero/arturoherrero.com/actions)
 
 My personal website.
