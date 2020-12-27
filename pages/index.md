@@ -23,6 +23,11 @@ I’m continually learning and working on [personal projects][8].
 I publish articles from time to time, which you will find in the [articles archive][3].
 
 
+## Notes
+
+I also take [notes][10], my particular commonplace book.
+
+
 ## Life Streaming
 
 I'm [@ArturoHerrero][4]{:target="_blank" onclick="ga('send', 'event', 'Extra', 'Twitter Click', 'Twitter Home');"} on Twitter.
@@ -31,6 +36,11 @@ I'm [@ArturoHerrero][4]{:target="_blank" onclick="ga('send', 'event', 'Extra', '
 ## Reading
 
 Reading is one of my passions, and I keep a [list of the books I read][7].
+
+
+## Watching
+
+Another passion is cinema. These are my favorite [movies][11] and [directors][12].
 
 
 ## Writing
@@ -55,3 +65,6 @@ Want to get in touch? Email me at *<arturo.herrero@gmail.com>*.
 [7]: /books
 [8]: /projects
 [9]: https://gitlab.com
+[10]: /notes
+[11]: /movies
+[12]: /directors

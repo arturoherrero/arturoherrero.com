@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Directors
-description: My favorite directors and their movies.
+description: My favorite directors and some of their work.
 permalink: /directors/
 ---
 
 ## {{ page.title }}
 
-I love cinema. This is the list of my favorite cinema directors and their movies.
+I love cinema. This is the list of my favorite cinema directors and some of their work.
 
 
 ##### Charles Chaplin
