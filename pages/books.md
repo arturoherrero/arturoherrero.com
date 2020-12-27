@@ -75,6 +75,7 @@ I love reading. This is the complete list of all books that I've read in my life
 63. La carretera. *Cormac McCarthy*
 64. Cartas satíricas y amorosas completas. *Cyrano de Bergerac*
 65. La naturaleza muerta. *Stefano Zuffi* ⭑
+66. El día después de las grandes epidemias. *José Enrique Ruiz-Domènec* ⭑
 
 
 ### 2019
