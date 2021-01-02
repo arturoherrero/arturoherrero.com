@@ -9,6 +9,10 @@ permalink: /books/
 
 I love reading. This is the complete list of all books that I've read in my life.
 
+### 2021
+1. A hombros de gigantes. *Umberto Eco*
+
+
 ### 2020
 1. El demonio de la depresión: Un atlas de la enfermedad. *Andrew Solomon* ⭑
 2. Discurso del método. *René Descartes* ⭑
@@ -64,7 +68,7 @@ I love reading. This is the complete list of all books that I've read in my life
 52. Antifrágil: Las cosas que se benefician del desorden. *Nassim Nicholas Taleb* ⭑
 53. En busca de Venus: El arte de medir el cielo. *Andrea Wulf*
 54. Aforismos sobre el arte de vivir. *Arthur Schopenhauer* ⭑
-55. Atomic Habits. *James Clear*
+55. Atomic Habits. *James Clear* ⭑
 56. La búsqueda de los elementos. *Isaac Asimov*
 57. Ortodoxia. *G.K. Chesterton*
 58. Un año con Schopenhauer. *Irvin D. Yalom*
@@ -76,6 +80,9 @@ I love reading. This is the complete list of all books that I've read in my life
 64. Cartas satíricas y amorosas completas. *Cyrano de Bergerac*
 65. La naturaleza muerta. *Stefano Zuffi* ⭑
 66. El día después de las grandes epidemias. *José Enrique Ruiz-Domènec* ⭑
+67. Simetría: Un viaje por los patrones de la naturaleza. *Marcus du Sautoy* ⭑
+68. Guerra y lenguaje. *Adan Kovacsics*
+69. La geometría del diseño. *Kimberly Elam* ⭑
 
 
 ### 2019
