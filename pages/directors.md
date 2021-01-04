@@ -282,6 +282,10 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Pozos de ambición. *2007*
 - El hilo invisible. *2017*
 
+##### Pete Docter
+- Up. *2009*
+- Soul. *2020*
+
 ##### Tom Ford
 - Un hombre soltero. *2009*
 - Animales nocturnos. *2016*

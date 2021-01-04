@@ -224,6 +224,10 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Toy Story 4. *Josh Cooley. 2019*
 
 
+### 2020
+* Soul. *Pete Docter, Kemp Powers. 2020*
+
+
 ### Documentary
 
 * Jiro Dreams of Sushi. *David Gelb. 2011*
