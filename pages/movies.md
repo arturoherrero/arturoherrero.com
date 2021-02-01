@@ -58,6 +58,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Un lugar en el sol. *George Stevens. 1951*
 * Cantando bajo la lluvia. *Stanley Donen, Gene Kelly. 1952*
 * Cautivos del mal. *Vincente Minnelli. 1952*
+* Madame de... *Max Ophüls. 1953*
 * Melodías de Broadway 1955. *Vincente Minnelli. 1953*
 * Crimen perfecto. *Alfred Hitchcock. 1954*
 * La ventana indiscreta. *Alfred Hitchcock. 1954*

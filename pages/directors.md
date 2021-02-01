@@ -68,6 +68,10 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - La jungla de asfalto. *1950*
 - La reina de África. *1951*
 
+##### Max Ophüls
+- Carta de una desconocida. *1948*
+- Madame de... *1953*
+
 ##### Stanley Donen
 - Cantando bajo la lluvia. *1952*
 - Una cara con ángel. *1957*

@@ -10,7 +10,10 @@ permalink: /books/
 I love reading. This is the complete list of all books that I've read in my life.
 
 ### 2021
-1. A hombros de gigantes. *Umberto Eco*
+1. A hombros de gigantes. *Umberto Eco* ⭑
+2. Walden. *Henry David Thoreau*
+3. El triunfo de los principios. Cómo vivir con Thoreau. *Toni Montesinos*
+4. Extreme Ownership: How U.S. Navy Seals Lead and Win. *Jocko Willink & Leif Babin*
 
 
 ### 2020
