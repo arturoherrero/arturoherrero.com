@@ -77,5 +77,5 @@ I did a talk at the Agile Madrid User Group about this book.
 [1]: https://www.pearson.com/us/higher-education/program/Martin-Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/PGM63937.html
 [2]: https://martinfowler.com/bliki/BeckDesignRules.html
 [3]: https://leanpub.com/4rulesofsimpledesign
-[4]: http://www.maultech.com/chrislott/resources/cstyle/ottinger-naming.html
+[4]: https://drupal.star.bnl.gov/STAR/book/export/html/5692
 [5]: /assets/images/articles/clean-code.jpg

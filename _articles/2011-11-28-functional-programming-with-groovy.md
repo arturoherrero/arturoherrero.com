@@ -16,7 +16,7 @@ class and methods. It also allowed me to write more concise code and to
 make it easier to reuse.
 
 A few weeks ago, I spoke about functional programming with Groovy at
-[Greach 2011][1]{:target="_blank"}. I presented basic concepts of the functional programming
+Greach Conference 2011. I presented basic concepts of the functional programming
 paradigm and then focused on how to apply them to improve the code that we
 write with Groovy.
 
@@ -25,6 +25,3 @@ write with Groovy.
   width="720" height="579" frameborder="0" marginwidth="0" marginheight="0"
   scrolling="no"></iframe>
 </div>
-
-
-[1]: http://greachconf.com/
