@@ -16,7 +16,7 @@ A [Jekyll][1] powered website, hosted by [GitHub Pages][2] at https://arturoherr
 
 Builds the site any time a source file changes and serves it locally:
 
-    $ bundle exec jekyll server --livereload
+    $ bundle exec jekyll server --livereload --incremental
 
 
 ## Test
