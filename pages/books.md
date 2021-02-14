@@ -15,6 +15,8 @@ I love reading. This is the complete list of all books that I've read in my life
 3. El triunfo de los principios. Cómo vivir con Thoreau. *Toni Montesinos*
 4. Extreme Ownership: How U.S. Navy Seals Lead and Win. *Jocko Willink & Leif Babin*
 5. El desierto de los tártaros. *Dino Buzzati*
+6. Jefe de estación Fallmerayer. *Joseph Roth*
+7. Santa Biblia. Nueva Traducción Viviente.
 
 
 ### 2020

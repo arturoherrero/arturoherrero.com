@@ -256,6 +256,10 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - El desafío: Frost contra Nixon. *2008*
 - Rush. *2013*
 
+##### Bong Joon-ho
+- Memories of Murder (Crónica de un asesino en serie). *2003*
+- Parásitos. *2019*
+
 ##### Brad Bird
 - Los increíbles. *2004*
 - Ratatouille. *2007*

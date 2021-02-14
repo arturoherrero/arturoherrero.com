@@ -158,6 +158,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * El pianista. *Roman Polanski. 2002*
 * Minority Report. *Steven Spielberg. 2002*
 * Kill Bill: Volume 1. *Quentin Tarantino. 2003*
+* Memories of Murder (Crónica de un asesino en serie). *Bong Joon-ho. 2003*
 * Mystic River. *Clint Eastwood. 2003*
 * Crash. *Paul Haggis. 2004*
 * Diarios de motocicleta. *Walter Salles. 2004*

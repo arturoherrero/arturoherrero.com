@@ -10,7 +10,7 @@ permalink: /devices/
 ### Laptop computers
 - Apple MacBook Pro, 15", 32G RAM, 512G SSD. *2019-09*
 - <strike>Apple MacBook Pro, 15", 16G RAM, 256G SSD. <em>2016-09</em></strike>
-- Apple MacBook Air, 13", 8G RAM, 128G SSD. *2012-02*
+- Apple MacBook Air, 13", 8G RAM, 128G SSD. *2013-03*
 
 
 ### Mobile phones
