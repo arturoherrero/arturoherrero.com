@@ -87,6 +87,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Bésame, tonto. *Billy Wilder. 1964*
 * El tren. *John Frankenheimer. 1964*
 * Cómo matar a la propia esposa. *Richard Quine. 1965*
+* El bueno, el feo y el malo. Sergio Leone. *1966*
 * En bandeja de plata. *Billy Wilder. 1966*
 * Descalzos por el parque. *Gene Saks. 1967*
 * La leyenda del indomable. *Stuart Rosenberg. 1967*

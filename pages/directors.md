@@ -106,6 +106,10 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Network, un mundo implacable. *1976*
 - Antes que el diablo sepa que has muerto. *2007*
 
+##### Jacques Tati
+- Mi tío. *1958*
+- Playtime. *1967*
+
 ##### Akira Kurosawa
 - Los canallas duermen en paz. *1960*
 - El infierno del odio. *1963*
