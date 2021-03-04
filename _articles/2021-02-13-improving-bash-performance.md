@@ -50,6 +50,8 @@ And then, from the working directory of the Git repository, I've registered it:
 $ scalar register
 ```
 
+Although I sometimes have [problems with watchman invocations][8]{:target="_blank"}.
+
 
 ### Improving Git prompt status performance
 
@@ -106,3 +108,4 @@ Finally, I've removed redundant Bash completions that I was loading, changed
 [5]: https://github.com/arturoherrero/dotfiles/blob/f982e10/system/prompt.sh
 [6]: https://github.com/arturoherrero/dotfiles/blob/1d0df6d/system/prompt.sh
 [7]: https://work.lisk.in/2020/11/20/even-faster-bash-startup.html
+[8]: https://github.com/microsoft/scalar/issues/386
