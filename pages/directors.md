@@ -146,6 +146,7 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 
 ##### Martin Scorsese
 - Taxi Driver. *1976*
+- Toro salvaje. *1980*
 - El rey de la comedia. *1982*
 - Uno de los nuestros. *1990*
 - El cabo del miedo. *1991*

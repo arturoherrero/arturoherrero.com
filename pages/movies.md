@@ -110,6 +110,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * El hombre elefante. *David Lynch. 1980*
 * El resplandor (The Shining). *Stanley Kubrick. 1980*
 * Star Wars. Episode V: The Empire Strikes Back. *Irvin Kershner. 1980*
+* Toro salvaje. *Martin Scorsese. 1980*
 * El rey de la comedia. *Martin Scorsese. 1982*
 * Amadeus. *Miloš Forman. 1984*
 * Regreso al futuro. *Robert Zemeckis. 1985*

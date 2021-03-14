@@ -18,6 +18,10 @@ I love reading. This is the complete list of all books that I've read in my life
 6. Jefe de estación Fallmerayer. *Joseph Roth*
 7. Santa Biblia: Nueva Traducción Viviente.
 8. The Illustrated Bible Story by Story. *Michael Collins*
+9. The Bible Book. *DK Publishing*
+10. DK Illustrated Family Bible. *Sally Tagholm*
+11. A propósito de nada: Autobiografía. *Woody Allen*
+12. 99 Bottles of OOP. *Sandi Metz, Katrina Owen & TJ Stankus*
 
 
 ### 2020
