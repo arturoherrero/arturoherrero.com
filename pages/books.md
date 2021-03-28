@@ -13,11 +13,11 @@ I love reading. This is the complete list of all books that I've read in my life
 1. A hombros de gigantes. *Umberto Eco* ⭑
 2. Walden. *Henry David Thoreau*
 3. El triunfo de los principios. Cómo vivir con Thoreau. *Toni Montesinos*
-4. Extreme Ownership: How U.S. Navy Seals Lead and Win. *Jocko Willink & Leif Babin*
+4. Extreme Ownership. *Jocko Willink & Leif Babin* ⭑
 5. El desierto de los tártaros. *Dino Buzzati*
 6. Jefe de estación Fallmerayer. *Joseph Roth*
-7. Santa Biblia: Nueva Traducción Viviente.
-8. The Illustrated Bible Story by Story. *Michael Collins*
+7. Santa Biblia: Nueva Traducción Viviente. ⭑
+8. The Illustrated Bible Story by Story. *Michael Collins* ⭑
 9. The Bible Book. *DK Publishing*
 10. DK Illustrated Family Bible. *Sally Tagholm*
 11. A propósito de nada: Autobiografía. *Woody Allen*
