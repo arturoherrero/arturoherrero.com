@@ -63,6 +63,11 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - En bandeja de plata. *1966*
 - Primera plana. *1974*
 
+##### William Wyler
+- Los mejores años de nuestra vida. *1946*
+- Vacaciones en Roma. *1953*
+- Ben-Hur. *1959*
+
 ##### John Huston
 - Cayo Largo. *1948*
 - La jungla de asfalto. *1950*
@@ -132,6 +137,7 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - El pianista. *2002*
 
 ##### Steven Spielberg
+- En busca del arca perdida. *1981*
 - La lista de Schindler. *1993*
 - Salvar al soldado Ryan. *1998*
 - Atrápame si puedes. *2002*

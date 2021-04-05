@@ -17,6 +17,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 
 ### 1930
 * Un ladrón en la alcoba. *Ernst Lubitsch. 1932*
+* El hombre invisible. *James Whale. 1933*
 * Sucedió una noche. *Frank Capra. 1934*
 * Al servicio de las damas. *Gregory La Cava. 1936*
 * Tiempos modernos. *Charles Chaplin. 1936*
@@ -68,6 +69,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Senderos de gloria. *Stanley Kubrick. 1957*
 * Vértigo. *Alfred Hitchcock. 1958*
 * Anatomía de un asesinato. *Otto Preminger. 1959*
+* Ben-Hur. *William Wyler. 1959*
 * Con faldas y a lo loco. *Billy Wilder. 1959*
 * Con la muerte en los talones. *Alfred Hitchcock. 1959*
 
@@ -233,7 +235,6 @@ I love cinema. This is the list of best movies that I've watched in my life.
 
 
 ### Documentary
-
 * Jiro Dreams of Sushi. *David Gelb. 2011*
 * AlphaGo. *Greg Kohs. 2017*
 * Becoming Warren Buffett. *Peter W. Kunhardt, Brian Oakes. 2017*
@@ -242,12 +243,10 @@ I love cinema. This is the list of best movies that I've watched in my life.
 
 
 ### TV Shows
-
 * The Simpsons. *Matt Groening, Sam Simon, James L. Brooks. 1989*
 * The Sopranos. *David Chase. 1999*
 * Band of Brothers. *Stephen Ambrose. 2001*
 * The Wire. *David Simon. 2002*
-* Lost. *J.J. Abrams, Damon Lindelof, Jeffrey Lieber, Carlton Cuse. 2004*
 * Mad Men. *Matthew Weiner. 2007*
 * The Big Bang Theory. *Chuck Lorre, Bill Prady. 2007*
 * Breaking Bad. *Vince Gilligan. 2008*
