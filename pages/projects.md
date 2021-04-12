@@ -15,6 +15,7 @@ To stay updated with my work check out my [GitHub][1]{:target="_blank" onclick="
     - [Powercore][3]
     - [OpenFastStruct][4]
 - [YARR][5] a Ruby REPL
+- [FromNotes][16]{:target="_blank"} a simple autosaving note-taking app for macOS.
 - [gvar][10]{:target="_blank"} a pure Bash key-value store
 - `$HOME` sweet `~/` my [dotfiles][11]{:target="_blank"}
 - Printing bar graphs in the shell:
@@ -45,3 +46,4 @@ To stay updated with my work check out my [GitHub][1]{:target="_blank" onclick="
 [13]: https://github.com/arturoherrero/4clojure
 [14]: https://github.com/arturoherrero/human-resource-machine
 [15]: https://github.com/arturoherrero/advent-of-code
+[16]: https://gitlab.com/arturoherrero/fromnotes
