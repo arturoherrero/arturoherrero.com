@@ -8,14 +8,15 @@ permalink: /projects/
 ## {{ page.title }}
 
 I love open source and I'm continually learning and working on personal projects.
-To stay updated with my work check out my [GitHub][1]{:target="_blank" onclick="ga('send', 'event', 'Extra', 'GitHub Click', 'GitHub');"} account.
+To stay updated with my work check out my [GitHub][1]{:target="_blank" onclick="ga('send', 'event', 'Extra', 'GitHub Click', 'GitHub');"}
+or [GitLab][17]{:target="_blank" onclick="ga('send', 'event', 'Extra', 'GitLab Click', 'GitLab');"} account.
 
 - [iShows][2] is an iPhone app designed to track TV shows
+- [FromNotes][16]{:target="_blank"} a simple autosaving note-taking app for macOS
 - Extending the Ruby programming language with extensions or gems:
     - [Powercore][3]
     - [OpenFastStruct][4]
 - [YARR][5] a Ruby REPL
-- [FromNotes][16]{:target="_blank"} a simple autosaving note-taking app for macOS.
 - [gvar][10]{:target="_blank"} a pure Bash key-value store
 - `$HOME` sweet `~/` my [dotfiles][11]{:target="_blank"}
 - Printing bar graphs in the shell:
@@ -27,7 +28,7 @@ To stay updated with my work check out my [GitHub][1]{:target="_blank" onclick="
 - Resolving puzzles:
     - [4Clojure][13]{:target="_blank"}
     - [Human Resource Machine][14]{:target="_blank"}
-    - [Advent Of Code][15]{:target="_blank"}
+    - [Advent of Code][15]{:target="_blank"}
 
 
 
@@ -47,3 +48,4 @@ To stay updated with my work check out my [GitHub][1]{:target="_blank" onclick="
 [14]: https://github.com/arturoherrero/human-resource-machine
 [15]: https://github.com/arturoherrero/advent-of-code
 [16]: https://gitlab.com/arturoherrero/fromnotes
+[17]: https://gitlab.com/arturoherrero
