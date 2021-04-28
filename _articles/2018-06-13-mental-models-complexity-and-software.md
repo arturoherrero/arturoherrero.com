@@ -5,7 +5,7 @@ description: I was invited to speak at Pamplona Software Crafters 2018.
 ---
 
 I was invited to speak at [Pamplona Software Crafters
-2018][1]{:target="_blank"}, and I'm glad to have contributed with my talk about
+2018][1]{:target="_blank" rel="noreferrer"}, and I'm glad to have contributed with my talk about
 mental models, complexity and software.
 
 
@@ -18,7 +18,7 @@ complexity** (big O notation) or the perspective of **programming complexity**
 (cyclomatic complexity, ABC metric or cognitive complexity).
 
 We can also think of complexity in terms of **[accidental complexity vs.
-essential complexity][2]{:target="_blank"}**, and the difficulty of handling
+essential complexity][2]{:target="_blank" rel="noreferrer"}**, and the difficulty of handling
 states in object-oriented programming compared to functional programming.
 
 And of course, **the lifecyle of a software project** involves significant
@@ -33,7 +33,7 @@ complexity in everything around us, much of which we don't yet understand. And
 we may think that chaos is order yet undeciphered. The history of humankind is
 the history of understanding the world and doing reverse engineering to try to
 understand that chaos. We are **[driven by compression
-progress][3]{:target="_blank"}** to try to decipher the world and uncover the
+progress][3]{:target="_blank" rel="noreferrer"}** to try to decipher the world and uncover the
 simplicity that we believe is underneath all the chaos.
 
 This is something we also look for when programming in increasingly higher
@@ -60,15 +60,15 @@ carry in your mind to help you interpret what surrounds you and understand the
 relationship between things**.
 
 The software craftmanship community have a clear idea of what mastery is, taken
-to the extremes by the inspiring [Jiro Dreams of Sushi][5]{:target="_blank"}
+to the extremes by the inspiring [Jiro Dreams of Sushi][5]{:target="_blank" rel="noreferrer"}
 documentary. However, I am also interested in the idea of mastering a
 specialization yet also having a broad understanding of many other disciplines.
 This is known as having **T-shaped skills** or being an **expert-generalist**.
 
-At the end of the day, we can understand [multiple mental models][6]{:target="_blank"}
+At the end of the day, we can understand [multiple mental models][6]{:target="_blank" rel="noreferrer"}
 from Charlie Munger as a collection of big ideas from big disciplines that contains
 a checklist for decision-making. You can explore some of them in this infographic of [the
-top 12 most useful & universal mental models][7]{:target="_blank"} by Michael Simmons.
+top 12 most useful & universal mental models][7]{:target="_blank" rel="noreferrer"} by Michael Simmons.
 
 
 But, **why should you care about mental models?**

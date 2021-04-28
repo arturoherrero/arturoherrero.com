@@ -5,7 +5,7 @@ description: I heard about the Intercept-Cache-Invoke pattern for the first time
 ---
 
 I heard about the **Intercept-Cache-Invoke pattern** for the first time from
-[Graeme Rocher][4]{:target="_blank"}; he was explaining how he had implemented the dynamic finders on Grails.
+[Graeme Rocher][4]{:target="_blank" rel="noreferrer"}; he was explaining how he had implemented the dynamic finders on Grails.
 
 The idea is to dynamically figure out the behaviour for methods upon invocation
 so that we can create new methods with flexible and dynamic names *on-the-fly*.
@@ -16,8 +16,8 @@ application to implement it on the fly, let us cache that implementation for
 future invocation, and then invoke it. The first call takes performance hit but
 next calls are faster.
 
-Bonus: [Enrique García][2]{:target="_blank"} pointed out to me that it's a good idea to
-define `respond_to_missing?` when overriding `method_missing` <sup>[[thoughtbot][3]{:target="_blank"}]</sup>.
+Bonus: [Enrique García][2]{:target="_blank" rel="noreferrer"} pointed out to me that it's a good idea to
+define `respond_to_missing?` when overriding `method_missing` <sup>[[thoughtbot][3]{:target="_blank" rel="noreferrer"}]</sup>.
 
 ```ruby
 require "benchmark/ips"
@@ -83,7 +83,7 @@ It benchmarks about ~2.5x to ~4.5x faster than the method missing version. The
 result depends on how the solution has been implemented. For example, here
 we are using a block to cache and invoke new methods. Blocks are slow, and their
 performance depends on whether we use `block.call` or just `yield`
-<sup>[[benchmark][1]{:target="_blank"}]</sup>.
+<sup>[[benchmark][1]{:target="_blank" rel="noreferrer"}]</sup>.
 
     Calculating -------------------------------------
             Method Missing    20.758k i/100ms

@@ -14,11 +14,11 @@ patterns**.*
 Many patterns imply object-orientation, so may not be as applicable in dynamic
 languages. Peter Norvig demonstrates that 16 out of 23 patterns in the Design
 Patterns book are simplified or eliminated, [Design Patterns in Dynamic
-Languages][1]{:target="_blank"}.
+Languages][1]{:target="_blank" rel="noreferrer"}.
 
 I've found an interesting presentation of Venkat Subramaniam about [Design
-Patterns in Java and Groovy][2]{:target="_blank"} and another presentation of Neal Ford about
-[Design Patterns in Dynamic Languages][3]{:target="_blank"}. Here, I extract some patterns of
+Patterns in Java and Groovy][2]{:target="_blank" rel="noreferrer"} and another presentation of Neal Ford about
+[Design Patterns in Dynamic Languages][3]{:target="_blank" rel="noreferrer"}. Here, I extract some patterns of
 these presentations that involve closures and add others patterns based on my
 own experience.
 

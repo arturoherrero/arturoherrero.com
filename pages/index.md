@@ -6,7 +6,7 @@ redirect_from: /about/
 ---
 
 
-Hi! I'm Arturo, a software engineer & designer based in London. I work at [GitLab][9]{:target="_blank"}.
+Hi! I'm Arturo, a software engineer & designer based in London. I work at [GitLab][9]{:target="_blank" rel="noreferrer"}.
 
 Software is my craft. I help businesses to define and implement their products
 by keeping a holistic approach. I strive for excellence and share my passion,
@@ -30,7 +30,7 @@ I also take [notes][10], my particular commonplace book.
 
 ## Life Streaming
 
-I'm [@ArturoHerrero][4]{:target="_blank" onclick="ga('send', 'event', 'Extra', 'Twitter Click', 'Twitter Home');"} on Twitter.
+I'm [@ArturoHerrero][4]{:target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'Extra', 'Twitter Click', 'Twitter Home');"} on Twitter.
 
 
 ## Reading
@@ -45,7 +45,7 @@ Another passion is cinema. These are my favorite [movies][11] and [directors][12
 
 ## Writing
 
-I wrote a book about Markdown, published by Packt Publishing: *[Instant Markdown][5]{:target="_blank" onclick="ga('send', 'event', 'Extra', 'Markdown Click', 'Markdown');"}*.
+I wrote a book about Markdown, published by Packt Publishing: *[Instant Markdown][5]{:target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'Extra', 'Markdown Click', 'Markdown');"}*.
 
 
 ## Presenting

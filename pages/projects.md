@@ -8,27 +8,27 @@ permalink: /projects/
 ## {{ page.title }}
 
 I love open source and I'm continually learning and working on personal projects.
-To stay updated with my work check out my [GitHub][1]{:target="_blank" onclick="ga('send', 'event', 'Extra', 'GitHub Click', 'GitHub');"}
-or [GitLab][17]{:target="_blank" onclick="ga('send', 'event', 'Extra', 'GitLab Click', 'GitLab');"} account.
+To stay updated with my work check out my [GitHub][1]{:target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'Extra', 'GitHub Click', 'GitHub');"}
+or [GitLab][17]{:target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'Extra', 'GitLab Click', 'GitLab');"} account.
 
 - [iShows][2] is an iPhone app designed to track TV shows
-- [FromNotes][16]{:target="_blank"} a simple autosaving note-taking app for macOS
+- [FromNotes][16]{:target="_blank" rel="noreferrer"} a simple autosaving note-taking app for macOS
 - Extending the Ruby programming language with extensions or gems:
     - [Powercore][3]
     - [OpenFastStruct][4]
 - [YARR][5] a Ruby REPL
-- [gvar][10]{:target="_blank"} a pure Bash key-value store
-- `$HOME` sweet `~/` my [dotfiles][11]{:target="_blank"}
+- [gvar][10]{:target="_blank" rel="noreferrer"} a pure Bash key-value store
+- `$HOME` sweet `~/` my [dotfiles][11]{:target="_blank" rel="noreferrer"}
 - Printing bar graphs in the shell:
-    - [sparky][6]{:target="_blank"}
-    - [bart][7]{:target="_blank"}
-- Creating my CV in markdown with [biteydown][9]{:target="_blank"}
-- [Twitterise][12]{:target="_blank"}, experiments with Twitter
-- Taking a picture every day: [a 365 project][8]{:target="_blank"}
+    - [sparky][6]{:target="_blank" rel="noreferrer"}
+    - [bart][7]{:target="_blank" rel="noreferrer"}
+- Creating my CV in markdown with [biteydown][9]{:target="_blank" rel="noreferrer"}
+- [Twitterise][12]{:target="_blank" rel="noreferrer"}, experiments with Twitter
+- Taking a picture every day: [a 365 project][8]{:target="_blank" rel="noreferrer"}
 - Resolving puzzles:
-    - [4Clojure][13]{:target="_blank"}
-    - [Human Resource Machine][14]{:target="_blank"}
-    - [Advent of Code][15]{:target="_blank"}
+    - [4Clojure][13]{:target="_blank" rel="noreferrer"}
+    - [Human Resource Machine][14]{:target="_blank" rel="noreferrer"}
+    - [Advent of Code][15]{:target="_blank" rel="noreferrer"}
 
 
 

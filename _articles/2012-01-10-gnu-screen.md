@@ -5,7 +5,7 @@ description: GNU Screen is a full-screen window manager that multiplexes a physi
 redirect_from: /2012/01/10/gnu-screen/
 ---
 
-[GNU Screen][1]{:target="_blank"} is a full-screen window manager that multiplexes a physical
+[GNU Screen][1]{:target="_blank" rel="noreferrer"} is a full-screen window manager that multiplexes a physical
 terminal between several processes, typically interactive shells. With this
 tool, you can keep a process running after disconnecting an SSH session.
 
@@ -71,7 +71,7 @@ After disconnection, you can log into the remote machine and reattach the sessio
 
     $ ssh me@server.com -t "screen -r sessionname"
 
-How can we improve this? [autossh][2]{:target="_blank"} is the answer.
+How can we improve this? [autossh][2]{:target="_blank" rel="noreferrer"} is the answer.
 
 autossh, automatically restarts an SSH session and reattaches a session transparently:
 

@@ -30,11 +30,11 @@ apply them.
 Java has long been known simply as a programming language. Today, when
 thinking in Java we refer also a robust and mature development platform.
 Currently, the [Java Virtual Machine (JVM) supports over 200 different
-programming languages][1]{:target="_blank"}.
+programming languages][1]{:target="_blank" rel="noreferrer"}.
 
 These days I have been exploring different languages on the JVM: Java, Groovy,
 Scala, Clojure... I shared my experiences with others developers at [Codemotion
-2012][2]{:target="_blank"}.
+2012][2]{:target="_blank" rel="noreferrer"}.
 
 Hope you enjoy the slides.
 

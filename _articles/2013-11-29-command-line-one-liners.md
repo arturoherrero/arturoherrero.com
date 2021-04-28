@@ -5,14 +5,14 @@ description: I attended the SoCraTes UK 2013 unconference and I did a presentati
 redirect_from: /2013/11/29/command-line-one-liners/
 ---
 
-I attended the [SoCraTes UK 2013][1]{:target="_blank"} unconference. We had a space for lightning talks
+I attended the [SoCraTes UK 2013][1]{:target="_blank" rel="noreferrer"} unconference. We had a space for lightning talks
 and I did a presentation about command line one-liners.
 
 I love Unix and I talked about terminal commands so I used [Terminal
-Keynote][2]{:target="_blank"}, a hack for terminal-based talks.
+Keynote][2]{:target="_blank" rel="noreferrer"}, a hack for terminal-based talks.
 
 <sup>Contribute to the list with your own commands in the [command line one-liners
-repository][3]{:target="_blank"}.</sup>
+repository][3]{:target="_blank" rel="noreferrer"}.</sup>
 
 ![Terminal Keynote][4]
 

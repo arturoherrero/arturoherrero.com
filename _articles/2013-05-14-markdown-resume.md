@@ -9,14 +9,14 @@ A few weeks ago I needed to update my curriculum vitae. When was the last time
 that you composed your cv? The last time I had to updated it, I was using a
 completely different stack. I remember having used Microsoft Office Word.
 
-Now my options are an online editor, LaTeX or [Markdown][1]{:target="_blank"}.
+Now my options are an online editor, LaTeX or [Markdown][1]{:target="_blank" rel="noreferrer"}.
 I love to write in Markdown and I like to create my own tools so I decided to
 craft a tool to do the job.
 
 
 ### biteydown
 
-**[biteydown][2]{:target="_blank"}** is Ruby application that turns a simple
+**[biteydown][2]{:target="_blank" rel="noreferrer"}** is Ruby application that turns a simple
 Markdown document into a resume in HTML or PDF file.
 
 #### Instalation

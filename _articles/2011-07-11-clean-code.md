@@ -8,7 +8,7 @@ redirect_from: /2011/07/11/clean-code/
 ![Clean Code][5]
 {: .side-image }
 
-[Clean Code: A Handbook of Agile Software Craftsmanship][1]{:target="_blank"}
+[Clean Code: A Handbook of Agile Software Craftsmanship][1]{:target="_blank" rel="noreferrer"}
 is a book that every developer should read.
 
 I try to summarize a few ideas from the book:
@@ -17,7 +17,7 @@ I try to summarize a few ideas from the book:
 
     The first step to writing good code is that names have meaning. The
     variables, methods and classes should have a good name to know why they
-    exist and what they do. [Tim Ottinger's *Rules for Variable and Class Naming*][4]{:target="_blank"}.
+    exist and what they do. [Tim Ottinger's *Rules for Variable and Class Naming*][4]{:target="_blank" rel="noreferrer"}.
 
 - #### Functions
 
@@ -59,8 +59,8 @@ I try to summarize a few ideas from the book:
     To create a good emergent design we should run all tests, eliminate duplication,
     express the intention in the code and minimize the number of classes and methods.
     These are Kent Beck's *Four Rules of Simple Design*:
-    - Martin Fowler on [Beck Design Rules][2]{:target="_blank"}.
-    - [Understanding the Four Rules of Simple Design][3]{:target="_blank"} by Corey Haines.
+    - Martin Fowler on [Beck Design Rules][2]{:target="_blank" rel="noreferrer"}.
+    - [Understanding the Four Rules of Simple Design][3]{:target="_blank" rel="noreferrer"} by Corey Haines.
     {: .element-related }
 
 ---

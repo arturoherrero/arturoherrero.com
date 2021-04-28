@@ -65,8 +65,8 @@ Great, but we may want to use this fancy way to coerce one type into another:
 adminUser = user as AdminUser
 ```
 
-Simple: [Groovy supports operator overloading][1]{:target="_blank"} and, therefore, creating your own type conversion is really easy - we can override the
-[asType() method][2]{:target="_blank"}.
+Simple: [Groovy supports operator overloading][1]{:target="_blank" rel="noreferrer"} and, therefore, creating your own type conversion is really easy - we can override the
+[asType() method][2]{:target="_blank" rel="noreferrer"}.
 
 ```groovy
 class User {

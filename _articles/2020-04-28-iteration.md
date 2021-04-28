@@ -5,7 +5,7 @@ description: The ultimate sophistication.
 ---
 
 I recently read [Simplifying the Bull: How Picasso Helps to Teach Apple's
-Style][3]{:target="_blank"}, an article that connects how Apple teaches their
+Style][3]{:target="_blank" rel="noreferrer"}, an article that connects how Apple teaches their
 designers to strive for simplicity when creating smartphones and other devices
 to the way in which Picasso eliminated details to create a great work of art.
 

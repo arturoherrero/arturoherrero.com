@@ -8,10 +8,10 @@ redirect_from: /2011/06/04/10-groovy-one-liners-to-impress-your-friends/
 I find that comparing programming languages is a worthwhile exercise mainly
 because of the different techniques and styles that you are exposed to.
 
-After 10 [Scala]{:target="_blank"} / [CoffeeScript]{:target="_blank"} /
-[Ruby]{:target="_blank"} / [Haskell]{:target="_blank"}
-/ [Clojure]{:target="_blank"} /[C#]{:target="_blank"} / [F#]{:target="_blank"}
-/ [Nim]{:target="_blank"} / [Swift]{:target="_blank"}
+After 10 [Scala]{:target="_blank" rel="noreferrer"} / [CoffeeScript]{:target="_blank" rel="noreferrer"} /
+[Ruby]{:target="_blank" rel="noreferrer"} / [Haskell]{:target="_blank" rel="noreferrer"}
+/ [Clojure]{:target="_blank" rel="noreferrer"} /[C#]{:target="_blank" rel="noreferrer"} / [F#]{:target="_blank" rel="noreferrer"}
+/ [Nim]{:target="_blank" rel="noreferrer"} / [Swift]{:target="_blank" rel="noreferrer"}
 one liners to impress your friends, here are the Groovy one liners.
 
 #### 1. Multiple Each Item in a List by 2
@@ -73,7 +73,7 @@ import groovyx.gpars.*
 GParsPool.withPool { def result = dataList.collectParallel { processItem(it) } }
 ```
 
-<sup>Using [Gpars]{:target="_blank"} that offers intuitive and safe ways to
+<sup>Using [Gpars]{:target="_blank" rel="noreferrer"} that offers intuitive and safe ways to
 handle Groovy tasks concurrently.</sup>
 
 #### 10. Sieve of Eratosthenes

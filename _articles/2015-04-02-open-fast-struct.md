@@ -6,12 +6,12 @@ description: OpenFastStruct is a data structure, similar to an OpenStruct but fa
 
 After having a lot of fun building [YARR][1], I have built a new Ruby gem.
 
-**[OpenFastStruct][2]{:target="_blank"}** is a
+**[OpenFastStruct][2]{:target="_blank" rel="noreferrer"}** is a
 data structure, similar to an OpenStruct, that allows the definition of
 arbitrary attributes with their accompanying values. It benchmarks ~3x slower
 than a Hash, but **it's ~4x faster than OpenStruct**.
 
-The project was featured on [issue #239 of Ruby Weekly newsletter][3]{:target="_blank"} and was a Ruby trending repository on GitHub for two days.
+The project was featured on [issue #239 of Ruby Weekly newsletter][3]{:target="_blank" rel="noreferrer"} and was a Ruby trending repository on GitHub for two days.
 
 
 ### Examples

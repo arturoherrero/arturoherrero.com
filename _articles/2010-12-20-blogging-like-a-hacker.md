@@ -11,10 +11,10 @@ possible doing something in a different way.
 For me, writing is simply the act of putting some ideas in order. This is why
 I've always tried to focus on what truly matters and avoid all sorts of distractions.
 
-This blog is built with [<s>toto</s>][2]{:target="_blank"}
-[Jekyll][1]{:target="_blank"}, a static site generator that transforms Markdown
-text into HTML code. It is hosted on [<s>Heroku</s>][3]{:target="_blank"}
-[GitHub Pages][4]{:target="_blank"}.
+This blog is built with [<s>toto</s>][2]{:target="_blank" rel="noreferrer"}
+[Jekyll][1]{:target="_blank" rel="noreferrer"}, a static site generator that transforms Markdown
+text into HTML code. It is hosted on [<s>Heroku</s>][3]{:target="_blank" rel="noreferrer"}
+[GitHub Pages][4]{:target="_blank" rel="noreferrer"}.
 
 LiveReload is available during development to automatically reload my browser
 when files are modified.

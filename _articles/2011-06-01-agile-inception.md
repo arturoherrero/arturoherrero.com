@@ -16,7 +16,7 @@ Many projects die before being released, mainly for two reasons:
 Before a project begins, each team member has a different idea of what the
 project is and how it should be approached in order to succeed.
 
-*The Agile Samurai*, by Jonathan Rasmusson, describes the [Agile Project Inception][1]{:target="_blank"}.
+*The Agile Samurai*, by Jonathan Rasmusson, describes the [Agile Project Inception][1]{:target="_blank" rel="noreferrer"}.
 
 Basically, the book suggests we should consider a series of questions before
 starting any project. The idea behind this is to bring the project to its

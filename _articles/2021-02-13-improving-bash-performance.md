@@ -6,7 +6,7 @@ description: Performance is User eXperience.
 
 I have gradually noticed the degradation of my terminal's performance when
 working with relatively large Git repositories. I use Bash as my Unix shell and
-keep [my dotfiles][1]{:target="_blank"} organised, so it's relatively easy to
+keep [my dotfiles][1]{:target="_blank" rel="noreferrer"} organised, so it's relatively easy to
 investigate and improve performance.
 
 
@@ -24,7 +24,7 @@ new files yourself (see 'git help status').
 I'd  still like to show untracked files, so the solution was not to use other
 options but to improve the performance. I tried some commands like `git prune` or
 `git gc` with no improvement. I also discovered some relevant options when working
-with large repositories, one of the most interesting being [`feature.manyFiles`][2]{:target="_blank"}
+with large repositories, one of the most interesting being [`feature.manyFiles`][2]{:target="_blank" rel="noreferrer"}
 , which enables config options that optimize for repositories with many files in
 the working directory.
 
@@ -32,8 +32,8 @@ the working directory.
 $ git config feature.manyFiles true
 ```
 
-But what really has made a substantial difference is [Scalar][3]{:target="_blank"}.
-[Scalar was created by Microsoft][4]{:target="_blank"} and they want to
+But what really has made a substantial difference is [Scalar][3]{:target="_blank" rel="noreferrer"}.
+[Scalar was created by Microsoft][4]{:target="_blank" rel="noreferrer"} and they want to
 accelerate the Git workflow, no matter the size of the repository. The tool sets
 advanced Git config options, maintains the repositories in the background,
 and helps reducing data sent across the network.
@@ -50,12 +50,12 @@ And then, from the working directory of the Git repository, I've registered it:
 $ scalar register
 ```
 
-Although I sometimes have [problems with watchman invocations][8]{:target="_blank"}.
+Although I sometimes have [problems with watchman invocations][8]{:target="_blank" rel="noreferrer"}.
 
 
 ### Improving Git prompt status performance
 
-Another element with very poor performance is my prompt <sup>([f982e10][5]{:target="_blank"})</sup>
+Another element with very poor performance is my prompt <sup>([f982e10][5]{:target="_blank" rel="noreferrer"})</sup>
 , which uses the `__git_ps1` function:
 
 {% raw  %}
@@ -70,7 +70,7 @@ consumes a lot of time.
 
 Since git-status now has a good performance, I've created a custom function
 which provides similar functionality to `__git_ps1` based on the output from
-`git status`. This is my new prompt <sup>([1d0df6d][6]{:target="_blank"})</sup>:
+`git status`. This is my new prompt <sup>([1d0df6d][6]{:target="_blank" rel="noreferrer"})</sup>:
 
 ```sh
 PROMPT_COMMAND="__system_prompt_command"
@@ -81,7 +81,7 @@ PROMPT_COMMAND="__system_prompt_command"
 
 The last thing I've improved is the startup time of the shell. As I have my
 dotfiles split in several files, I've re-used an idea from [even faster bash
-startup][7]{:target="_blank"} to profile each file:
+startup][7]{:target="_blank" rel="noreferrer"} to profile each file:
 
 ```sh
 for file in $(__system_dotfiles_dir)/system/*; do

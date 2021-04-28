@@ -7,7 +7,7 @@ description: Back in 2012 I wrote an article about closure design patterns using
 Back in 2012 I wrote an article about **[closure design patterns][1]**. I used
 Groovy as a programming language but now I have decided to use Ruby (the
 programming language that I mainly have been using for two years). This article
-was featured on [issue #231 of Ruby Weekly newsletter][2]{:target="_blank"}.
+was featured on [issue #231 of Ruby Weekly newsletter][2]{:target="_blank" rel="noreferrer"}.
 
 I want to keep the same examples, so I have created a helper method to make
 assertions.

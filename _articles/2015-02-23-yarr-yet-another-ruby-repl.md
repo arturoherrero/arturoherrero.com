@@ -4,10 +4,10 @@ title: YARR. Yet Another Ruby REPL
 description: YARR is a Ruby REPL (it’s just a hobby, it won’t be big and professional like Pry).
 ---
 
-**[YARR (Yet Another Ruby REPL)][1]{:target="_blank"}** is a Ruby REPL (it's just a hobby, it won't be big and
-professional like Pry). YARR was inspired by groovysh<sup>[1][2]{:target="_blank"}</sup>,
-IRB<sup>[2][3]{:target="_blank"}</sup>, Pry<sup>[3][4]{:target="_blank"}</sup>, Bash
-<sup>[4][5]{:target="_blank"}</sup> and Vim<sup>[5][6]{:target="_blank"}</sup>.
+**[YARR (Yet Another Ruby REPL)][1]{:target="_blank" rel="noreferrer"}** is a Ruby REPL (it's just a hobby, it won't be big and
+professional like Pry). YARR was inspired by groovysh<sup>[1][2]{:target="_blank" rel="noreferrer"}</sup>,
+IRB<sup>[2][3]{:target="_blank" rel="noreferrer"}</sup>, Pry<sup>[3][4]{:target="_blank" rel="noreferrer"}</sup>, Bash
+<sup>[4][5]{:target="_blank" rel="noreferrer"}</sup> and Vim<sup>[5][6]{:target="_blank" rel="noreferrer"}</sup>.
 
 ![yarr][7]
 
@@ -43,7 +43,7 @@ only appear at the end.
 
 That's correct if we use the usual way of defining new methods with `def`,
 however there seems to be no restrictions on what can be used if we use
-`define_method` <sup>[[code][8]{:target="_blank"}]</sup>.
+`define_method` <sup>[[code][8]{:target="_blank" rel="noreferrer"}]</sup>.
 
 ```ruby
 define_method("!") do |args|
@@ -54,7 +54,7 @@ end
 #### 2. Capture STDOUT
 
 It's possible to redirect the standard output or store it into a variable. I
-captured the STDOUT for a block of code and then restore it <sup>[[code][9]{:target="_blank"}]</sup>.
+captured the STDOUT for a block of code and then restore it <sup>[[code][9]{:target="_blank" rel="noreferrer"}]</sup>.
 
 ```ruby
 def capture_stdout(&block)
@@ -72,7 +72,7 @@ Arrange-Act-Assert is a pattern for arranging and formatting code in test method
 It is very popular from the Given-When-Then style of representing tests.
 
 I used the RSpec syntax with some private methods, so each method should group
-these functional sections <sup>[[code][10]{:target="_blank"}]</sup>:
+these functional sections <sup>[[code][10]{:target="_blank" rel="noreferrer"}]</sup>:
 
 - Arrange all necessary preconditions and inputs (`setup`).
 - Act on the object or method under test (`given`).

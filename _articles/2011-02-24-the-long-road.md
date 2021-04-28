@@ -7,7 +7,7 @@ redirect_from: /2011/02/24/the-long-road/
 
 I believe that continuous learning is a core skill everyone should have.
 
-A few days ago I finished reading an amazing book: [Apprenticeship Patterns][1]{:target="_blank"}.
+A few days ago I finished reading an amazing book: [Apprenticeship Patterns][1]{:target="_blank" rel="noreferrer"}.
 
 _Apprenticeships Patterns_ features a catalog of patterns that allow us to improve as developers and
 focuses on the software craftsmanship philosophy.

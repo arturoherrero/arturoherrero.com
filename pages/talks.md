@@ -28,7 +28,7 @@ together the talks I have given in the past and sharing them with you.
 
 - #### Agile Spain Conference. *Oct 2011*
 The evolution of an agile project. I was presenting with
-[Marcin Gryszko][4]{:target="_blank"} our experiences with agile development.
+[Marcin Gryszko][4]{:target="_blank" rel="noreferrer"} our experiences with agile development.
 
 - #### Agile Madrid User Group. *May 2011*
 [Clean Code][5] a great book of Robert C. Martin.
