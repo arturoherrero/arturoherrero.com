@@ -42,6 +42,10 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Tener y no tener. *1944*
 - El sueño eterno. *1946*
 
+##### Orson Welles
+- Ciudadano Kane. *1941*
+- Fraude. *1973*
+
 ##### Fritz Lang
 - La mujer del cuadro. *1944*
 - Perversidad. *1945*

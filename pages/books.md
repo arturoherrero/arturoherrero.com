@@ -23,8 +23,12 @@ I love reading. This is the complete list of all books that I've read in my life
 11. A propósito de nada: Autobiografía. *Woody Allen*
 12. 99 Bottles of OOP. *Sandi Metz, Katrina Owen & TJ Stankus*
 13. Cándido, o el Optimismo. *Voltaire*
-14. Cuentos completos. *Jorge Luis Borges*
+14. Cuentos completos. *Jorge Luis Borges* ⭑
 15. Las barbas del profeta. *Eduardo Mendoza*
+16. Historia de la Biblia. *Karen Armstrong* ⭑
+17. Medio siglo con Borges. *Mario Vargas Llosa*
+18. De las células a las civilizaciones. *Enrico Coen*
+19. Crucial Conversations. *Kerry Patterson, Joseph Grenny, Ron McMillan & Al Switzler*
 
 
 ### 2020
