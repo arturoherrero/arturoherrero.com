@@ -1,0 +1,33 @@
+version: 2
+updates:
+- package-ecosystem: bundler
+  directory: "/"
+  schedule:
+    interval: weekly
+  open-pull-requests-limit: 10
+  allow:
+  - dependency-type: direct
+  - dependency-type: indirect
+  ignore:
+  - dependency-name: ethon
+    versions:
+    - 0.13.0
+  - dependency-name: html-proofer
+    versions:
+    - 3.19.0
+  - dependency-name: rexml
+    versions:
+    - 3.2.5
+  - dependency-name: nokogiri
+    versions:
+    - 1.11.2
+    - 1.11.3
+  - dependency-name: ffi
+    versions:
+    - 1.15.0
+  - dependency-name: ruby2_keywords
+    versions:
+    - 0.0.4
+  - dependency-name: github-pages
+    versions:
+    - "210"
