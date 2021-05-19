@@ -31,6 +31,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Ciudadano Kane. *Orson Welles. 1941*
 * ¡Qué verde era mi valle! *John Ford. 1941*
 * Casablanca. *Michael Curtiz. 1942*
+* La extraña pasajera. *Irving Rapper. 1942*
 * Alma rebelde. *Robert Stevenson. 1943*
 * Arsénico por compasión. *Frank Capra. 1944*
 * La mujer del cuadro. *Fritz Lang. 1944*

@@ -29,6 +29,8 @@ I love reading. This is the complete list of all books that I've read in my life
 17. Medio siglo con Borges. *Mario Vargas Llosa*
 18. De las células a las civilizaciones. *Enrico Coen*
 19. Crucial Conversations. *Kerry Patterson, Joseph Grenny, Ron McMillan & Al Switzler*
+20. Grandes estrategias. *John Lewis Gaddis*
+22. The First 90 Days. *Michael D. Watkins*
 
 
 ### 2020
@@ -93,7 +95,7 @@ I love reading. This is the complete list of all books that I've read in my life
 59. Castellio contra Calvino: Conciencia contra violencia. *Stefan Zweig* ⭑
 60. Las reglas del contagio. *Adam Kucharski*
 61. Por qué el liberalismo funciona. *Deirdre N. McCloskey*
-62. Las virtudes burguesas: Ética para la era del comercio. *Deirdre N. McCloskey*
+62. Las virtudes burguesas: Ética para la era del comercio. *Deirdre N. McCloskey* ⭑
 63. La carretera. *Cormac McCarthy*
 64. Cartas satíricas y amorosas completas. *Cyrano de Bergerac*
 65. La naturaleza muerta. *Stefano Zuffi* ⭑
