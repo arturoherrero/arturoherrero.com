@@ -30,7 +30,10 @@ I love reading. This is the complete list of all books that I've read in my life
 18. De las células a las civilizaciones. *Enrico Coen*
 19. Crucial Conversations. *Kerry Patterson, Joseph Grenny, Ron McMillan & Al Switzler*
 20. Grandes estrategias. *John Lewis Gaddis*
+21. Day-by-day Pregnancy Book. *Maggie Blott*
 22. The First 90 Days. *Michael D. Watkins*
+23. El camino. *Miguel Delibes*
+24. Expecting Better. *Emily Oster*
 
 
 ### 2020
