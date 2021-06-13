@@ -12,6 +12,7 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 ### 2021
 1. Super Mario Odyssey. *Switch* ⭑
 2. Grand Theft Auto V. *PS4* ⭑
+3. Super Mario Galaxy. *Switch* ⭑
 
 
 ### 2020

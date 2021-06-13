@@ -34,6 +34,11 @@ permalink: /devices/
 - <strike>Samsung UE32H5000 32". <em>2014-09</em></strike>
 
 
+### Camera
+- Canon EOS 700D, EF-S 18-55mm f/3.5-5.6 IS STM. *2015-04*
+- Transcend 32 GB, 90MB/s (300x, SDHC, clase 10)
+
+
 ### Others
 - ASUS RT-AC68U. *2020-10*
 - Samsung LU28H750UQUXEN 28". *2019-09*
