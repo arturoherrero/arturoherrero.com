@@ -205,6 +205,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Gravity. *Alfonso Cuarón. 2013*
 * Her. *Spike Jonze. 2013*
 * Rush. *Ron Howard. 2013*
+* El Gran Hotel Budapest. *Wes Anderson. 2014*
 * Gone Girl. *David Fincher. 2014*
 * Interstellar. *Christopher Nolan. 2014*
 * Nightcrawler. *Dan Gilroy. 2014*

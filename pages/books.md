@@ -38,6 +38,22 @@ I love reading. This is the complete list of all books that I've read in my life
 26. Mortalidad. *Christopher Hitchens*
 27. Cómo viajar con un salmón. *Umberto Eco*
 28. Drawing for the Artist. *Sarah Simblet*
+29. El infinito en un junco. *Irene Vallejo* ⭑
+30. Power of Reading: From Socrates to Twitter. *Frank Furedi*
+31. The Book Lovers' Companion: What to Read Next. *Lionel Shriver*
+32. The Legend of Zelda: Breath of the Wild: Creating a Champion. ⭑
+33. The Art of Princess Mononoke.
+34. Ilíada. *Homero*
+35. Homero, Ilíada. *Alessandro Baricco*
+36. Un verano con Homero. *Sylvain Tesson*
+37. Odisea. *Homero* ⭑
+38. El mundo de Homero: Una guía de viaje por la Ilíada y la Odisea. *John Freely*
+39. El legado de Homero. *Alberto Manguel* ⭑
+40. La analogía: El motor del pensamiento. *Douglas R. Hofstadter & Emmanuel Sander*
+41. Pasando a limpio. *Oscar Tusquets*
+42. Correspondencia. *Hermann Hesse & Stefan Zweig*
+43. Biografía de la luz. *Pablo d'Ors*
+44. Curiosidad. Por qué todo nos interesa. *Philip Ball*
 
 
 ### 2020
