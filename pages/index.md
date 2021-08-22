@@ -5,13 +5,12 @@ permalink: /
 redirect_from: /about/
 ---
 
-¡Hola!
+¡Hola! I'm Arturo.
 
-I'm Arturo, a software engineer & designer based in London. I work at [GitLab][9]{:target="_blank" rel="noreferrer"}.
+I'm a software engineer, manager & designer based in London. I work at [GitLab][9]{:target="_blank" rel="noreferrer"}.
 
-Software is my craft. I help businesses to define and implement their products
-by keeping a holistic approach. I strive for excellence and share my passion,
-ideas and practices with those around me.
+Software is my craft. During my career I have had the opportunity to work with
+remarkable people building systems at scale and leading technical teams.
 
 
 ## Projects
