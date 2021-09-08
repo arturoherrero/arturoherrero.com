@@ -44,7 +44,7 @@ I love reading. This is the complete list of all books that I've read in my life
 32. The Legend of Zelda: Breath of the Wild: Creating a Champion. ⭑
 33. The Art of Princess Mononoke.
 34. Ilíada. *Homero*
-35. Homero, Ilíada. *Alessandro Baricco*
+35. Homero, Ilíada. *Alessandro Baricco* ⭑
 36. Un verano con Homero. *Sylvain Tesson*
 37. Odisea. *Homero* ⭑
 38. El mundo de Homero: Una guía de viaje por la Ilíada y la Odisea. *John Freely*
@@ -54,6 +54,12 @@ I love reading. This is the complete list of all books that I've read in my life
 42. Correspondencia. *Hermann Hesse & Stefan Zweig*
 43. Biografía de la luz. *Pablo d'Ors*
 44. Curiosidad. Por qué todo nos interesa. *Philip Ball*
+45. Haiku: Poemas y meditaciones sobre naturaleza y la belleza. *Tom Lowenstein*
+46. Benedicto XVI, últimas conversaciones con Peter Seewald. *Benedict XVI* ⭑
+47. Aquí no hay reglas. *Reed Hastings & Erin Meyer*
+48. La trampa de la inteligencia. *David Robson*
+49. π-fias matemáticas: Equivocarse nunca ha sido tan divertido. *Matt Parker*
+50. Crea & Divaga: Vida y reflexiones de *Jeff Bezos*
 
 
 ### 2020
