@@ -37,7 +37,7 @@ The evolution of an agile project. I was presenting with
 [1]: /command-line-one-liners/
 [2]: /polyglot-programming/
 [3]: /functional-programming-with-groovy/
-[4]: https://grysz.com/
+[4]: https://marcingryszko.medium.com/
 [5]: /clean-code/
 [7]: /agile-for-non-developers/
 [8]: /mental-models-complexity-and-software/
