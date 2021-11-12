@@ -31,7 +31,7 @@ I love reading. This is the complete list of all books that I've read in my life
 19. Crucial Conversations. *Kerry Patterson, Joseph Grenny, Ron McMillan & Al Switzler*
 20. Grandes estrategias. *John Lewis Gaddis*
 21. Day-by-day Pregnancy Book. *Maggie Blott*
-22. The First 90 Days. *Michael D. Watkins*
+22. The First 90 Days. *Michael D. Watkins* ⭑
 23. El camino. *Miguel Delibes*
 24. Expecting Better. *Emily Oster*
 25. El origen. *Thomas Bernhard*
@@ -60,6 +60,12 @@ I love reading. This is the complete list of all books that I've read in my life
 48. La trampa de la inteligencia. *David Robson*
 49. π-fias matemáticas: Equivocarse nunca ha sido tan divertido. *Matt Parker*
 50. Crea & Divaga: Vida y reflexiones de *Jeff Bezos*
+51. Los ensayos (edición de 1595 de Marie de Gournay). Libro I. *Michel de Montaigne* ⭑
+52. Cien años de soledad. *Gabriel García Márquez*
+53. Cuentos completos. *Edgar Allan Poe*
+54. Así habló Zaratustra. *Friedrich Nietzsche*
+55. La lucha contra el demonio (Nietzsche). *Stefan Zweig*
+56. ¡Soy dinamita! Una vida de Nietzsche. *Sue Prideaux*
 
 
 ### 2020

@@ -14,6 +14,7 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 2. Grand Theft Auto V. *PS4* ⭑
 3. Super Mario Galaxy. *Switch* ⭑
 4. It Takes Two. *Xbox One* ⭑
+5. The Last of Us Part II. *PS4* ⭑
 
 
 ### 2020

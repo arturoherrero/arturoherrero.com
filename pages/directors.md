@@ -90,6 +90,12 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Cautivos del mal. *1952*
 - Melodías de Broadway 1955. *1953*
 
+##### Luis García Berlanga
+- Bienvenido, Míster Marshall. *1953*
+- Calabuch. *1956*
+- Plácido. *1961*
+- El verdugo. *1963*
+
 ##### Alfred Hitchcock
 - Crimen perfecto. *1954*
 - La ventana indiscreta. *1954*
@@ -331,6 +337,7 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Prisioneros. *2013*
 - Sicario. *2015*
 - La llegada. *2016*
+- Dune. *2021*
 
 ##### Alfonso Cuarón
 - Gravity. *2013*
