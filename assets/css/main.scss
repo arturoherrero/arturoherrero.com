@@ -270,6 +270,14 @@ table tr.even, table tr.alt, table tr:nth-of-type(even) {
   background: #F5F5F5;
 }
 
+.footnotes {
+  li, p {
+    font-size: 90%;
+    line-height : 25px;
+    margin-bottom: 0px;
+  }
+}
+
 footer {
   margin: 20px auto;
   padding-bottom: 30px;
