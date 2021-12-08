@@ -65,7 +65,13 @@ I love reading. This is the complete list of all books that I've read in my life
 53. Cuentos completos. *Edgar Allan Poe*
 54. Así habló Zaratustra. *Friedrich Nietzsche*
 55. La lucha contra el demonio (Nietzsche). *Stefan Zweig*
-56. ¡Soy dinamita! Una vida de Nietzsche. *Sue Prideaux*
+56. ¡Soy dinamita! Una vida de Nietzsche. *Sue Prideaux* ⭑
+57. The Little Book of Humanist Weddings. *Andrew Copson & Alice Roberts*
+58. The Positive Birth Book. *Milli Hill* ⭑
+59. Mindful Pregnancy. *Tracy Donegan*
+60. The Story of Computing. *Dermot Turing* ⭑
+61. Los trucos de los ricos. *Juan Haro*
+62. Los hermanos Karamázov. *Fiódor Dostoyevski*
 
 
 ### 2020
@@ -225,7 +231,7 @@ I love reading. This is the complete list of all books that I've read in my life
 20. The Bed of Procrustes. *Nassim Nicholas Taleb* ⭑
 21. Caos: La creación de una ciencia. *James Gleick* ⭑
 22. The Software Craftsman: Professionalism, Pragmatism, Pride. *Sandro Mancuso*
-23. Los hermanos Karamazov. *Fyodor Dostoyevsky*
+23. Los hermanos Karamázov. *Fiódor Dostoyevski*
 24. Turn the Ship Around! *L. David Marquet*
 25. Chaos: A Very Short Introduction. *Leonard Smith*
 26. Organize for Complexity. *Niels Pflaeging* ⭑
