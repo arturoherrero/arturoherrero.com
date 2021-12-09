@@ -11,10 +11,10 @@ to the way in which Picasso eliminated details to create a great work of art.
 
 ![Le Taureau. Picasso][1]
 
-<sup>Le Taureau (The Bull). Pablo Picasso. 1945.</sup>
+<sup>Le Taureau (The Bull). Pablo Picasso, 1945.</sup>
 
 ![Apple Mouse Evolution][2]
-<sup>Lisa Mouse (1983). ADB Mouse II (1993). Mighty Mouse (2006). Magic Mouse (2009).</sup>
+<sup>Lisa Mouse, 1983 | ADB Mouse II, 1993 | Mighty Mouse, 2006 | Magic Mouse, 2009.</sup>
 
 > Simplicity is the ultimate sophistication.
 
