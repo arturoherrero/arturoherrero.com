@@ -4,8 +4,8 @@ title: Iteration
 description: The ultimate sophistication.
 ---
 
-I recently read [Simplifying the Bull: How Picasso Helps to Teach Apple's
-Style][3]{:target="_blank" rel="noreferrer"}, an article that connects how Apple teaches their
+I recently read *Simplifying the Bull: How Picasso Helps to Teach Apple's
+Style*, an article that connects how Apple teaches their
 designers to strive for simplicity when creating smartphones and other devices
 to the way in which Picasso eliminated details to create a great work of art.
 
@@ -38,5 +38,4 @@ That's why I believe **iteration is the ultimate sophistication**.
 
 [1]: /assets/images/articles/le-taureau-picasso.jpg
 [2]: /assets/images/articles/apple-mouse-evolution.jpg
-[3]: https://www.nytimes.com/2014/08/11/technology/-inside-apples-internal-training-program-.html
 [4]: /mental-models-complexity-and-software/
