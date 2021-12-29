@@ -71,7 +71,8 @@ I love reading. This is the complete list of all books that I've read in my life
 59. Mindful Pregnancy. *Tracy Donegan*
 60. The Story of Computing. *Dermot Turing* ⭑
 61. Los trucos de los ricos. *Juan Haro*
-62. Los hermanos Karamázov. *Fiódor Dostoyevski*
+62. Los hermanos Karamázov. *Fiódor Dostoyevski* ⭑
+63. La perla. *John Steinbeck* ⭑
 
 
 ### 2020
