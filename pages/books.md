@@ -9,6 +9,11 @@ permalink: /books/
 
 I love reading. This is the complete list of all books that I've read in my life.
 
+### 2022
+1. El vértigo de las listas. *Umberto Eco* ⭑
+2. La segunda mano o el trabajo de la cita. *Antoine Compagnon* ⭑
+
+
 ### 2021
 1. A hombros de gigantes. *Umberto Eco* ⭑
 2. Walden. *Henry David Thoreau*
@@ -72,7 +77,8 @@ I love reading. This is the complete list of all books that I've read in my life
 60. The Story of Computing. *Dermot Turing* ⭑
 61. Los trucos de los ricos. *Juan Haro*
 62. Los hermanos Karamázov. *Fiódor Dostoyevski* ⭑
-63. La perla. *John Steinbeck* ⭑
+63. Y Dios se hizo..., célula. *Manuel Martínez-Sellés*
+64. La perla. *John Steinbeck* ⭑
 
 
 ### 2020
