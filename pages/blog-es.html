@@ -1,0 +1,17 @@
+---
+layout: default
+title: Blog
+description: El archivo con todas las entradas en español.
+permalink: /blog-es/
+---
+
+<h2>{{ page.title }}</h2>
+
+<div class="articles">
+  {% for article in site.tags.es %}
+    <div class="article">
+      <span class="date">{{ article.date | date_to_string }}</span>
+      <a class="title" href="{{ article.url }}">{{ article.title }}</a>
+    </div>
+  {% endfor %}
+</div>

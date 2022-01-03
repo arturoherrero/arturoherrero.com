@@ -1,0 +1,22 @@
+---
+layout: default
+title: Blog
+description: The archive with all the posts ever written.
+permalink: /blog/
+redirect_from:
+  - /archive/
+  - /archives/
+  - /articles/
+  - /notes/
+---
+
+<h2>{{ page.title }}</h2>
+
+<div class="articles">
+  {% for article in site.posts %}
+    <div class="article">
+      <span class="date">{{ article.date | date_to_string }}</span>
+      <a class="title" href="{{ article.url }}">{{ article.title }}</a>
+    </div>
+  {% endfor %}
+</div>

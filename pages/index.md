@@ -13,19 +13,15 @@ Software is my craft. During my career I have had the opportunity to work with
 remarkable people building systems at scale and leading technical teams.
 
 
+## Blog
+
+I publish articles / notes from time to time, which you will find under the [blog][3] section.
+This is my particular commonplace book, you can filter by [English][1] or [Spanish][2] entries.
+
+
 ## Projects
 
 I’m continually learning and working on [personal projects][8].
-
-
-## Articles
-
-I publish articles from time to time, which you will find in the [articles archive][3].
-
-
-## Notes
-
-I also take [notes][10], my particular commonplace book.
 
 
 ## Life Streaming
@@ -57,14 +53,14 @@ Occasionally, I speak at conferences. You will find more information on my [talk
 
 Want to get in touch? Email me at *<arturo.herrero@gmail.com>*.
 
-
-[3]: /articles
+[1]: /blog-en
+[2]: /blog-es
+[3]: /blog
 [4]: https://twitter.com/ArturoHerrero
 [5]: https://www.packtpub.com/web-development/instant-markdown-instant
 [6]: /talks
 [7]: /books
 [8]: /projects
 [9]: https://gitlab.com
-[10]: /notes
 [11]: /movies
 [12]: /directors

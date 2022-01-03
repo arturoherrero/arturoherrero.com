@@ -1,5 +1,4 @@
 title: Arturo Herrero
-title-notes: Notes | Arturo Herrero
 description: The personal website of Arturo Herrero.
 author: Arturo Herrero
 url: "https://arturoherrero.com"
@@ -8,12 +7,6 @@ markdown: kramdown
 permalink: :title/
 
 collections:
-  articles:
-    output: true
-    permalink: :title/
-  notes:
-    output: true
-    permalink: /notes/:title/
   photos:
     output: true
     permalink: /photos/:title/
