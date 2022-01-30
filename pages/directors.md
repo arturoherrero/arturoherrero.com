@@ -332,6 +332,10 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - El Gran Hotel Budapest. *2014*
 - Isla de perros. *2018*
 
+##### Alfonso Cuarón
+- Gravity. *2013*
+- Roma. *2018*
+
 ##### Denis Villeneuve
 - Enemy. *2013*
 - Prisioneros. *2013*
@@ -339,9 +343,11 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - La llegada. *2016*
 - Dune. *2021*
 
-##### Alfonso Cuarón
-- Gravity. *2013*
-- Roma. *2018*
+##### Paolo Sorrentino
+- La gran belleza. *2013*
+- La juventud. *2015*
+- The Young Pope. *2016*
+- Fue la mano de Dios. *2021*
 
 ##### Rodrigo Sorogoyen
 - Stockholm. *2013*

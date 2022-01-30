@@ -12,6 +12,14 @@ I love reading. This is the complete list of all books that I've read in my life
 ### 2022
 1. El vértigo de las listas. *Umberto Eco* ⭑
 2. La segunda mano o el trabajo de la cita. *Antoine Compagnon* ⭑
+3. Programados para crear. *Marcos du Sautoy*
+4. Galileo: Vida y destino de un genio renacentista. *David Whitehouse*
+5. La cocina de la escritura. *Daniel Cassany*
+6. El Tao del Gung Fu. *Bruce Lee*
+7. La conjura de los necios. *John Kennedy Toole*
+8. Austerlitz. *W.G. Sebald*
+9. Con Borges. *Alberto Manguel*
+10. La cuestión vital: ¿Por qué la vida es como es? *Nick Lane*
 
 
 ### 2021

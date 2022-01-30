@@ -236,6 +236,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 ### 2020
 * Soul. *Pete Docter, Kemp Powers. 2020*
 * Dune. *Denis Villeneuve. 2021*
+* Fue la mano de Dios. *Paolo Sorrentino. 2021*
 
 
 ### Documentary
