@@ -9,6 +9,10 @@ permalink: /games/
 
 I'm a casual gamer. This is the list of the games that I've played in my life.
 
+### 2022
+1. New Super Mario Bros. U Deluxe. *Switch* ⭑
+
+
 ### 2021
 1. Super Mario Odyssey. *Switch* ⭑
 2. Grand Theft Auto V. *PS4* ⭑
