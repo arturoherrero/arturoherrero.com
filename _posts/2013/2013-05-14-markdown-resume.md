@@ -20,7 +20,7 @@ craft a tool to do the job.
 **[biteydown][2]{:target="_blank" rel="noreferrer"}** is Ruby application that turns a simple
 Markdown document into a resume in HTML or PDF file.
 
-#### Instalation
+#### Instalation
 
     bundle install
 

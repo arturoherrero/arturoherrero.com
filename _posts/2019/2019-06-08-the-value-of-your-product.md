@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Value of your product
+title: The value of your product
 description: The value can be positive or negative, visible or invisible.
 tags: en
 ---

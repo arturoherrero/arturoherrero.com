@@ -24,7 +24,7 @@ define `respond_to_missing?` when overriding `method_missing` <sup>[[thoughtbot]
 require "benchmark/ips"
 
 class Person
-  PLAYS = %w(tennis volley basket)
+  PLAYS = %w[tennis volley basket]
 
   def method_missing(name, *args)
     game = name.to_s.split("play_").last
@@ -37,7 +37,7 @@ class Person
 end
 
 class PersonCached
-  PLAYS = %w(tennis volley basket)
+  PLAYS = %w[tennis volley basket]
 
   def method_missing(name, *args)
     game = name.to_s.split("play_").last
