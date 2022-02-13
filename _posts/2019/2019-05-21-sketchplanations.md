@@ -17,4 +17,4 @@ Learn something new with [sketchplanations][5]{:target="_blank" rel="noreferrer"
 [2]: /assets/images/notes/2/sketchplanations-dunbars-number.jpg
 [3]: /assets/images/notes/2/sketchplanations-coastline-paradox.jpg
 [4]: /assets/images/notes/2/sketchplanations-mercator-projection.jpg
-[5]: https://www.sketchplanations.com
+[5]: https://sketchplanations.com/
