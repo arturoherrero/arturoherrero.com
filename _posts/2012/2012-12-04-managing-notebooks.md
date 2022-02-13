@@ -26,4 +26,4 @@ Do you know [Bullet Journal][3]{:target="_blank" rel="noreferrer"} note-taking s
 [1]: https://to-do.microsoft.com/
 [2]: https://trello.com
 [3]: http://www.bulletjournal.com/
-[4]: /assets/images/articles/bulletjournal.png
+[4]: /assets/images/posts/bulletjournal.png

@@ -32,4 +32,4 @@ The patterns are divided into different sections:
 
 
 [1]: https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/
-[2]: /assets/images/articles/apprenticeship-patterns.png
+[2]: /assets/images/posts/apprenticeship-patterns.png

@@ -1,4 +1,4 @@
-{% capture collection %}{% if page.collection != "articles" %}{{ page.collection | capitalize }}{% endif %}{% endcapture %}
+{% capture collection %}{% if page.collection != "posts" %}{{ page.collection | capitalize }}{% endif %}{% endcapture %}
 {% capture title %}{% if page.title %}{{ collection }} {{ page.title }} | {{ site.author }}{% else %}{{ site.title }}{% endif %}{% endcapture %}
 {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
 

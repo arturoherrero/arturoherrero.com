@@ -37,6 +37,6 @@ necessary to reach the final solution.
 That's why I believe **iteration is the ultimate sophistication**.
 
 
-[1]: /assets/images/articles/le-taureau-picasso.jpg
-[2]: /assets/images/articles/apple-mouse-evolution.jpg
+[1]: /assets/images/posts/le-taureau-picasso.jpg
+[2]: /assets/images/posts/apple-mouse-evolution.jpg
 [4]: /mental-models-complexity-and-software/

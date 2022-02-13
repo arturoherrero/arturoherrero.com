@@ -94,7 +94,7 @@ end
 [4]: http://pry.github.io/
 [5]: https://www.gnu.org/software/bash/
 [6]: https://www.vim.org/
-[7]: /assets/images/articles/yarr.png
+[7]: /assets/images/posts/yarr.png
 [8]: https://github.com/arturoherrero/yarr/blob/v0.0.1/lib/interpreter.rb#L82-L84
 [9]: https://github.com/arturoherrero/yarr/blob/v0.0.1/lib/interpreter.rb#L104-L110
 [10]: https://github.com/arturoherrero/yarr/blob/v0.0.1/spec/lib/interpreter_spec.rb#L22-L26

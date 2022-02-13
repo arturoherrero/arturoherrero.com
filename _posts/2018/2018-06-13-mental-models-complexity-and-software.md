@@ -119,4 +119,4 @@ But, **why should you care about mental models?**
 [3]: https://arxiv.org/abs/0812.4360
 [5]: https://youtu.be/Q3Ve7ec1HpY
 [6]: https://www.fs.blog/mental-models/
-[7]: /assets/images/articles/mental-models.jpg
+[7]: /assets/images/posts/mental-models.jpg

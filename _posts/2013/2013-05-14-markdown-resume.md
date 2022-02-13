@@ -46,4 +46,4 @@ CSS works by associating rules with HTML elements. In this case, there are a lit
 
 [1]: http://daringfireball.net/projects/markdown/
 [2]: https://github.com/arturoherrero/biteydown
-[3]: /assets/images/articles/cv-css-selectors.png
+[3]: /assets/images/posts/cv-css-selectors.png

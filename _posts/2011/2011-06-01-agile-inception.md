@@ -73,4 +73,4 @@ How much is it? Who are you going to need for your team?
 
 
 [1]: http://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/
-[2]: /assets/images/articles/the-agile-samurai.jpg
+[2]: /assets/images/posts/the-agile-samurai.jpg
