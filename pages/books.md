@@ -22,6 +22,10 @@ I love reading. This is the complete list of all books that I've read in my life
 10. La cuestión vital: ¿Por qué la vida es como es? *Nick Lane*
 11. Las vidas de Miguel de Cervantes. *Andrés Trapiello* ⭑
 12. Los refranes esotericos del Quijote. *Julio Peradejordi*
+13. Apuesta al amanecer. *Arthur Schnitzler* ⭑
+14. Breviario de saberes inútiles. *Simon Leys*
+15. Encuentros con libros. *Stefan Zweig*
+16. Grandes esperanzas. *Charles Dickens*
 
 
 ### 2021
