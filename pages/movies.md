@@ -10,12 +10,12 @@ permalink: /movies/
 I love cinema. This is the list of best movies that I've watched in my life.
 
 
-### 1920
+### 1920s
 * El maquinista de La General. *Buster Keaton, Clyde Bruckman. 1926*
 * Amanecer. *F.W. Murnau. 1927*
 
 
-### 1930
+### 1930s
 * Un ladrón en la alcoba. *Ernst Lubitsch. 1932*
 * El hombre invisible. *James Whale. 1933*
 * Sucedió una noche. *Frank Capra. 1934*
@@ -25,7 +25,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Vivir para gozar. *George Cukor. 1938*
 
 
-### 1940
+### 1940s
 * Luna nueva. *Howard Hawks. 1940*
 * Bola de fuego. *Howard Hawks. 1941*
 * Ciudadano Kane. *Orson Welles. 1941*
@@ -52,7 +52,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * El tercer hombre. *Carol Reed. 1949*
 
 
-### 1950
+### 1950s
 * El crepúsculo de los dioses. *Billy Wilder. 1950*
 * En un lugar solitario. *Nicholas Ray. 1950*
 * Eva al desnudo. *Joseph L. Mankiewicz. 1950*
@@ -76,7 +76,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Con la muerte en los talones. *Alfred Hitchcock. 1959*
 
 
-### 1960
+### 1960s
 * El apartamento. *Billy Wilder. 1960*
 * Espartaco. *Stanley Kubrick. 1960*
 * Los canallas duermen en paz. *Akira Kurosawa. 1960*
@@ -100,7 +100,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Dos hombres y un destino. *George Roy Hill. 1969*
 
 
-### 1970
+### 1970s
 * El padrino. *Francis Ford Coppola. 1972*
 * El golpe. *George Roy Hill. 1973*
 * Chinatown. *Roman Polanski. 1974*
@@ -110,7 +110,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Taxi Driver. *Martin Scorsese. 1976*
 
 
-### 1980
+### 1980s
 * El hombre elefante. *David Lynch. 1980*
 * El resplandor (The Shining). *Stanley Kubrick. 1980*
 * Star Wars. Episode V: The Empire Strikes Back. *Irvin Kershner. 1980*
@@ -123,7 +123,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Cinema Paradiso. *Giuseppe Tornatore. 1988*
 
 
-### 1990
+### 1990s
 * Uno de los nuestros. *Martin Scorsese. 1990*
 * El cabo del miedo. *Martin Scorsese. 1991*
 * La bella y la bestia. *Gary Trousdale, Kirk Wise. 1991*
@@ -152,7 +152,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Toy Story 2. *John Lasseter, Ash Brannon, Lee Unkrich. 1999*
 
 
-### 2000
+### 2000s
 * Gladiator. *Ridley Scott. 2000*
 * Snatch. Cerdos y diamantes. *Guy Ritchie. 2000*
 * Amelie. *Jean-Pierre Jeunet. 2001*
@@ -193,7 +193,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Up. *Pete Docter, Bob Peterson. 2009*
 
 
-### 2010
+### 2010s
 * Beginners. *Mike Mills. 2010*
 * Inception. *Christopher Nolan. 2010*
 * Shutter Island. *Martin Scorsese. 2010*
@@ -233,7 +233,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Toy Story 4. *Josh Cooley. 2019*
 
 
-### 2020
+### 2020s
 * Soul. *Pete Docter, Kemp Powers. 2020*
 * Dune. *Denis Villeneuve. 2021*
 * El buen patrón. *Fernando León de Aranoa. 2021*

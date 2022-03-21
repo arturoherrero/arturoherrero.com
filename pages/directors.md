@@ -260,6 +260,7 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Black Hawk derribado. *2001*
 - American Ganster. *2007*
 - Red de mentiras. *2008*
+- El último duelo. *2021*
 
 ##### Steven Soderbergh
 - Erin Brockovich. *2000*
