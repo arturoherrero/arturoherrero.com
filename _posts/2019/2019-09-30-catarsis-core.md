@@ -34,4 +34,4 @@ Watson... son algunos de los nombres que nos acompañarán eternamente.
 
 [1]: /assets/images/notes/15/catarsis-andrzej-szczeklik.jpg
 [2]: /assets/images/notes/15/core-andrzej-szczeklik.jpg
-[3]: http://www.acantilado.es/
+[3]: https://www.acantilado.es/
