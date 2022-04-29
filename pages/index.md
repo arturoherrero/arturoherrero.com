@@ -12,6 +12,8 @@ I'm a software engineer, manager & designer based in London. I work at [GitLab][
 Software is my craft. During my career I have had the opportunity to work with
 remarkable people building systems at scale and leading technical teams.
 
+{% include greetings.js %}
+
 
 ## Blog
 
