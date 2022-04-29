@@ -30,7 +30,12 @@ I love reading. This is the complete list of all books that I've read in my life
 18. The Art Book. *DK Publishing*
 19. Canto yo y la montaña baila. *Irene Solà*
 20. Cartographies of Time. *Daniel Rosenberg & Anthony Grafton* ⭑
-21. El derecho a disentir. *Mauricio Wiesenthal*
+21. El derecho a disentir. *Mauricio Wiesenthal* ⭑
+22. El Paseo. *Robert Walser* ⭑
+23. El fin del «Homo sovieticus». *Svetlana Aleksiévich* ⭑
+24. The Secret World: A History of Intelligence. *Christopher Andrew* ⭑
+25. No creo poder tocar el cielo con las manos. *Safo*
+26. Terror y utopía: Moscú en 1937. *Karl Schlögel*
 
 
 ### 2021
