@@ -15,7 +15,7 @@ remarkable people building systems at scale and leading technical teams.
 
 ## Blog
 
-I publish articles / notes from time to time, which you will find under the [blog][3] section.
+I publish articles/notes from time to time, which you will find under the [blog][3] section.
 This is my particular commonplace book, you can filter by [English][1] or [Spanish][2] entries.
 
 
