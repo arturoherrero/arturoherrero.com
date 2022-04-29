@@ -39,6 +39,11 @@ Reading is one of my passions, and I keep a [list of the books I read][7].
 Another passion is cinema. These are my favorite [movies][11] and [directors][12].
 
 
+## Gaming
+
+I'm a casual gamer. These are the [games][13] I'm playing.
+
+
 ## Writing
 
 I wrote a book about Markdown, published by Packt Publishing: *[Instant Markdown][5]{:target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'Extra', 'Markdown Click', 'Markdown');"}*.
@@ -64,3 +69,4 @@ Want to get in touch? Email me at *<arturo.herrero@gmail.com>*.
 [9]: https://gitlab.com
 [11]: /movies
 [12]: /directors
+[13]: /games
