@@ -12,6 +12,7 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 ### 2022
 1. New Super Mario Bros. U Deluxe. *Switch* ⭑
 2. Yoku’s Island Express. *Switch*
+3. The Legend of Zelda: Link's Awakening. *Switch* ⭑
 
 
 ### 2021

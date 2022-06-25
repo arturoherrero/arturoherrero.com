@@ -36,6 +36,17 @@ I love reading. This is the complete list of all books that I've read in my life
 24. The Secret World: A History of Intelligence. *Christopher Andrew* ⭑
 25. No creo poder tocar el cielo con las manos. *Safo*
 26. Terror y utopía: Moscú en 1937. *Karl Schlögel*
+27. Cartas a Lucilio. *Lucio Anneo Séneca*
+28. What to Expect the First Year. *Heidi Murkoff*
+29. Baby: The All-Important First Year. *Ann Elisabeth Samson*
+30. La idea de Europa. *George Steiner*
+31. Un caballero en Moscú. *Amor Towles* ⭑
+32. The Car: The History of the Automobile. *Rod Green*
+33. El cuaderno gris. *Josep Pla* ⭑
+34. El maestro Juan Martínez que estaba allí. *Manuel Chaves Nogales* ⭑
+35. Engineers. *Adam Hart-Davis* ⭑
+36. El Tao de la crianza. *Erin Cline*
+37. Crianza con ciencia. *Marcelo Lewin & Irene García*
 
 
 ### 2021
