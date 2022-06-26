@@ -20,10 +20,10 @@ planning, journal, quotes, random thoughts...
 
 ![Bullet Journal][4]
 
-Do you know [Bullet Journal][3]{:target="_blank" rel="noreferrer"} note-taking system?
+Do you know [bullet journal][3]{:target="_blank" rel="noreferrer"} note-taking system?
 
 
 [1]: https://to-do.microsoft.com/
 [2]: https://trello.com
-[3]: http://www.bulletjournal.com/
+[3]: https://en.wikipedia.org/wiki/Bullet_journal
 [4]: /assets/images/posts/bulletjournal.png
