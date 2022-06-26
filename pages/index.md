@@ -21,6 +21,11 @@ I publish articles/notes from time to time, which you will find under the [blog]
 This is my particular commonplace book, you can filter by [English][1] or [Spanish][2] entries.
 
 
+## Weeknotes
+
+I write [weeknotes][14], mostly in Spanish, about what I've been up to every week.
+
+
 ## Projects
 
 I’m continually learning and working on [personal projects][8].
@@ -72,3 +77,4 @@ Want to get in touch? Email me at *<arturo.herrero@gmail.com>*.
 [11]: /movies
 [12]: /directors
 [13]: /games
+[14]: /weeknotes

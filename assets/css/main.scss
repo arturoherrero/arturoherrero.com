@@ -184,7 +184,7 @@ ul, ol {
 
 ul li ul, ul li ol {
   margin-left: 1.25rem;
-  margin-bottom: 0;
+  margin-bottom: 1.25rem;
 }
 
 .element-related {
@@ -454,5 +454,5 @@ footer {
  */
 pre {
   font-family: monospace, monospace; /* 1 */
-  font-size: 1.08em; /* 2 */
+  font-size: 1.08rem; /* 2 */
 }
