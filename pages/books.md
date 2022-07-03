@@ -47,6 +47,8 @@ I love reading. This is the complete list of all books that I've read in my life
 35. Engineers. *Adam Hart-Davis* ⭑
 36. El Tao de la crianza. *Erin Cline*
 37. Crianza con ciencia. *Marcelo Lewin & Irene García*
+38. El amor dura tres años. *Frédéric Beigbeder*
+39. Feria. *Ana Iris Simón*
 
 
 ### 2021
