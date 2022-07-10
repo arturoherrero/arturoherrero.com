@@ -27,4 +27,3 @@ Some concepts created or popularized by him:
 - Barbell strategy.
 - Green Lumber fallacy.
 - Intolerant minority.
-{: .element-related }

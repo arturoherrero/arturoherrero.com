@@ -62,7 +62,6 @@ I try to summarize a few ideas from the book:
     These are Kent Beck's *Four Rules of Simple Design*:
     - Martin Fowler on [Beck Design Rules][2]{:target="_blank" rel="noreferrer"}.
     - [Understanding the Four Rules of Simple Design][3]{:target="_blank" rel="noreferrer"} by Corey Haines.
-    {: .element-related }
 
 ---
 

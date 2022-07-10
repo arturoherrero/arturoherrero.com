@@ -27,7 +27,6 @@ historia de la literatura en 16 miniaturas:
 - La tradición oral de la Epopeya de Sunjata.
 - Literatura postcolonial en El Caribe.
 - Harry Potter.
-{: .element-related }
 
 
 [1]: /assets/images/notes/el-poder-de-las-historias.jpg

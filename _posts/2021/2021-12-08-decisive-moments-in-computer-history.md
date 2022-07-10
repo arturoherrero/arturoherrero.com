@@ -32,7 +32,6 @@ Decisive Moments in Computer History: Twenty-one historical miniatures:
 19. DeepBlue, AlphaGo, and AI.
 20. Bitcoin: A Peer-to-Peer Electronic Cash System.
 21. Tesla Autopilot.
-{: .element-related }
 
 ---
 

@@ -33,14 +33,12 @@ Bitcoin's maximalist approach.
 - What matters is Bitcoin, not the blockchain.
 - Altcoins do not compete with Bitcoin nor can they.
 - Zero to One, Peter Thiel's idea.
-{: .element-related }
 
 Bitcoin is the best sound money ever invented.
 - Meets all sound money requirements of Menger, Mises and Hayek.
 - Outside government control: decentralized and free market.
 - That "something they can't stop" Friedrich Hayek talked about is Bitcoin.
 - Bitcoin is the first example of digital scarcity (and absolute scarcity).
-{: .element-related }
 
 Bitcoin is antifragile.
 

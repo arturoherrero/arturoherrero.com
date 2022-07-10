@@ -172,10 +172,18 @@ a {
   }
 }
 
+P + ul, ol {
+  margin-top: -15px;
+}
+
 ul, ol {
   padding: 0;
   line-height: 1.6;
   margin-left: 1.1rem;
+
+  &:first-child {
+    margin-top: 0px;
+  }
 
   li {
     margin-left: 1.0em;
@@ -185,10 +193,6 @@ ul, ol {
 ul li ul, ul li ol {
   margin-left: 1.25rem;
   margin-bottom: 1.25rem;
-}
-
-.element-related {
-  margin-top: -12px;
 }
 
 p {

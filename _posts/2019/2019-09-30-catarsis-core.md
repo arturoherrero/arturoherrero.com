@@ -9,7 +9,6 @@ Navegando por el catálogo de la editorial [Acantilado][3]{:target="_blank" rel=
 encontré estas dos joyas:
 - *Catarsis: Sobre el poder curativo de la naturaleza y del arte*.
 - *Core: Sobre enfermos, enfermedades y la búsqueda del alma de la medicina*.
-{: .element-related }
 
 ![Catarsis][1]
 ![Core][2]

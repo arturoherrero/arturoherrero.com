@@ -58,7 +58,6 @@ Me fascina la intersección entre arte, diseño, geometría y, por supuesto,
 simetría. Otros libros recomendables que exploran esa interrelación son:
 - [*La geometría del diseño*][3], Kimberly Elam.
 - *Geometría y arte: Influencias matemáticas durante el Renacimiento*, David Wade.
-{: .element-related }
 
 
 ### Programados para crear
