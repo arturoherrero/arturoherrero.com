@@ -49,6 +49,9 @@ I love reading. This is the complete list of all books that I've read in my life
 37. Crianza con ciencia. *Marcelo Lewin & Irene García*
 38. El amor dura tres años. *Frédéric Beigbeder*
 39. Feria. *Ana Iris Simón*
+40. El problema de los tres cuerpos. *Liu Cixin*
+41. La batalla de Occidente. *Éric Vuillard*
+42. Un verano con Montaigne. *Antoine Compagnon*
 
 
 ### 2021
