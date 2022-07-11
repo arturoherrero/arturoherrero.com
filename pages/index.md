@@ -65,16 +65,16 @@ Occasionally, I speak at conferences. You will find more information on my [talk
 
 Want to get in touch? Email me at *<arturo.herrero@gmail.com>*.
 
-[1]: /blog-en
-[2]: /blog-es
-[3]: /blog
+[1]: /blog-en/
+[2]: /blog-es/
+[3]: /blog/
 [4]: https://twitter.com/ArturoHerrero
 [5]: https://www.packtpub.com/web-development/instant-markdown-instant
-[6]: /talks
-[7]: /books
-[8]: /projects
+[6]: /talks/
+[7]: /books/
+[8]: /projects/
 [9]: https://gitlab.com
-[11]: /movies
-[12]: /directors
-[13]: /games
-[14]: /weeknotes
+[11]: /movies/
+[12]: /directors/
+[13]: /games/
+[14]: /weeknotes/

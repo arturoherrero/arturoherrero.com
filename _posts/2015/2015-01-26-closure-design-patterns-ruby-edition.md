@@ -220,5 +220,5 @@ assert 3 == take2_and_add.call([1, 2, 3, 4, 5])
 ```
 
 
-[1]: /closure-design-patterns
+[1]: /closure-design-patterns/
 [2]: http://rubyweekly.com/issues/231

@@ -4,10 +4,10 @@ task :test do
   sh "bundle exec jekyll build"
 
   options = {
-    assume_extension: true,
     cache: {
-      timeframe: "4w"
+      timeframe: { external: "4w" }
     },
+    enforce_https: false,
     check_external_hash: true,
     check_favicon: true,
     check_html: true,

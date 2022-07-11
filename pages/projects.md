@@ -34,7 +34,7 @@ or [GitLab][17]{:target="_blank" rel="noreferrer" onclick="ga('send', 'event', '
 
 
 [1]: https://github.com/arturoherrero
-[2]: /ishows
+[2]: /ishows/
 [3]: /powercore/
 [4]: /open-fast-struct/
 [5]: /yarr-yet-another-ruby-repl/
