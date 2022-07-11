@@ -18,4 +18,4 @@ A while ago, I came accross a reading challenge: reading 50 books per year. Ever
 year I'm getting closer.
 
 
-[1]: /books
+[1]: /books/
