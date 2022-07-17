@@ -51,7 +51,10 @@ I love reading. This is the complete list of all books that I've read in my life
 39. Feria. *Ana Iris Simón*
 40. El problema de los tres cuerpos. *Liu Cixin*
 41. La batalla de Occidente. *Éric Vuillard*
-42. Un verano con Montaigne. *Antoine Compagnon*
+42. Un verano con Montaigne. *Antoine Compagnon* ⭑
+43. Piel con piel. *Adolfo Gómez Papí*
+44. La resistencia íntima. *Josep Maria Esquirol*
+45. Pequeñas miserias de la vida conyugal. *Honoré de Balzac*
 
 
 ### 2021

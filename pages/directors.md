@@ -311,6 +311,7 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 ##### Paul Thomas Anderson
 - Pozos de ambición. *2007*
 - El hilo invisible. *2017*
+- Licorice Pizza. *2021*
 
 ##### Pete Docter
 - Up. *2009*
