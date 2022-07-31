@@ -55,6 +55,8 @@ I love reading. This is the complete list of all books that I've read in my life
 43. Piel con piel. *Adolfo Gómez Papí*
 44. La resistencia íntima. *Josep Maria Esquirol*
 45. Pequeñas miserias de la vida conyugal. *Honoré de Balzac*
+46. The Great Mental Models. Vol. 1. *Rhiannon Beaubien & Shane Parrish* ⭑
+47. Juan Belmonte, matador de toros. *Manuel Chaves Nogales* ⭑
 
 
 ### 2021
