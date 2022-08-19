@@ -8,6 +8,7 @@ permalink: /devices/
 ## {{ page.title }}
 
 ### Laptop computers
+- Apple MacBook Pro M1 Max, 16", 32G RAM, 1TB SSD. *2022-08*
 - Apple MacBook Pro, 15", 32G RAM, 512G SSD. *2019-09*
 - <strike>Apple MacBook Pro, 15", 16G RAM, 256G SSD. <em>2016-09</em></strike>
 - Apple MacBook Air, 13", 8G RAM, 128G SSD. *2013-03*

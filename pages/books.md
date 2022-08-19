@@ -57,6 +57,8 @@ I love reading. This is the complete list of all books that I've read in my life
 45. Pequeñas miserias de la vida conyugal. *Honoré de Balzac*
 46. The Great Mental Models. Vol. 1. *Rhiannon Beaubien & Shane Parrish* ⭑
 47. Juan Belmonte, matador de toros. *Manuel Chaves Nogales* ⭑
+48. Tan solo los mejores lo logran. *Peter Seilern*
+49. Crimen y castigo. *Fiódor Dostoyevski* ⭑
 
 
 ### 2021
