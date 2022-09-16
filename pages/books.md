@@ -59,7 +59,11 @@ I love reading. This is the complete list of all books that I've read in my life
 47. Juan Belmonte, matador de toros. *Manuel Chaves Nogales* ⭑
 48. Tan solo los mejores lo logran. *Peter Seilern*
 49. Crimen y castigo. *Fiódor Dostoyevski* ⭑
-50. El Club de los desayunos filosóficos. *Laura J. Snyder*
+50. El Club de los desayunos filosóficos. *Laura J. Snyder* ⭑
+51. Historia de la gastronomía. *Néstor Luján*
+52. Inventing Bitcoin. *Yan Pritzker*
+53. Prosas apátridas. *Julio Ramón Ribeyro* ⭑
+54. Las pequeñas virtudes. *Natalia Ginzburg*
 
 
 ### 2021
