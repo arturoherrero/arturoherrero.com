@@ -110,7 +110,7 @@ I love reading. This is the complete list of all books that I've read in my life
 41. Pasando a limpio. *Oscar Tusquets*
 42. Correspondencia. *Hermann Hesse & Stefan Zweig*
 43. Biografía de la luz. *Pablo d'Ors*
-44. Curiosidad. Por qué todo nos interesa. *Philip Ball*
+44. Curiosidad: Por qué todo nos interesa. *Philip Ball* ⭑
 45. Haiku: Poemas y meditaciones sobre naturaleza y la belleza. *Tom Lowenstein*
 46. Benedicto XVI, últimas conversaciones con Peter Seewald. *Benedict XVI* ⭑
 47. Aquí no hay reglas. *Reed Hastings & Erin Meyer*

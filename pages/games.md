@@ -13,6 +13,10 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 1. New Super Mario Bros. U Deluxe. *Switch* ⭑
 2. Yoku’s Island Express. *Switch*
 3. The Legend of Zelda: Link's Awakening. *Switch* ⭑
+4. Frogger and the Rumbling Ruins. *Apple Arcade*
+5. Oddmar+. *Apple Arcade* ⭑
+6. A Monster's Expedition. *Apple Arcade* ⭑
+7. Cut the Rope Remastered. *Apple Arcade* ⭑
 
 
 ### 2021
