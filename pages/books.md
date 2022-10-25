@@ -64,6 +64,7 @@ I love reading. This is the complete list of all books that I've read in my life
 52. Inventing Bitcoin. *Yan Pritzker*
 53. Prosas apátridas. *Julio Ramón Ribeyro* ⭑
 54. Las pequeñas virtudes. *Natalia Ginzburg*
+55. Open: Memorias. *Andre Agassi*
 
 
 ### 2021

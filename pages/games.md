@@ -17,6 +17,8 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 5. Oddmar+. *Apple Arcade* ⭑
 6. A Monster's Expedition. *Apple Arcade* ⭑
 7. Cut the Rope Remastered. *Apple Arcade* ⭑
+8. GRIS+. *Apple Arcade* ⭑
+9. Crossy Road Castle. *Apple Arcade* ⭑
 
 
 ### 2021
