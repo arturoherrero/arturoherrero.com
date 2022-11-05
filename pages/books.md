@@ -65,6 +65,11 @@ I love reading. This is the complete list of all books that I've read in my life
 53. Prosas apátridas. *Julio Ramón Ribeyro* ⭑
 54. Las pequeñas virtudes. *Natalia Ginzburg*
 55. Open: Memorias. *Andre Agassi*
+56. La Biblia contada para escépticos. *Juan Eslava Galán*
+57. Para leer al anochecer: Historias de fantasmas. *Charles Dickens*
+58. La guerra de los pobres. *Éric Vuillard* ⭑
+59. The Bible: A Very Short Introduction. *John Riches*
+60. Anna Karénina. *Lev Tolstói*
 
 
 ### 2021
