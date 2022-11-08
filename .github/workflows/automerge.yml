@@ -14,6 +14,6 @@ jobs:
     steps:
       - name: Merge me!
         if: ${{ github.event.workflow_run.conclusion == 'success' }}
-        uses: ridedott/merge-me-action@v2
+        uses: arturoherrero/merge-me-action@d6ed1db
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
