@@ -1,19 +1,17 @@
-name: Auto Merge
+name: Auto Merge Dependabot
 
 on:
   workflow_run:
-    workflows: ["Build"]
-    types:
-      - completed
+    workflows: [Build]
+    types: [completed]
 
 jobs:
-  merge-me:
-    name: Auto-merge dependency updates
+  automerge:
     runs-on: ubuntu-latest
 
+    permissions:
+      pull-requests: write
+      contents: write
+
     steps:
-      - name: Merge me!
-        if: ${{ github.event.workflow_run.conclusion == 'success' }}
-        uses: ridedott/merge-me-action@v2
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: fastify/github-action-merge-dependabot@v3
