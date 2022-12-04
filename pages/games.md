@@ -19,7 +19,9 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 7. Cut the Rope Remastered. *Apple Arcade* ⭑
 8. GRIS+. *Apple Arcade* ⭑
 9. Crossy Road Castle. *Apple Arcade* ⭑
-10. The Last Campfire. *Apple Arcade* ⭑
+10. The Last Campfire. *Apple Arcade*
+11. Skate City. *Apple Arcade*
+12. Monomals. *Apple Arcade*
 
 
 ### 2021

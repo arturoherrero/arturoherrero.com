@@ -69,7 +69,11 @@ I love reading. This is the complete list of all books that I've read in my life
 57. Para leer al anochecer: Historias de fantasmas. *Charles Dickens*
 58. La guerra de los pobres. *Éric Vuillard* ⭑
 59. The Bible: A Very Short Introduction. *John Riches*
-60. Anna Karénina. *Lev Tolstói*
+60. Design: The Definitive Visual Guide. *DK Publishing* ⭑
+61. Anna Karénina. *Lev Tolstói*
+62. How Management Works: The Concepts Visually Explained. *DK Publishing*
+63. Coaching for Performance. *John Whitmore*
+64. The Queen's Houses. *Alan Titchmarsh*
 
 
 ### 2021

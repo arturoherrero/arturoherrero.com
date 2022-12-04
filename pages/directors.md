@@ -36,6 +36,11 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Arsénico por compasión. *1944*
 - Qué bello es vivir. *1946*
 
+##### George Cukor
+- Vivir para gozar. *1938*
+- Lo que el viento se llevó. *1939*
+- Historias de Filadelfia. *1940*
+
 ##### Howard Hawks
 - Luna nueva. *1940*
 - Bola de fuego. *1941*
