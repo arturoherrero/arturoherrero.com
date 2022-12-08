@@ -69,7 +69,7 @@ Want to get in touch? Email me at *<arturo.herrero@gmail.com>*.
 [2]: /blog-es/
 [3]: /blog/
 [4]: https://twitter.com/ArturoHerrero
-[5]: https://www.packtpub.com/web-development/instant-markdown-instant
+[5]: https://www.packtpub.com/product/instant-markdown/9781783559145
 [6]: /talks/
 [7]: /books/
 [8]: /projects/
