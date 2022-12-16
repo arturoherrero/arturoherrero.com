@@ -260,6 +260,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Black Mirror. *Charlie Brooker. 2011*
 * Peaky Blinders. *Steven Knight. 2013*
 * Halt and Catch Fire. *Christopher Cantwell, Christopher C. Rogers. 2014*
+* Better Call Saul. *Vince Gilligan, Peter Gould. 2015*
 * Chef's Table. *David Gelb. 2015*
 * Narcos. *Chris Brancato, Carlo Bernard, Doug Miro, Paul Eckstein. 2015*
 * The Crown. *Peter Morgan. 2016*
