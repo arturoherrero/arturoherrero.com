@@ -31,7 +31,7 @@ I love reading. This is the complete list of all books that I've read in my life
 19. Canto yo y la montaña baila. *Irene Solà*
 20. Cartographies of Time. *Daniel Rosenberg & Anthony Grafton* ⭑
 21. El derecho a disentir. *Mauricio Wiesenthal* ⭑
-22. El Paseo. *Robert Walser* ⭑
+22. El paseo. *Robert Walser* ⭑
 23. El fin del «Homo sovieticus». *Svetlana Aleksiévich* ⭑
 24. The Secret World: A History of Intelligence. *Christopher Andrew* ⭑
 25. No creo poder tocar el cielo con las manos. *Safo*
@@ -74,6 +74,10 @@ I love reading. This is the complete list of all books that I've read in my life
 62. How Management Works: The Concepts Visually Explained. *DK Publishing*
 63. Coaching for Performance. *John Whitmore*
 64. The Queen's Houses. *Alan Titchmarsh*
+65. Engineering Management for the Rest of Us. *Sarah Drasner*
+66. Cuando los inviernos eran inviernos: Historia de una estación. *Bernd Brunner* ⭑
+67. Verbolario. *Rodrigo Cortés*
+68. Rainer Maria Rilke (El vidente y lo oculto). *Mauricio Wiesenthal*
 
 
 ### 2021
