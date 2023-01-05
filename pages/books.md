@@ -11,6 +11,7 @@ I love reading. This is the complete list of all books that I've read in my life
 
 ### 2023
 1. Cómo piensan los niños y otros recuerdos de mi vida. *Hayao Miyazaki*
+2. Escritos sobre arte, literatura y música: 1845-1866. *Charles Baudelaire*
 
 
 ### 2022
