@@ -12,6 +12,10 @@ I love reading. This is the complete list of all books that I've read in my life
 ### 2023
 1. Cómo piensan los niños y otros recuerdos de mi vida. *Hayao Miyazaki*
 2. Escritos sobre arte, literatura y música: 1845-1866. *Charles Baudelaire*
+3. Obelix y compañía. *René Goscinny & Albert Uderzo* ⭑
+4. La memoria vegetal. *Umberto Eco*
+5. Gengis Kan y la creación del mundo moderno. *Jack Weatherford*
+
 
 
 ### 2022
@@ -82,7 +86,7 @@ I love reading. This is the complete list of all books that I've read in my life
 65. Engineering Management for the Rest of Us. *Sarah Drasner*
 66. Cuando los inviernos eran inviernos: Historia de una estación. *Bernd Brunner* ⭑
 67. Verbolario. *Rodrigo Cortés*
-68. Rainer Maria Rilke (El vidente y lo oculto). *Mauricio Wiesenthal*
+68. Rainer Maria Rilke (El vidente y lo oculto). Primera parte. *Mauricio Wiesenthal*  ⭑
 
 
 ### 2021
