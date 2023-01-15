@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decisive Moments in Computer History
+title: Decisive Moments in History of Computing
 description: Twenty-one historical miniatures.
 tags: en
 ---
