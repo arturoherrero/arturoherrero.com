@@ -15,6 +15,7 @@ I love reading. This is the complete list of all books that I've read in my life
 3. Obelix y compañía. *René Goscinny & Albert Uderzo* ⭑
 4. La memoria vegetal. *Umberto Eco*
 5. Gengis Kan y la creación del mundo moderno. *Jack Weatherford*
+6. El viejo y el mar. *Ernest Hemingway*
 
 
 
