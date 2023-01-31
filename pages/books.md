@@ -16,7 +16,8 @@ I love reading. This is the complete list of all books that I've read in my life
 4. La memoria vegetal. *Umberto Eco*
 5. Gengis Kan y la creación del mundo moderno. *Jack Weatherford*
 6. El viejo y el mar. *Ernest Hemingway*
-
+7. Lessons in Stoicism. *John Sellars*
+8. Board Games in 100 Moves. *Ian Livingstone*
 
 
 ### 2022
