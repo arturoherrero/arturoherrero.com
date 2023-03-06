@@ -187,6 +187,7 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 ##### Giuseppe Tornatore
 - Cinema Paradiso. *1988*
 - La mejor oferta. *2013*
+- Ennio: El maestro. *2021*
 
 ##### James Cameron
 - Terminator 2: El juicio final. *1991*

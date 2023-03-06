@@ -14,10 +14,16 @@ I love reading. This is the complete list of all books that I've read in my life
 2. Escritos sobre arte, literatura y música: 1845-1866. *Charles Baudelaire*
 3. Obelix y compañía. *René Goscinny & Albert Uderzo* ⭑
 4. La memoria vegetal. *Umberto Eco*
-5. Gengis Kan y la creación del mundo moderno. *Jack Weatherford*
+5. Gengis Kan y la creación del mundo moderno. *Jack Weatherford* ⭑
 6. El viejo y el mar. *Ernest Hemingway*
 7. Lessons in Stoicism. *John Sellars*
 8. Board Games in 100 Moves. *Ian Livingstone*
+9. How to Avoid a Climate Disaster. *Bill Gates*
+10. Human kind: A Hopeful History. *Rutger Bregman*
+11. Fedón. *Platón*
+12. Prisioneros de la geografía. *Tim Marshall* ⭑
+13. The Power of Geography. *Tim Marshall*
+14. El mundo está en venta. *Javier Blas & Jack Farchy*
 
 
 ### 2022
