@@ -24,6 +24,10 @@ I love reading. This is the complete list of all books that I've read in my life
 12. Prisioneros de la geografía. *Tim Marshall* ⭑
 13. The Power of Geography. *Tim Marshall*
 14. El mundo está en venta. *Javier Blas & Jack Farchy*
+15. El penúltimo negroni. *David Gistau*
+16. Vivir con nuestros muertos. *Delphine Horvilleur* ⭑
+17. Ya sentarás cabeza. *Ignacio Peyró*
+18. Comimos y bebimos. *Ignacio Peyró*
 
 
 ### 2022

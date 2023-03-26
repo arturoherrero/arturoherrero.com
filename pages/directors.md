@@ -189,6 +189,10 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - La mejor oferta. *2013*
 - Ennio: El maestro. *2021*
 
+##### Hayao Miyazaki
+- Mi vecino Totoro. *1988*
+- El viento se levanta. *2013*
+
 ##### James Cameron
 - Terminator 2: El juicio final. *1991*
 - Mentiras arriesgadas. *1994*
