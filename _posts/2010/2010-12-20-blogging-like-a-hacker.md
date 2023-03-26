@@ -14,7 +14,7 @@ on what truly matters and avoid all sorts of distractions.
 
 This site is built with [<s>toto</s>][2]{:target="_blank" rel="noreferrer"}
 [Jekyll][1]{:target="_blank" rel="noreferrer"}, a static site generator that transforms Markdown
-text into HTML code. It is hosted on [<s>Heroku</s>][3]{:target="_blank" rel="noreferrer"}
+text into HTML code. It is hosted on <s>Heroku</s>
 [GitHub Pages][4]{:target="_blank" rel="noreferrer"}.
 
 I can use my editor of choice and LiveReload is available during development to
@@ -30,6 +30,5 @@ The effort of blogging like a hacker is worth it.
 
 [1]: https://jekyllrb.com/
 [2]: https://github.com/cloudhead/toto
-[3]: https://www.heroku.com/
 [4]: https://pages.github.com/
 [5]: https://github.com/arturoherrero/arturoherrero.com
