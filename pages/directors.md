@@ -375,6 +375,10 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Whiplash. *2014*
 - La ciudad de las estrellas (La La Land). *2016*
 
+##### Asghar Farhadi
+- El viajante. *2016*
+- Un héroe. *2021*
+
 ##### Greta Gerwig
 - Lady Bird. *2017*
 - Mujercitas. *2019*

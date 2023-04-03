@@ -238,6 +238,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * Dune. *Denis Villeneuve. 2021*
 * El buen patrón. *Fernando León de Aranoa. 2021*
 * Fue la mano de Dios. *Paolo Sorrentino. 2021*
+* Arquitectura emocional 1959. *León Siminiani. 2022*
 
 
 ### Documentary

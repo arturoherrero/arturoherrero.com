@@ -28,6 +28,9 @@ I love reading. This is the complete list of all books that I've read in my life
 16. Vivir con nuestros muertos. *Delphine Horvilleur* ⭑
 17. Ya sentarás cabeza. *Ignacio Peyró*
 18. Comimos y bebimos. *Ignacio Peyró*
+19. Lo mejor de nuestras vidas. *Lucía Galán Bertrand*
+20. Las personas más raras del mundo. *Joseph Henrich*
+21. Línea de fuego. *Arturo Pérez-Reverte*
 
 
 ### 2022
