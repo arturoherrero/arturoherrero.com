@@ -31,6 +31,8 @@ I love reading. This is the complete list of all books that I've read in my life
 19. Lo mejor de nuestras vidas. *Lucía Galán Bertrand*
 20. Las personas más raras del mundo. *Joseph Henrich*
 21. Línea de fuego. *Arturo Pérez-Reverte*
+22. Poemas a la muerte. *Emily Dickinson*
+23. Las ilusiones perdidas. *Honoré de Balzac*
 
 
 ### 2022

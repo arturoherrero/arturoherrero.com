@@ -244,6 +244,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 ### Documentary
 * Jiro Dreams of Sushi. *David Gelb. 2011*
 * Sinatra: All or Nothing at All. *Alex Gibney. 2015*
+* Lumière! L'aventure commence. *Thierry Fremaux. 2016*
 * AlphaGo. *Greg Kohs. 2017*
 * Becoming Warren Buffett. *Peter W. Kunhardt, Brian Oakes. 2017*
 * Apolo 11. *Todd Miller. 2019*
