@@ -159,6 +159,7 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Minority Report. *2002*
 - Munich. *2005*
 - War Horse (Caballo de batalla). *2011*
+- Los Fabelman. *2022*
 
 ##### Brian De Palma
 - Carrie. *1976*

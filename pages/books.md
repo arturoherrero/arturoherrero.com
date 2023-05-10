@@ -33,6 +33,14 @@ I love reading. This is the complete list of all books that I've read in my life
 21. Línea de fuego. *Arturo Pérez-Reverte*
 22. Poemas a la muerte. *Emily Dickinson*
 23. Las ilusiones perdidas. *Honoré de Balzac*
+24. El huerto de Emerson. *Luis Landero* ⭑
+25. Tristana. *Benito Pérez Galdós*
+26. El motel del voyeur. *Gay Talese*
+27. Tres maestros (Balzac, Dickens, Dostoievski). *Stefan Zweig*
+28. El arte de amar. *Erich Fromm*
+29. Gratitud. *Oliver Sacks*
+30. The Staff Engineer's Path. *Tanya Reilly*
+31. El caso de Charles Dexter Ward. *H. P. Lovecraft*
 
 
 ### 2022
