@@ -41,6 +41,9 @@ I love reading. This is the complete list of all books that I've read in my life
 29. Gratitud. *Oliver Sacks*
 30. The Staff Engineer's Path. *Tanya Reilly*
 31. El caso de Charles Dexter Ward. *H. P. Lovecraft*
+32. Rebelión en la granja. *George Orwell*
+33. Travesuras de la niña mala. *Mario Vargas Llosa* ⭑
+34. La cocina de tu vida: 950 recetas fáciles, rápidas y saludables. *Karlos Arguiñano* ⭑
 
 
 ### 2022
