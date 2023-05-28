@@ -44,6 +44,7 @@ I love reading. This is the complete list of all books that I've read in my life
 32. Rebelión en la granja. *George Orwell*
 33. Travesuras de la niña mala. *Mario Vargas Llosa* ⭑
 34. La cocina de tu vida: 950 recetas fáciles, rápidas y saludables. *Karlos Arguiñano* ⭑
+35. Cuaderno de ideas. *H. P. Lovecraft*
 
 
 ### 2022
@@ -734,7 +735,7 @@ I love reading. This is the complete list of all books that I've read in my life
 7. El fin del mundo y un despiadado país de las maravillas. *Haruki Murakami*
 8. Informática profesional. *Roberto Canales Mora*
 9. El modelo Google. *Bernard Girard*
-10. Tokio Blues. *Haruki Murakami* ⭑
+10. Tokio blues. *Haruki Murakami* ⭑
 11. Fueras de serie (Outliers). *Malcolm Gladwell* ⭑
 12. Wikinomics. *Don Tapscott, Anthony Williams*
 13. Tráfico. *Tom Vanderbilt* ⭑
