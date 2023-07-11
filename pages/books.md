@@ -45,6 +45,22 @@ I love reading. This is the complete list of all books that I've read in my life
 33. Travesuras de la niña mala. *Mario Vargas Llosa* ⭑
 34. La cocina de tu vida: 950 recetas fáciles, rápidas y saludables. *Karlos Arguiñano* ⭑
 35. Cuaderno de ideas. *H. P. Lovecraft*
+36. The School of Life: An Emotional Education. *Alain de Botton*
+37. Logicomix. *Apostolos Doxiadis & Christos H. Papadimitriou* ⭑
+38. Hazte quien eres: Un código de costumbres. *Jorge Freire*
+39. Alberto y la ballena: Durero y cómo el arte imagina nuestro mundo. *Philip Hoare*
+40. Historia de la muerte en Occidente. *Philippe Ariès*
+41. Tintín en el Tíbet. *Hergé*
+42. El mapa de las maravillas. *Caspar Henderson*
+43. Batman: La broma asesina. *Alan Moore & Brian Bolland* ⭑
+44. El caminante. *Jirō Taniguchi* ⭑
+45. Dominio: Una nueva historia del cristianismo. *Tom Holland*
+46. 1001 cómics que hay que leer antes de morir. *Paul Gravett*
+47. Torpedo 1936. *Enrique Sánchez Abulí & Jordi Bernet*
+48. Entender el cómic. El arte invisible. *Scott McCloud* ⭑
+49. Watchmen. *Alan Moore & Dave Gibbons*
+50. Bebés al agua. *Noemí Suriol Puigvert*
+51. Barrio lejano. *Jirō Taniguchi* ⭑
 
 
 ### 2022
