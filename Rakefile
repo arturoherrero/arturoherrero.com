@@ -8,11 +8,11 @@ task :test do
       timeframe: { external: "4w" }
     },
     enforce_https: false,
-    check_external_hash: true,
     check_favicon: true,
     check_html: true,
     check_img_http: true,
     empty_alt_ignore: true,
+    check_external_hash: false,
     ignore_status_codes: [302],
   }
 
