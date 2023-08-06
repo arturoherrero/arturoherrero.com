@@ -61,6 +61,18 @@ I love reading. This is the complete list of all books that I've read in my life
 49. Watchmen. *Alan Moore & Dave Gibbons*
 50. Bebés al agua. *Noemí Suriol Puigvert*
 51. Barrio lejano. *Jirō Taniguchi* ⭑
+52. Tintín: La isla negra. *Hergé*
+53. Vacaciones de ensueño. *Vittorio Giardino* ⭑
+54. Lecciones de la Historia. *Will Durant & Ariel Durant* ⭑
+55. Consuelo de la filosofía. *Boecio*
+56. El edificio. *Will Eisner* ⭑
+57. Tintín: El loto azul. *Hergé*
+58. Jimmy Corrigan: El chico más listo del mundo. *Chris Ware*
+59. Agua y jabón: Apuntes sobre elegancia involuntaria. *Marta D. Riezu*
+60. Contrato con Dios. *Will Eisner* ⭑
+61. El gourmet solitario. *Jirō Taniguchi*
+62. El gran cambiazo. *Roald Dahl*
+63. Corto Maltés: La balada del mar salado. *Hugo Pratt* ⭑
 
 
 ### 2022
