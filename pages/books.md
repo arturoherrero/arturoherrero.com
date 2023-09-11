@@ -68,11 +68,15 @@ I love reading. This is the complete list of all books that I've read in my life
 56. El edificio. *Will Eisner* ⭑
 57. Tintín: El loto azul. *Hergé*
 58. Jimmy Corrigan: El chico más listo del mundo. *Chris Ware*
-59. Agua y jabón: Apuntes sobre elegancia involuntaria. *Marta D. Riezu*
+59. Agua y jabón: Apuntes sobre elegancia involuntaria. *Marta D. Riezu* ⭑
 60. Contrato con Dios. *Will Eisner* ⭑
 61. El gourmet solitario. *Jirō Taniguchi*
-62. El gran cambiazo. *Roald Dahl*
-63. Corto Maltés: La balada del mar salado. *Hugo Pratt* ⭑
+62. El gran cambiazo. *Roald Dahl* ⭑
+63. Corto Maltés: La balada del mar salado. *Hugo Pratt*
+64. Maus. *Art Spiegelman* ⭑
+65. Un espía entre amigos. La gran traición de Kim Philby. *Ben Macintyre*
+66. The Essential Guide to Drawing. *Barrington Barber*
+67. Architecture: A Visual History. *Jonathan Glancey*
 
 
 ### 2022
