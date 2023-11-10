@@ -77,6 +77,13 @@ I love reading. This is the complete list of all books that I've read in my life
 65. Un espía entre amigos. La gran traición de Kim Philby. *Ben Macintyre*
 66. The Essential Guide to Drawing. *Barrington Barber*
 67. Architecture: A Visual History. *Jonathan Glancey*
+68. Artist's Drawing Techniques. *DK Publishing*
+69. La ciudad y los perros. Mario Vargas Llosa
+70. Food Mania. *Nigel Garwood & Rainer Voigt* ⭑
+71. Wisdom at Work. *Chip Conley*
+72. Now, Discover Your Strengths. *Marcus Buckingham, Donald O. Clifton*
+73. Historias extraordinarias. *Roald Dahl*
+74. Rest: Why You Get More Done When You Work Less. *Alex Soojung-Kim Pang*
 
 
 ### 2022

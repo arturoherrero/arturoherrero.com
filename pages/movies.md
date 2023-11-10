@@ -239,6 +239,7 @@ I love cinema. This is the list of best movies that I've watched in my life.
 * El buen patrón. *Fernando León de Aranoa. 2021*
 * Fue la mano de Dios. *Paolo Sorrentino. 2021*
 * Arquitectura emocional 1959. *León Siminiani. 2022*
+* Spider-Man: Cruzando el Multiverso. *Dos Santos, Kemp Powers, Thompson. 2023*
 
 
 ### Documentary

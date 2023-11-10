@@ -153,6 +153,8 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 
 ##### Steven Spielberg
 - En busca del arca perdida. *1981*
+- Indiana Jones y el templo maldito. *1984*
+- Indiana Jones y la última cruzada. *1989*
 - La lista de Schindler. *1993*
 - Salvar al soldado Ryan. *1998*
 - Atrápame si puedes. *2002*
@@ -383,3 +385,7 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 ##### Greta Gerwig
 - Lady Bird. *2017*
 - Mujercitas. *2019*
+
+##### Kemp Powers
+- Soul. *2020*
+- Spider-Man: Cruzando el Multiverso. *2023*
