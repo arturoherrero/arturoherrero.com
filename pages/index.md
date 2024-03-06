@@ -7,7 +7,7 @@ redirect_from: /about/
 
 ¡Hola! I'm Arturo.
 
-I'm a software engineer, manager & designer based in London. I work at [GitLab][9]{:target="_blank" rel="noreferrer"}.
+I'm a software engineer, manager & designer based in Madrid. I work at [GitLab][9]{:target="_blank" rel="noreferrer"}.
 
 Software is my craft. During my career I have had the opportunity to work with
 remarkable people building systems at scale and leading technical teams.
@@ -64,6 +64,7 @@ Occasionally, I speak at conferences. You will find more information on my [talk
 ## Contact
 
 Want to get in touch? Email me at *<arturo.herrero@gmail.com>*.
+
 
 [1]: /blog-en/
 [2]: /blog-es/
