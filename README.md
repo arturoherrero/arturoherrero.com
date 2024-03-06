@@ -1,6 +1,6 @@
 # arturoherrero.com
 
-[![Build Status](https://github.com/arturoherrero/arturoherrero.com/workflows/build/badge.svg?branch=master)](https://github.com/arturoherrero/arturoherrero.com/actions)
+[![Build Status](https://github.com/arturoherrero/arturoherrero.com/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/arturoherrero/arturoherrero.com/actions)
 
 My personal website.
 
