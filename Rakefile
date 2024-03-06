@@ -13,7 +13,7 @@ task :test do
     check_img_http: true,
     empty_alt_ignore: true,
     check_external_hash: false,
-    ignore_status_codes: [302],
+    ignore_status_codes: [400,403],
   }
 
   HTMLProofer.check_directory("./_site", options).run
