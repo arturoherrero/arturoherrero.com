@@ -321,6 +321,10 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - La noche es nuestra. *2007*
 - Z. La ciudad perdida. *2016*
 
+##### J.A. Bayona
+- El orfanato. *2007*
+- La sociedad de la nieve. *2023*
+
 ##### Paul Thomas Anderson
 - Pozos de ambición. *2007*
 - El hilo invisible. *2017*

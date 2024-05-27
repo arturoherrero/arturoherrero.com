@@ -9,6 +9,11 @@ permalink: /games/
 
 I'm a casual gamer. This is the list of the games that I've played in my life.
 
+### 2024
+1. Star Wars Jedi: Fallen Order. *PS4*
+2. Wolfenstein: The Old Blood. *PS4*
+
+
 ### 2023
 1. The Legend of Zelda: Tears of the Kingdom. *Switch* ⭑
 

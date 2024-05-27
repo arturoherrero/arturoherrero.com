@@ -9,6 +9,22 @@ permalink: /books/
 
 I love reading. This is the complete list of all books that I've read in my life.
 
+### 2024
+1. El arte de la prudencia. *Baltasar Gracián*
+2. The Almanack of Naval Ravikant. *Eric Jorgenson*
+3. Elon Musk. *Walter Isaacson* ⭑
+4. El almanaque de mi padre. *Jirō Taniguchi*
+5. El libro del desasosiego. *Fernando Pessoa*
+6. New York: The Big City. *Will Eisner* ⭑
+7. Algo supuestamente divertido que nunca volveré a hacer. *David Foster Wallace*
+8. Jesús de Nazaret. *Benedicto XVI*
+9. La vida instrucciones de uso. *Georges Perec*
+10. Eames. *Gloria Koenig*
+11. La hispanibundia: Retrato español de familia. *Mauricio Wiesenthal*
+12. Lo esencial: Una guía de diseño para la vida. *Miguel Milá*
+13. La educación del estoico. *Fernando Pessoa*
+
+
 ### 2023
 1. Cómo piensan los niños y otros recuerdos de mi vida. *Hayao Miyazaki*
 2. Escritos sobre arte, literatura y música: 1845-1866. *Charles Baudelaire*
@@ -84,6 +100,7 @@ I love reading. This is the complete list of all books that I've read in my life
 72. Now, Discover Your Strengths. *Marcus Buckingham, Donald O. Clifton*
 73. Historias extraordinarias. *Roald Dahl*
 74. Rest: Why You Get More Done When You Work Less. *Alex Soojung-Kim Pang*
+75. Carta a mi mujer. *Francisco Umbral*
 
 
 ### 2022
