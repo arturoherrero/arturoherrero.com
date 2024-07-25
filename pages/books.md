@@ -12,7 +12,7 @@ I love reading. This is the complete list of all books that I've read in my life
 ### 2024
 1. El arte de la prudencia. *Baltasar Gracián*
 2. The Almanack of Naval Ravikant. *Eric Jorgenson*
-3. Elon Musk. *Walter Isaacson* ⭑
+3. Elon Musk. *Walter Isaacson*
 4. El almanaque de mi padre. *Jirō Taniguchi*
 5. El libro del desasosiego. *Fernando Pessoa*
 6. New York: The Big City. *Will Eisner* ⭑
@@ -23,6 +23,18 @@ I love reading. This is the complete list of all books that I've read in my life
 11. La hispanibundia: Retrato español de familia. *Mauricio Wiesenthal*
 12. Lo esencial: Una guía de diseño para la vida. *Miguel Milá*
 13. La educación del estoico. *Fernando Pessoa*
+14. La tentación del fracaso. *Julio Ramón Ribeyro* ⭑
+15. La psicología de los objetos cotidianos. *Donald A. Norman*
+16. Tintín, Hergé y los coches. *Charles Henri de Choiseul Praslin & Andy Jacobs*
+17. Para pensar mejor: El arte del atajo. *Marcus du Sautoy*
+18. Un verdor terrible. *Benjamín Labatut* ⭑
+19. Ibáñez. El maestro de la historieta. *Jordi Canyissà*
+20. MetaMaus: Viaje al interior de un clásico moderno, Maus. *Art Spiegelman*
+21. El arte de poner límites. *Sonia Kliass*
+22. El arte de dar libertad. *Sonia Kliass*
+23. Guía Visual de la Editorial Bruguera. *Tino Regueira*
+24. Emperador de Roma. *Mary Beard*
+25. Laws of UX: Using Psychology to Design Better Products & Services. *Jon Yablonski*
 
 
 ### 2023
