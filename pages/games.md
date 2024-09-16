@@ -12,6 +12,9 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 ### 2024
 1. Star Wars Jedi: Fallen Order. *PS4*
 2. Wolfenstein: The Old Blood. *PS4*
+3. World of Goo 2. *PC* ⭑
+4. Duck Detective: The Secret Salami. *PC*
+5. Return to Monkey Island. *PC*
 
 
 ### 2023

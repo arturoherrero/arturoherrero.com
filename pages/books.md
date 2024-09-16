@@ -35,6 +35,17 @@ I love reading. This is the complete list of all books that I've read in my life
 23. Guía Visual de la Editorial Bruguera. *Tino Regueira*
 24. Emperador de Roma. *Mary Beard*
 25. Laws of UX: Using Psychology to Design Better Products & Services. *Jon Yablonski*
+26. En todas partes hay tesoros. *Bill Watterson*
+27. En la cabeza de Sherlock Holmes. *Cyril Liéron & Benoît Dahan* ⭑
+28. El Gatopardo. *Giuseppe Tomasi di Lampedusa*
+29. Color y significado: Arte, ciencia y simbología. *John Gage*
+30. La huella de los mapas: Cartografías de lo humano. *Kevin R. Wittmann*
+31. 200 libros para disfrutar. *Luis Alberto de Cuenca* ⭑
+32. Tiempo de magos: La gran década de la filosofía: 1919-1929. *Wolfram Eilenberger*
+33. Hergé y el arte: El arte infinito del creador de Tintín. *Pierre Streckx*
+34. Historia de dos ciudades. *Charles Dickens*
+35. Borrachos. *Edward Slingerland*
+36. La invención de la naturaleza. *Andrea Wulf*
 
 
 ### 2023
