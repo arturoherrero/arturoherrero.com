@@ -45,7 +45,22 @@ I love reading. This is the complete list of all books that I've read in my life
 33. Hergé y el arte: El arte infinito del creador de Tintín. *Pierre Streckx*
 34. Historia de dos ciudades. *Charles Dickens*
 35. Borrachos. *Edward Slingerland*
-36. La invención de la naturaleza. *Andrea Wulf*
+36. La invención de la naturaleza. *Andrea Wulf* ⭑
+37. ¿Dónde se encuentra la sabiduría? *Harold Bloom*
+38. El arte de la coherencia. *Pedro Vivar*
+39. Libros contra el aburrimiento. *Luis Alberto de Cuenca* ⭑
+40. El canon occidental. *Harold Bloom*
+41. La realidad no existe. *Jaime Rodríguez de Santiago*
+42. Mapas literarios. *Huw Lewis-Jones* ⭑
+43. Los hombres no son islas. *Nuccio Ordine*
+44. La lira desafinada de Pitágoras. *Almudena Martín Castro*
+45. Maniac. *Benjamín Labatut* ⭑
+46. Museo Yokai: La colección Yumoto Koichi. *Yumoto Koichi*
+47. El nombre de la rosa. *Umberto Eco*
+48. El algoritmo que cambió el mundo: Y otras historias informáticas. *David Bonilla*
+49. La piedra de la locura. *Benjamín Labatut* ⭑
+50. Botchan. *Natsume Sōseki*
+51. «Tú eres la tarea»: Aforismos. *Franz Kafka*
 
 
 ### 2023

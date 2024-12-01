@@ -15,6 +15,7 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 3. World of Goo 2. *PC* ⭑
 4. Duck Detective: The Secret Salami. *PC*
 5. Return to Monkey Island. *PC*
+6. Disco Elysium. *PC*
 
 
 ### 2023
