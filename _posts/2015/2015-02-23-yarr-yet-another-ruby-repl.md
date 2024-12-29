@@ -90,7 +90,7 @@ end
 
 [1]: https://github.com/arturoherrero/yarr/
 [2]: https://groovy-lang.org/groovysh.html
-[3]: https://docs.ruby-lang.org/en/master/IRB.html
+[3]: https://ruby.github.io/irb/
 [4]: http://pry.github.io/
 [5]: https://www.gnu.org/software/bash/
 [6]: https://www.vim.org/
