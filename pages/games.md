@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Games
-description: The complete list of all games that I've played in my life.
+description: This is the complete list of all the games I've played.
 permalink: /games/
 ---
 
 ## {{ page.title }}
 
-I'm a casual gamer. This is the list of the games that I've played in my life.
+I'm a casual gamer. This is the list of all the games I've played.
 
 ### 2024
 1. Star Wars Jedi: Fallen Order. *PS4*
@@ -16,6 +16,10 @@ I'm a casual gamer. This is the list of the games that I've played in my life.
 4. Duck Detective: The Secret Salami. *PC*
 5. Return to Monkey Island. *PC*
 6. Disco Elysium. *PC*
+7. TUNIC. *Xbox Cloud Gaming* ⭑
+8. Indiana Jones and the Great Circle. *Xbox Cloud Gaming* ⭑
+9. Ori and the Blind Forest: Definitive Edition. *Xbox Cloud Gaming*
+10. A Plague Tale: Requiem. *Xbox Cloud Gaming* ⭑
 
 
 ### 2023

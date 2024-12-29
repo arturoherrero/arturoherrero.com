@@ -19,7 +19,7 @@ or [GitLab][17]{:target="_blank" rel="noreferrer" onclick="ga('send', 'event', '
     - [OpenFastStruct][4]
 - [YARR][5], a Ruby REPL
 - [gvar][10]{:target="_blank" rel="noreferrer"}, a pure Bash key-value store
-- `$HOME` sweet `~/` my [dotfiles][11]{:target="_blank" rel="noreferrer"}
+- `$HOME` sweet `~/`, my [dotfiles][11]{:target="_blank" rel="noreferrer"}
 - I like to print bar graphs in the shell:
     - [sparky][6]{:target="_blank" rel="noreferrer"}
     - [bart][7]{:target="_blank" rel="noreferrer"}

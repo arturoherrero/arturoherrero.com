@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Movies
-description: This is the list of best movies that I've watched in my life.
+description: This is the list of the best movies I've watched.
 permalink: /movies/
 ---
 
 ## {{ page.title }}
 
-I love cinema. This is the list of best movies that I've watched in my life.
+I love cinema. This is the list of the best movies I've watched.
 
 
 ### 1920s

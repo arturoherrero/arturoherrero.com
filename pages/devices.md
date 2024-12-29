@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Devices
-description: A non-exhaustive list of devices that I've used in my life.
+description: A non-exhaustive list of devices I've used in my life.
 permalink: /devices/
 ---
 

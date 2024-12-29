@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Reading List
-description: The complete list of all books that I've read in my life.
+description: This is the complete list of all the books I've read.
 permalink: /books/
 ---
 
 ## {{ page.title }}
 
-I love reading. This is the complete list of all books that I've read in my life.
+I love reading. This is the complete list of all the books I've read.
 
 ### 2024
 1. El arte de la prudencia. *Baltasar Gracián*
@@ -61,6 +61,8 @@ I love reading. This is the complete list of all books that I've read in my life
 49. La piedra de la locura. *Benjamín Labatut* ⭑
 50. Botchan. *Natsume Sōseki*
 51. «Tú eres la tarea»: Aforismos. *Franz Kafka*
+52. Las mil y una noches. Edición anotada. *Lemos Horta (editor), Seale (colaboradora)* ⭑
+53. El gran libro de Satán. *Jorge de Cascante (editor)*
 
 
 ### 2023
