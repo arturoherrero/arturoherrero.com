@@ -54,7 +54,7 @@ I love reading. This is the complete list of all the books I've read.
 42. Mapas literarios. *Huw Lewis-Jones* ⭑
 43. Los hombres no son islas. *Nuccio Ordine*
 44. La lira desafinada de Pitágoras. *Almudena Martín Castro*
-45. Maniac. *Benjamín Labatut* ⭑
+45. MANIAC. *Benjamín Labatut* ⭑
 46. Museo Yokai: La colección Yumoto Koichi. *Yumoto Koichi*
 47. El nombre de la rosa. *Umberto Eco*
 48. El algoritmo que cambió el mundo: Y otras historias informáticas. *David Bonilla*

@@ -9,6 +9,11 @@ permalink: /games/
 
 I'm a casual gamer. This is the list of all the games I've played.
 
+### 2025
+1. Mafia: Definitive Edition. *Xbox Cloud Gaming*
+2. COCOON. *Xbox Cloud Gaming* ⭑
+
+
 ### 2024
 1. Star Wars Jedi: Fallen Order. *PS4*
 2. Wolfenstein: The Old Blood. *PS4*
