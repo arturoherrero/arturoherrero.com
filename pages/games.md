@@ -12,6 +12,12 @@ I'm a casual gamer. This is the list of all the games I've played.
 ### 2025
 1. Mafia: Definitive Edition. *Xbox Cloud Gaming*
 2. COCOON. *Xbox Cloud Gaming* ⭑
+3. Forza Horizon 5. *Xbox Cloud Gaming* ⭑
+4. Chants of Sennaar. *Xbox Cloud Gaming* ⭑
+5. Call of Duty Black Ops 6. *Xbox Cloud Gaming*
+6. Spyro Reignited Trilogy. *Xbox Cloud Gaming*
+7. Immortals Fenyx Rising. *Xbox Cloud Gaming* ⭑
+8. Balatro. *Xbox Cloud Gaming* ⭑
 
 
 ### 2024

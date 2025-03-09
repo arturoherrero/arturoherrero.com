@@ -241,6 +241,7 @@ I love cinema. This is the list of the best movies I've watched.
 * Arquitectura emocional 1959. *León Siminiani. 2022*
 * Dune: Parte 2. *Denis Villeneuve. 2023*
 * Spider-Man: Cruzando el Multiverso. *Dos Santos, Kemp Powers, Thompson. 2023*
+* Anora. *Sean Baker. 2024*
 
 
 ### Documentary

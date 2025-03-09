@@ -36,6 +36,14 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Arsénico por compasión. *1944*
 - Qué bello es vivir. *1946*
 
+##### Alfred Hitchcock
+- 39 escalones. *1935*
+- Crimen perfecto. *1954*
+- La ventana indiscreta. *1954*
+- Vertigo. *1958*
+- Con la muerte en los talones. *1959*
+- Psicosis. *1960*
+
 ##### George Cukor
 - Vivir para gozar. *1938*
 - Lo que el viento se llevó. *1939*
@@ -100,13 +108,6 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Calabuch. *1956*
 - Plácido. *1961*
 - El verdugo. *1963*
-
-##### Alfred Hitchcock
-- Crimen perfecto. *1954*
-- La ventana indiscreta. *1954*
-- Vertigo. *1958*
-- Con la muerte en los talones. *1959*
-- Psicosis. *1960*
 
 ##### Don Siegel
 - La invasión de los ladrones de cuerpos. *1956*
@@ -341,10 +342,15 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 ##### Todd Phillips
 - Resacón en Las Vegas. *2009*
 - Joker. *2019*
+- Joker: Folie à Deux. *2024*
 
 ##### Bennett Miller
 - Moneyball: Rompiendo las reglas. *2011*
 - Foxcatcher. *2014*
+
+##### Alexandre de La Patellière, Matthieu Delaporte
+- Le prénom. *2012*
+- El conde de Montecristo. *2024*
 
 ##### Wes Anderson
 - Moonrise Kingdom. *2012*

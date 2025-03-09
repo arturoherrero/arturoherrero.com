@@ -9,6 +9,17 @@ permalink: /books/
 
 I love reading. This is the complete list of all the books I've read.
 
+### 2025
+1. El fatal destino de Roma. *Kyle Harper*
+2. Mortal y rosa. *Francisco Umbral*
+3. María Antonieta. *Stefan Zweig*
+4. Querer de cine. *José Luis Garci*
+5. Proverbios y cantares. *Antonio Machado*
+6. Mitología clásica. *David Hernández de la Fuente*
+7. Prohibido repetir: Una propuesta apasionada para salvar la escuela. *Gregorio Luri*
+8. Diarios y cuadernos. *Patricia Highsmith*
+
+
 ### 2024
 1. El arte de la prudencia. *Baltasar Gracián*
 2. The Almanack of Naval Ravikant. *Eric Jorgenson*
