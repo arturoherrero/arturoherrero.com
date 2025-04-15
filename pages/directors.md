@@ -247,6 +247,7 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Lock & Stock. *1998*
 - Snatch. Cerdos y diamantes. *2000*
 - RocknRolla. *2008*
+- Guy Ritchie: El pacto. *2023*
 
 ##### Javier Fesser
 - El milagro de P. Tinto. *1998*
@@ -367,6 +368,7 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Sicario. *2015*
 - La llegada. *2016*
 - Dune. *2021*
+- Dune: Parte Dos. *2024*
 
 ##### Paolo Sorrentino
 - La gran belleza. *2013*

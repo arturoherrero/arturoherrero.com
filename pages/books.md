@@ -15,9 +15,15 @@ I love reading. This is the complete list of all the books I've read.
 3. María Antonieta. *Stefan Zweig*
 4. Querer de cine. *José Luis Garci*
 5. Proverbios y cantares. *Antonio Machado*
-6. Mitología clásica. *David Hernández de la Fuente*
+6. Mitología clásica. *David Hernández de la Fuente* ⭑
 7. Prohibido repetir: Una propuesta apasionada para salvar la escuela. *Gregorio Luri*
 8. Diarios y cuadernos. *Patricia Highsmith*
+9. From Hell. *Alan Moore, Eddie Campbell*
+10. El viajero impertinente. *Percy Hopewell*
+11. Historia visual del Arte. *Claude Frontisi*
+12. Dibujo a mano alzada para arquitectos.
+13. Cuatro mil semanas: Gestión del tiempo para mortales. *Oliver Burkeman*
+14. 100 Things Every Designer Needs to Know About People. *Susan M. Weinschenk*
 
 
 ### 2024
