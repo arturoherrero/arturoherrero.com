@@ -1,0 +1,215 @@
+---
+layout: default
+title: "AH / Editor"
+description: My ultimate writing companion.
+permalink: /editor/
+---
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/6.65.7/codemirror.min.css">
+
+<style>
+  .container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0;
+  }
+
+  .editor-wrapper {
+    min-height: calc(100vh - 220px);
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  }
+
+  .CodeMirror {
+    height: auto;
+    flex-grow: 1;
+    font-size: 16px;
+    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', monospace;
+    line-height: 1.5;
+    overflow: hidden;
+  }
+
+  .CodeMirror-lines {
+    padding: 40px 0;
+  }
+
+  .CodeMirror pre.CodeMirror-line,
+  .CodeMirror pre.CodeMirror-line-like {
+    padding: 0 50px;
+  }
+
+  /* Keystrokes counter styles */
+  .keystroke-meter {
+    height: 30px;
+    background-color: #fafafa;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .keystroke-bar {
+    width: 20px;
+    background-color: #e0e0e0;
+    position: absolute;
+    bottom: 0;
+    transition: height 0.1s ease-out;
+    border-top: 1px solid #a0a0a0;
+  }
+
+  /* Override cursor normal mode */
+  .CodeMirror-cursors .CodeMirror-cursor {
+    background-color: #D7D3EB !important;
+  }
+
+  /* Override GFM syntax highlighting to use only grayscale colors */
+  .cm-header, .cm-strong { color: #000 !important; font-weight: bold; }
+  .cm-em, .cm-meta, .cm-attribute, .cm-builtin { color: #444 !important; }
+  .cm-link, .cm-tag { color: #222 !important; }
+  .cm-url, .cm-comment, .cm-formatting { color: #666 !important; }
+  .cm-quote, .cm-list { color: #555 !important; }
+  .cm-strikethrough { color: #999 !important; }
+  .cm-string, .cm-variable-2, .cm-variable-3 { color: #333 !important; }
+  .cm-hr { color: #888 !important; }
+  .cm-url, .cm-link {
+    cursor: pointer;
+    text-decoration: underline;
+  }
+</style>
+
+<div class="container">
+  <div class="editor-wrapper">
+    <div id="keystrokeMeter" class="keystroke-meter"></div>
+    <textarea id="editor"></textarea>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/6.65.7/codemirror.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/6.65.7/mode/markdown/markdown.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/6.65.7/addon/mode/overlay.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/6.65.7/mode/gfm/gfm.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/6.65.7/keymap/vim.min.js"></script>
+
+<script>
+  // Initialize CodeMirror editor with custom configuration
+  const editor = CodeMirror.fromTextArea(document.getElementById('editor'), {
+    mode: 'gfm',
+    keyMap: 'vim',
+    indentUnit: 2,
+    lineWrapping: true,
+    viewportMargin: Infinity
+  });
+
+  // Keystroke counter functionality
+  const KeystrokeCounter = {
+    meter: document.getElementById('keystrokeMeter'),
+    bars: [],
+    currentInterval: 0,
+    keystrokeCount: 0,
+    startTime: null,
+    intervalDuration: 20 * 1000, // 20 seconds in milliseconds
+
+    // Initialize counter, setup event listeners and timer
+    init: function() {
+      this.startTime = new Date();
+      this.addBar();
+      editor.on('keydown', this.handleKeystroke.bind(this));
+      requestAnimationFrame(this.checkNewInterval.bind(this));
+    },
+
+    // Count keystrokes and update visual display
+    handleKeystroke: function(cm, event) {
+      this.keystrokeCount++;
+      this.updateCurrentBar();
+    },
+
+    // Update height of current bar based on keystroke count
+    updateCurrentBar: function() {
+      const currentBar = this.bars[0];
+      const scaleFactor = 0.8;
+      const heightPercent = Math.min(100, this.keystrokeCount * scaleFactor);
+      currentBar.style.height = heightPercent + '%';
+    },
+
+    // Create new bar for current interval
+    addBar: function() {
+      const bar = document.createElement('div');
+      bar.className = 'keystroke-bar';
+      this.meter.appendChild(bar);
+      this.bars.unshift(bar);
+      this.keystrokeCount = 0;
+      this.updateBarPositions();
+    },
+
+    // Reposition all bars and remove those out of view
+    updateBarPositions: function() {
+      this.bars.forEach((bar, index) => {
+        const basePosition = 10;
+        const spacing = 21;
+        const position = basePosition + (index * spacing);
+        bar.style.left = position + 'px';
+        if (position > this.meter.offsetWidth) {
+          this.meter.removeChild(bar);
+          this.bars.splice(index, 1);
+        }
+      });
+    },
+
+    // Check if we've entered a new interval and add a bar if so
+    checkNewInterval: function() {
+      const now = new Date();
+      const elapsedInterval = Math.floor((now - this.startTime) / this.intervalDuration);
+      if (elapsedInterval > this.currentInterval) {
+        this.currentInterval = elapsedInterval;
+        this.addBar();
+      }
+      requestAnimationFrame(this.checkNewInterval.bind(this));
+    }
+  };
+
+  // URL Handler - Make URLs clickable in the editor
+  const URLHandler = {
+    handleClick: function(e) {
+      let target = e.target;
+      if (target.classList.contains('cm-url') || target.classList.contains('cm-link')) {
+        let url = target.textContent;
+        if (url.startsWith('(') && url.endsWith(')')) {
+          url = url.substring(1, url.length - 1);
+        }
+        if (!/^https?:\/\//i.test(url)) {
+          url = 'https://' + url;
+        }
+        window.open(url, '_blank');
+      }
+    },
+
+    init: function() {
+      editor.getWrapperElement().addEventListener('click', this.handleClick.bind(this));
+    }
+  };
+
+  // Auto-save functionality
+  const StorageManager = {
+    storageKey: 'codemirror-content',
+    saveContent: function(content) { localStorage.setItem(this.storageKey, content); },
+    loadContent: function() { return localStorage.getItem(this.storageKey) || ''; }
+  };
+
+  // Initialize components
+  KeystrokeCounter.init();
+  URLHandler.init();
+
+  // Load saved content
+  const savedContent = StorageManager.loadContent();
+  if (savedContent) { editor.setValue(savedContent); }
+
+  // Set up auto-save
+  editor.on('change', function() { StorageManager.saveContent(editor.getValue()); });
+
+  // Focus the editor
+  editor.focus();
+</script>
