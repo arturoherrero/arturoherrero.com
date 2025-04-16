@@ -1,7 +1,7 @@
 /* TEAM */
   Name: Arturo Herrero
   Contact: arturo.herrero@gmail.com
-  Twitter: @ArturoHerrero
+  𝕏: @ArturoHerrero
   From: Madrid, Spain
 
 /* SITE */

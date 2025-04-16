@@ -33,7 +33,7 @@ I’m continually learning and working on [personal projects][8].
 
 ## Life Streaming
 
-I'm [@ArturoHerrero][4]{:target="_blank" rel="noreferrer"} on Twitter.
+I'm [@ArturoHerrero][4]{:target="_blank" rel="noreferrer"} on 𝕏.
 
 
 ## Reading
@@ -69,7 +69,7 @@ Want to get in touch? Email me at *<arturo.herrero@gmail.com>*.
 [1]: /blog-en/
 [2]: /blog-es/
 [3]: /blog/
-[4]: https://twitter.com/ArturoHerrero
+[4]: https://x.com/ArturoHerrero
 [5]: https://www.goodreads.com/book/show/21231392-instant-markdown
 [6]: /talks/
 [7]: /books/

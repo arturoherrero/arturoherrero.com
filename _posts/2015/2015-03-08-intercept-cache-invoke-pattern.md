@@ -99,6 +99,6 @@ performance depends on whether we use `block.call` or just `yield`
 
 
 [1]: https://github.com/JuanitoFatas/fast-ruby#proccall-and-block-arguments-vs-yieldcode
-[2]: https://twitter.com/otikik
+[2]: https://x.com/otikik
 [3]: https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding
-[4]: https://twitter.com/graemerocher
+[4]: https://x.com/graemerocher
