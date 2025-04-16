@@ -33,7 +33,7 @@ I’m continually learning and working on [personal projects][8].
 
 ## Life Streaming
 
-I'm [@ArturoHerrero][4]{:target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'Extra', 'Twitter Click', 'Twitter Home');"} on Twitter.
+I'm [@ArturoHerrero][4]{:target="_blank" rel="noreferrer"} on Twitter.
 
 
 ## Reading
@@ -53,7 +53,7 @@ I'm a casual gamer. These are the [games][13] I'm playing.
 
 ## Writing
 
-I wrote a book about Markdown, published by Packt Publishing: *[Instant Markdown][5]{:target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'Extra', 'Markdown Click', 'Markdown');"}*.
+I wrote a book about Markdown, published by Packt Publishing: *[Instant Markdown][5]{:target="_blank" rel="noreferrer"}*.
 
 
 ## Presenting

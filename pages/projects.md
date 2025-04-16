@@ -8,8 +8,7 @@ permalink: /projects/
 ## {{ page.title }}
 
 I'm passionate about open source and constantly learning through my personal projects.
-Follow my work on [GitHub][1]{:target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'Extra', 'GitHub Click', 'GitHub');"}
-or [GitLab][17]{:target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'Extra', 'GitLab Click', 'GitLab');"}.
+Follow my work on [GitHub][1]{:target="_blank" rel="noreferrer"} or [GitLab][17]{:target="_blank" rel="noreferrer"}.
 
 ### Applications
 
