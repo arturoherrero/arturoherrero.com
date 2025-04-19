@@ -41,6 +41,7 @@ permalink: /devices/
 
 
 ### Others
+- NuPhy Air75 V2. Ionic White. Cowberry Switch. *2024-12*
 - ASUS RT-AC68U. *2020-10*
 - Samsung LU28H750UQUXEN 28". *2019-09*
 - Raspberry Pi 2 Model B. *2015-09*

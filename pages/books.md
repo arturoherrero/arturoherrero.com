@@ -24,6 +24,7 @@ I love reading. This is the complete list of all the books I've read.
 12. Dibujo a mano alzada para arquitectos.
 13. Cuatro mil semanas: Gestión del tiempo para mortales. *Oliver Burkeman*
 14. 100 Things Every Designer Needs to Know About People. *Susan M. Weinschenk*
+15. Historia de la belleza. *Umberto Eco*
 
 
 ### 2024
