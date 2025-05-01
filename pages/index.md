@@ -22,8 +22,8 @@ book: [Instant Markdown][5]{:target="_blank" rel="noreferrer"} published by
 Packt Publishing, and occasionally [speaking at conferences][6].
 
 I keep track of various collections: a list of [books][7] I've read,
-my favorite [movies][11] and [directors][12], my [gaming][13] adventures, and
-the [devices][15] I use in my daily life.
+my favorite [movies][11] and [directors][12], my [gaming][13] adventures,
+[music][16] I like, and the [devices][15] I use in my daily life.
 
 You can find me on 𝕏 as *[@ArturoHerrero][4]{:target="_blank" rel="noreferrer"}*,
 or email me at *<arturo.herrero@gmail.com>*.
@@ -43,3 +43,4 @@ or email me at *<arturo.herrero@gmail.com>*.
 [13]: /games/
 [14]: /weeknotes/
 [15]: /devices/
+[16]: /music/

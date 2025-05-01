@@ -244,7 +244,7 @@ I love cinema. This is the list of the best movies I've watched.
 * Anora. *Sean Baker. 2024*
 
 
-### Documentary
+### Documentaries
 * Jiro Dreams of Sushi. *David Gelb. 2011*
 * Sinatra: All or Nothing at All. *Alex Gibney. 2015*
 * Lumière! L'aventure commence. *Thierry Fremaux. 2016*
@@ -255,7 +255,7 @@ I love cinema. This is the list of the best movies I've watched.
 * Ennio: El maestro. *Giuseppe Tornatore. 2021*
 
 
-### TV Shows
+### Series
 * The Simpsons. *Matt Groening, Sam Simon, James L. Brooks. 1989*
 * The Sopranos. *David Chase. 1999*
 * Band of Brothers. *Stephen Ambrose. 2001*
@@ -274,3 +274,4 @@ I love cinema. This is the list of the best movies I've watched.
 * Mindhunter. *Joe Penhall. 2017*
 * Succession. *Jesse Armstrong. 2018*
 * Antidisturbios. *Rodrigo Sorogoyen, Isabel Peña. 2020*
+* Ripley. *Steven Zaillian. 2024*
