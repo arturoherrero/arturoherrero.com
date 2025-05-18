@@ -2,7 +2,7 @@
 layout: post
 title: Hominem unius libri timeo
 description: Teme al hombre de un sólo libro.
-tags: es
+tags: reading
 ---
 
 Desde hace muchos años voy apuntando todos los libros que leo. Leer [50 libros

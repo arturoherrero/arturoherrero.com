@@ -2,7 +2,7 @@
 layout: post
 title: Ten principles for good design
 description: Dieter Rams's ideology.
-tags: en
+tags: design
 ---
 
 1. Good design is innovative.

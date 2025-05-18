@@ -2,8 +2,7 @@
 layout: post
 title: Markdown Resume
 description: Convert your curriculum vitae in markdown syntax to HTML or PDF file.
-tags: en
-redirect_from: /2013/05/14/markdown-resume/
+tags: projects
 ---
 
 A few weeks ago I needed to update my curriculum vitae. When was the last time

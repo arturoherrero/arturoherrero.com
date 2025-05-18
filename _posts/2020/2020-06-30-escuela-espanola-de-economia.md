@@ -2,7 +2,7 @@
 layout: post
 title: Escuela Española de Economía
 description: Los orígenes de la economía como ciencia.
-tags: es
+tags: economy
 ---
 
 La Escuela de Salamanca es el término usado para describir a un grupo de

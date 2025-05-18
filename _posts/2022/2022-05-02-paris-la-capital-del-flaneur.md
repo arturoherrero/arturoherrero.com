@@ -2,7 +2,7 @@
 layout: post
 title: "Paris, la capital del flâneur"
 description: Ce qu'on voit dans les rues de Paris.
-tags: es
+tags: ideas
 ---
 
 ***Flâneur*** significa 'paseante' o 'callejero'. Aquel que vaga por las

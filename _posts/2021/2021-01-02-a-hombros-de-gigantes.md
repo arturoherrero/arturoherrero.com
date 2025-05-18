@@ -2,7 +2,7 @@
 layout: post
 title: A hombros de gigantes
 description: Si he visto más lejos, es poniéndome sobre los hombros de gigantes.
-tags: es
+tags: reading
 ---
 
 ![A hombros de gigantes][1]

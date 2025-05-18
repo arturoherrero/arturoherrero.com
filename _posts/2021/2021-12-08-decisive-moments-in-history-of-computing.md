@@ -2,7 +2,7 @@
 layout: post
 title: Decisive Moments in History of Computing
 description: Twenty-one historical miniatures.
-tags: en
+tags: programming
 ---
 
 I've read *The story of computer: From the Abacus to Artificial Intelligence*

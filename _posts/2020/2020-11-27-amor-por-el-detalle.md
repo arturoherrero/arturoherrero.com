@@ -2,7 +2,7 @@
 layout: post
 title: Amor por el detalle
 description: Dos anécdotas.
-tags: es
+tags: design
 ---
 
 Dos anécdotas que expresan muy bien el amor por el detalle.

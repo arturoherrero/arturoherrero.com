@@ -2,7 +2,7 @@
 layout: post
 title: iShows Server
 description: The side project that served a billion images.
-tags: en
+tags: programming
 ---
 
 About 10 years ago, I got involved in a very interesting project: [iShows][1].

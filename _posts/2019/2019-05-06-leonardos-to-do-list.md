@@ -2,7 +2,7 @@
 layout: post
 title: Leonardo's To-Do List
 description: The insatiable curiosity about the world.
-tags: en
+tags: writing
 ---
 
 ![Leonardo da Vinci by Walter Isaacson][1]

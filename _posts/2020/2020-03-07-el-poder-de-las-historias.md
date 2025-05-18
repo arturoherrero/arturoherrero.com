@@ -2,7 +2,7 @@
 layout: post
 title: El poder de las historias
 description: Cómo han cautivado al ser humano, de la Ilíada a Harry Potter.
-tags: es
+tags: reading
 ---
 
 ![El poder de las historias][1]

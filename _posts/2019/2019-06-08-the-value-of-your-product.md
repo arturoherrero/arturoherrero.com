@@ -2,7 +2,7 @@
 layout: post
 title: The value of your product
 description: The value can be positive or negative, visible or invisible.
-tags: en
+tags: ideas
 ---
 
 |                | Visible  | Invisible      |

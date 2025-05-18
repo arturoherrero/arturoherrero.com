@@ -2,7 +2,7 @@
 layout: post
 title: Canaletto
 description: The Italian painter, one of the main exponents of vedutism.
-tags: en
+tags: art
 ---
 
 ![The Bacino di San Marco on Ascension Day][1]

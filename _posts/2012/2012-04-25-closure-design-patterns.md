@@ -2,8 +2,7 @@
 layout: post
 title: Closure Design Patterns
 description: There are a lots of documentation about software design patterns, but I’m interesting in closure design patterns.
-tags: en
-redirect_from: /2012/04/25/closure-design-patterns/
+tags: programming
 ---
 
 ### Design Patterns

@@ -2,7 +2,7 @@
 layout: post
 title: Viajar o «ser viajado»
 description: Salvemos este pequeño reducto aventurero de nuestra vida.
-tags: es
+tags: ideas
 ---
 
 He viajado de muchas formas, desde mochilero con un pase de Interrail

@@ -2,7 +2,7 @@
 layout: post
 title: Don Quijote de la Mancha
 description: La primera novela moderna y la obra magna de la literatura.
-tags: es
+tags: reading
 ---
 
 «Desocupado lector»: no disfruté la lectura del *Quijote* en el colegio, y

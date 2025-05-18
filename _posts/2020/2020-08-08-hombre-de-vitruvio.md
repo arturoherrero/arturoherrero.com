@@ -2,7 +2,7 @@
 layout: post
 title: Hombre de Vitruvio
 description: Estudio de las proporciones ideales del cuerpo humano.
-tags: es
+tags: art
 ---
 
 <img style="width: 100%;" src="/assets/images/notes/vitruvian-man-leonardo-da-vinci.jpg" alt="Hombre de Vitruvio">

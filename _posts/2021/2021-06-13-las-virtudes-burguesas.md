@@ -2,7 +2,7 @@
 layout: post
 title: Las virtudes burguesas
 description: Ética para la era del comercio.
-tags: es
+tags: economy
 ---
 
 ![Las virtudes burguesas][1]

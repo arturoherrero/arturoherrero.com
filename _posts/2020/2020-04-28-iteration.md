@@ -2,7 +2,7 @@
 layout: post
 title: Iteration
 description: The ultimate sophistication.
-tags: en
+tags: ideas
 ---
 
 I recently read *Simplifying the Bull: How Picasso Helps to Teach Apple's

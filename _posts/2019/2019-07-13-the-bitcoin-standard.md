@@ -2,7 +2,7 @@
 layout: post
 title: The Bitcoin Standard
 description: The decentralized alternative to central banking.
-tags: en
+tags: economy
 ---
 
 ![The Bitcoin Standard by Saifedean Ammous][1]

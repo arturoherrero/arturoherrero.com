@@ -2,11 +2,11 @@
 layout: post
 title: Blogging Like a Hacker
 description: I can't imagine a simpler or better way to write a blog.
-tags: en
+tags: writing
 ---
 
 Hacking is an overused term for a simple concept: to explore the limits of what
-is possible doing something in a different way.
+is possible by doing something in a different way.
 
 In this case, I want to write and share some ideas. For me, writing is simply
 the act of putting some ideas in order. This is why I've always tried to focus
@@ -17,7 +17,7 @@ This site is built with [<s>toto</s>][2]{:target="_blank" rel="noreferrer"}
 text into HTML code. It is hosted on <s>Heroku</s>
 [GitHub Pages][4]{:target="_blank" rel="noreferrer"}.
 
-I can use my editor of choice and LiveReload is available during development to
+I can use my editor of choice, and LiveReload is available during development to
 automatically reload the content on the browser when files are modified.
 
 There are content management systems that are simpler, but one thing I have

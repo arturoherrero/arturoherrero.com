@@ -2,7 +2,7 @@
 layout: post
 title: "El decálogo de Billy Wilder"
 description: Los consejos del genio para los guionistas.
-tags: es
+tags: ideas
 ---
 
 1. El público es voluble.

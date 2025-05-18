@@ -2,7 +2,7 @@
 layout: post
 title: Tria iuris praecepta
 description: Los tres preceptos del derecho.
-tags: es
+tags: quotes
 ---
 
 De todas las definiciones que se han dado de justicia, quizás, la más conocida

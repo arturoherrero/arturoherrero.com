@@ -2,7 +2,7 @@
 layout: post
 title: Trivium et Quadrivium
 description: The seven liberal arts.
-tags: en
+tags: ideas
 ---
 
 The seven liberal arts, are those subjects or skills that in classical

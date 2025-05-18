@@ -2,7 +2,7 @@
 layout: post
 title: Intercept-Cache-Invoke Pattern
 description: I heard about the Intercept-Cache-Invoke pattern for the first time from Graeme Rocher implementing the dynamic finders on Grails.
-tags: en
+tags: programming
 ---
 
 I heard about the **Intercept-Cache-Invoke pattern** for the first time from

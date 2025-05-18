@@ -2,7 +2,7 @@
 layout: post
 title: El desayuno
 description: Tengo un hambre feroz esta mañana.
-tags: es
+tags: quotes
 ---
 
 > Me gustas cuando dices tonterías,  

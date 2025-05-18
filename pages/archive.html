@@ -12,11 +12,21 @@ redirect_from:
 
 <h2>{{ page.title }}</h2>
 
-<div class="articles">
-  {% for article in site.posts %}
-    <div class="article">
-      <span class="date">{{ article.date | date_to_string }}</span>
-      <a class="title" href="{{ article.url }}">{{ article.title }}</a>
+<div>
+  {% assign tags = site.tags | sort %}
+  {% for tag in tags %}
+    {% assign tag_slug = tag[0] %}
+    {% assign tag_info = site.data.tags[tag_slug] %}
+    <div>
+      <h3>{{ tag_info.name | default: tag_slug }}</h3>
+      <div class="articles">
+        {% for article in tag[1] %}
+          <div class="article">
+            <span class="date">{{ article.date | date_to_string }}</span>
+            <a class="title" href="{{ article.url }}">{{ article.title }}</a>
+          </div>
+        {% endfor %}
+      </div>
     </div>
   {% endfor %}
 </div>

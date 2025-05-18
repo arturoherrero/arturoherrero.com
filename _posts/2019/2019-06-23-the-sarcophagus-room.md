@@ -2,7 +2,7 @@
 layout: post
 title: The Sarcophagus Room
 description: Sir John Soane's Museum.
-tags: en
+tags: art
 ---
 
 ![The Sarcophagus Room][1]

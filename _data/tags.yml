@@ -1,0 +1,20 @@
+art:
+  name: "Art"
+design:
+  name: "Design"
+economy:
+  name: "Economy"
+ideas:
+  name: "Ideas"
+personal:
+  name: "Personal"
+programming:
+  name: "Programming"
+projects:
+  name: "Projects"
+quotes:
+  name: "Quotes"
+reading:
+  name: "Reading"
+writing:
+  name: "Writing"

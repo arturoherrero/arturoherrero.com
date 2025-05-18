@@ -2,7 +2,7 @@
 layout: post
 title: Improving Bash performance
 description: Performance is User eXperience.
-tags: en
+tags: programming
 ---
 
 I have gradually noticed the degradation of my terminal's performance when

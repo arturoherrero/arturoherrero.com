@@ -2,7 +2,7 @@
 layout: post
 title: Grandes epidemias y libros
 description: Aprendiendo sobre virus, plagas y pandemias.
-tags: es
+tags: reading
 ---
 
 ![Máscara puntiaguda][1]

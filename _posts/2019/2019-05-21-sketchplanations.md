@@ -2,7 +2,7 @@
 layout: post
 title: Sketchplanations
 description: Explanations in a sketch.
-tags: en
+tags: ideas
 ---
 
 Learn something new with [sketchplanations][5]{:target="_blank" rel="noreferrer"}.

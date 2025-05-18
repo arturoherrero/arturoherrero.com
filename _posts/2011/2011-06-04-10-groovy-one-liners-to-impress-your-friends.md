@@ -2,11 +2,10 @@
 layout: post
 title: 10 Groovy One Liners to Impress Your Friends
 description: I find that comparing programming languages is a worthwhile exercise.
-tags: en
-redirect_from: /2011/06/04/10-groovy-one-liners-to-impress-your-friends/
+tags: programming
 ---
 
-I find that comparing programming languages is a worthwhile exercise mainly
+I believe that comparing programming languages is a worthwhile exercise mainly
 because of the different techniques and styles that you are exposed to.
 
 After 10 [Scala]{:target="_blank" rel="noreferrer"} / [CoffeeScript]{:target="_blank" rel="noreferrer"} /
@@ -94,7 +93,7 @@ for (i in 1..100) { println "${i%3?'':'Fizz'}${i%5?'':'Buzz'}" ?: i }
 
 [Scala]: https://gist.github.com/mkaz/d11f8f08719d6d27bab5
 [CoffeeScript]: http://ricardo.cc/2011/06/02/10-CoffeeScript-One-Liners-to-Impress-Your-Friends.html
-[Ruby]: https://programmingzen.com/10-ruby-one-liners-to-impress-your-friends/
+[Ruby]: https://gist.github.com/ouyangzhiping/1058219
 [Haskell]: http://blog.fogus.me/2011/06/03/10-haskell-one-liners-to-impress-your-friends/
 [Clojure]: https://gist.github.com/klang/1007697
 [C#]: https://gist.github.com/1004837

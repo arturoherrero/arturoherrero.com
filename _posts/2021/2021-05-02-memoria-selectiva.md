@@ -2,7 +2,7 @@
 layout: post
 title: Memoria selectiva
 description: Un proceso de selección natural que conserva lo importante y elimina lo superfluo.
-tags: es
+tags: ideas
 ---
 
 > [...] De modo que no guardo de mí pasado más que lo que llevo detrás de la frente. En

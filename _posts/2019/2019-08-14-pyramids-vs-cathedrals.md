@@ -2,7 +2,7 @@
 layout: post
 title: Pyramids vs Cathedrals
 description: Monuments dedicated to death vs monuments dedicated to the triumph over death.
-tags: en
+tags: ideas
 ---
 
 > In many ways, the medieval cathedrals embody what is best about the human

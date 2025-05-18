@@ -2,7 +2,7 @@
 layout: post
 title: La individualidad humana
 description: ¿Qué nos hace diferentes y cómo aprovecharlo?
-tags: es
+tags: reading
 ---
 
 ![La individualidad humana][1]

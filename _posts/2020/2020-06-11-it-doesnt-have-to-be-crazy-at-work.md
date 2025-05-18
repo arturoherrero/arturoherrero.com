@@ -2,7 +2,7 @@
 layout: post
 title: It Doesn't Have to Be Crazy at Work
 description: The new way to work efficiently.
-tags: en
+tags: ideas
 ---
 
 ![It Doesn't Have to Be Crazy at Work][1]

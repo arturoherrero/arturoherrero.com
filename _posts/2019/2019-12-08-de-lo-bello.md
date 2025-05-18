@@ -2,7 +2,7 @@
 layout: post
 title: De lo bello
 description: "La belleza según el filósofo Plotino"
-tags: es
+tags: quotes
 ---
 
 > El alma debe ir ascendiendo en la contemplación de la belleza de manera

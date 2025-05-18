@@ -2,7 +2,7 @@
 layout: post
 title: Evolution of the Alphabet
 description: There is no such thing as an English alphabet.
-tags: en
+tags: writing
 ---
 
 ![Evolution of the Alphabet][1]

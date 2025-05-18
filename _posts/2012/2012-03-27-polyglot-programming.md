@@ -2,8 +2,7 @@
 layout: post
 title: Polyglot Programming
 description: Learning different languages allows us to solve problems with the most appropriate language.
-tags: en
-redirect_from: /2012/03/27/polyglot-programming/
+tags: programming
 ---
 
 How many programming languages do you know?
@@ -23,7 +22,7 @@ use to craft software. Just like regular engineers must understand the
 physical properties of different materials, we should understand the
 capabilities, strengths, and weaknesses of different languages. And when to
 apply them.  
-> – Neal Ford
+> —Neal Ford
 
 
 ### Polyglot JVM

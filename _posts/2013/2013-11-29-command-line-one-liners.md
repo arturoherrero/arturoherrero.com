@@ -2,8 +2,7 @@
 layout: post
 title: Command line one-liners
 description: I attended the SoCraTes UK 2013 unconference and I did a presentation about command line one-liners.
-tags: en
-redirect_from: /2013/11/29/command-line-one-liners/
+tags: programming
 ---
 
 I attended the [SoCraTes UK 2013][1]{:target="_blank" rel="noreferrer"} unconference. We had a space for lightning talks

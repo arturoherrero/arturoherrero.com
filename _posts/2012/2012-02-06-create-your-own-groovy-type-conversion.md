@@ -2,16 +2,15 @@
 layout: post
 title: Create your own Groovy type conversion
 description: Type conversion is a programming language technique for changing an object's data type into another.
-tags: en
-redirect_from: /2012/02/06/create-your-own-groovy-type-conversion/
+tags: programming
 ---
 
 ### Type conversion, the standard way
 
-_Type conversion_ -or _casting_- is a programming language technique for changing an
+_Type conversion_—or _casting_—is a programming language technique for changing an
 object's data type into another.
 
-I'm sure you are familiar with this code, which converts a String to an Integer.
+The following code converts a String to an Integer.
 
 ```groovy
 def number = (Integer)'1'
@@ -19,9 +18,9 @@ def number = '1'.toInteger()
 def number = '1' as Integer
 ```
 
-If we want to change the type of my own objects, we need to create a method to
+If we want to change the type of our own objects, we need to create a method to
 achieve this goal. We can copy object properties to another object in a generic way;
-if a property exists on target object, we can copy it from the source object.
+if a property exists on the target object, we can copy it from the source object.
 
 ```groovy
 class User {
@@ -51,7 +50,7 @@ class AdminUser {
 }
 ```
 
-It is now possible to do something like this:
+Now, it is possible to do something like this:
 
 ```groovy
 adminUser = user.toAdminUser()
@@ -60,13 +59,14 @@ adminUser = user.toAdminUser()
 
 ### Type conversion, the fancy way
 
-Great, but we may want to use this fancy way to coerce one type into another:
+This is great, but we may want to use this fancy way to coerce one type into another:
 
 ```groovy
 adminUser = user as AdminUser
 ```
 
-Simple: [Groovy supports operator overloading][1]{:target="_blank" rel="noreferrer"} and, therefore, creating your own type conversion is really easy - we can override the
+It's simple because [Groovy supports operator overloading][1]{:target="_blank" rel="noreferrer"}
+and, therefore, creating your own type conversion is really easy—we can override the
 [asType() method][2]{:target="_blank" rel="noreferrer"}.
 
 ```groovy

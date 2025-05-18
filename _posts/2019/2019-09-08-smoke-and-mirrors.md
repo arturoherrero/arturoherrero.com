@@ -2,7 +2,7 @@
 layout: post
 title: Smoke and Mirrors
 description: The psychology of magic.
-tags: en
+tags: ideas
 ---
 
 One of my favourites places in the world is the [Welcome Collection][2]{:target="_blank" rel="noreferrer"}.

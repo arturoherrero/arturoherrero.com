@@ -2,7 +2,7 @@
 layout: post
 title: Cómo hacer filosofía en casa
 description: Umberto Eco aconseja unos cuantos libritos de filosofía.
-tags: es
+tags: reading
 ---
 
 ![Cómo viajar con un salmón][1]

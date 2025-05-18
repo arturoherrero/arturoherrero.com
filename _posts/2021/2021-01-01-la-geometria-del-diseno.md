@@ -2,7 +2,7 @@
 layout: post
 title: La geometría del diseño
 description: Estudios sobre la proporción y la composición.
-tags: es
+tags: design
 ---
 
 ![Proporción y naturaleza][1]

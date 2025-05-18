@@ -2,7 +2,7 @@
 layout: post
 title: Siguiendo mi camino
 description: "Humanismo vs Especialización"
-tags: es
+tags: reading
 ---
 
 ![Siguiendo mi camino][1]

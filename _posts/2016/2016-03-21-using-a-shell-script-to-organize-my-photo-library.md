@@ -2,7 +2,7 @@
 layout: post
 title: Using a shell script to organize my photo-library
 description: My plan was to organize my photo library by using the EXIF data stored in each file.
-tags: en
+tags: programming
 ---
 
 I've been taking a lot of pictures since last year. As a consequence of my

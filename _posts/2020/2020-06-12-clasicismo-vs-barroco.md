@@ -2,7 +2,7 @@
 layout: post
 title: Clasicismo vs Barroco
 description: Una clasificación para lo humano.
-tags: es
+tags: art
 ---
 
 | Lo Clásico                | Lo Barroco                    |

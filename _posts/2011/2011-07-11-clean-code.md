@@ -2,8 +2,7 @@
 layout: post
 title: Clean Code
 description: A Handbook of Agile Software Craftsmanship.
-tags: en
-redirect_from: /2011/07/11/clean-code/
+tags: programming
 ---
 
 ![Clean Code][5]
@@ -59,9 +58,7 @@ I try to summarize a few ideas from the book:
 
     To create a good emergent design we should run all tests, eliminate duplication,
     express the intention in the code and minimize the number of classes and methods.
-    These are Kent Beck's *Four Rules of Simple Design*:
-    - Martin Fowler on [Beck Design Rules][2]{:target="_blank" rel="noreferrer"}.
-    - [Understanding the Four Rules of Simple Design][3]{:target="_blank" rel="noreferrer"} by Corey Haines.
+    These are [Kent Beck's *Four Rules of Simple Design*][2]{:target="_blank" rel="noreferrer"}.
 
 ---
 
@@ -76,6 +73,5 @@ I did a talk at the Agile Madrid User Group about this book.
 
 [1]: https://www.pearson.com/us/higher-education/program/Martin-Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/PGM63937.html
 [2]: https://martinfowler.com/bliki/BeckDesignRules.html
-[3]: https://leanpub.com/4rulesofsimpledesign
 [4]: https://drupal.star.bnl.gov/STAR/book/export/html/5692
 [5]: /assets/images/posts/clean-code.jpg

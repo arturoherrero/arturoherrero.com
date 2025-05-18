@@ -2,7 +2,7 @@
 layout: post
 title: New representations of thought
 description: A powerful new form of representation affects everything, forever.
-tags: en
+tags: design
 ---
 
 > New **representations of thought** — written language, numerals, mathematical

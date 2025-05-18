@@ -2,7 +2,7 @@
 layout: post
 title: Ulises y la comadreja
 description: Una simpática introducción a los mercados financieros.
-tags: es
+tags: economy
 ---
 
 ![Ulises y la comadreja][1]

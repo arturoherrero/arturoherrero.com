@@ -2,8 +2,7 @@
 layout: post
 title: Managing Notebooks
 description: I prefer notebooks over other devices and media. Do you know Bullet Journal note-taking system?
-tags: en
-redirect_from: /2012/12/04/managing-notebooks/
+tags: personal
 ---
 
 There are a lot of tools to organize and get work done, some are more focused

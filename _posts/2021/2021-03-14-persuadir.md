@@ -2,7 +2,7 @@
 layout: post
 title: Persuadir
 description: La argumentación no suele ser útil, hay que persuadir.
-tags: es
+tags: writing
 ---
 
 [John Maynard] Keynes pensaba –teniendo en cuenta la teoría del conocimiento

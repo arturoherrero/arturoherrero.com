@@ -2,7 +2,7 @@
 layout: post
 title: Extreme Ownership
 description: A good leader has nothing to prove, but everything to prove.
-tags: en
+tags: ideas
 ---
 
 ![Extreme Ownership][1]

@@ -2,7 +2,7 @@
 layout: post
 title: "Nassim Nicholas Taleb's ideas"
 description: It is a curse to have ideas that people understand only when it is too late.
-tags: en
+tags: ideas
 ---
 
 I consider Nassim Nicholas Taleb's ideas and work essential. All his

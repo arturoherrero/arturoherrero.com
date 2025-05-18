@@ -2,7 +2,7 @@
 layout: post
 title: El mundo de ayer
 description: "Memorias de un europeo"
-tags: es
+tags: reading
 ---
 
 ![El mundo de ayer de Stefan Zweig][1]

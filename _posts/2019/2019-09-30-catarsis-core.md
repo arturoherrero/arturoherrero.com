@@ -2,7 +2,7 @@
 layout: post
 title: Catarsis • Core
 description: Andrzej Szczeklik, medicina y humanismo.
-tags: es
+tags: reading
 ---
 
 Navegando por el catálogo de la editorial [Acantilado][3]{:target="_blank" rel="noreferrer"}

@@ -2,7 +2,7 @@
 layout: post
 title: Principios
 description: Una carta a Cicerón sin respuesta sobre la senectud política.
-tags: es
+tags: quotes
 ---
 
 ![De senectute politica][1]

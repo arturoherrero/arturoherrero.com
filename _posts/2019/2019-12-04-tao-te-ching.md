@@ -2,7 +2,7 @@
 layout: post
 title: "Tao Te Ching"
 description: El texto clásico de Lao-Tse.
-tags: es
+tags: quotes
 ---
 
 > Actúa sin actuar,  

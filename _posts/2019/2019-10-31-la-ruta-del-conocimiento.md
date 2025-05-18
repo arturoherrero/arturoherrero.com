@@ -2,7 +2,7 @@
 layout: post
 title: La ruta del conocimiento
 description: La historia de cómo se perdieron y redescubrieron las ideas del mundo clásico.
-tags: es
+tags: reading
 ---
 
 ![La ruta del conocimiento de Violet Moller][1]

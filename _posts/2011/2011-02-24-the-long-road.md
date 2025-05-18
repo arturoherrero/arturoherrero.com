@@ -2,8 +2,7 @@
 layout: post
 title: The Long Road
 description: I believe that continuous learning is a core skill everyone should have.
-tags: en
-redirect_from: /2011/02/24/the-long-road/
+tags: reading
 ---
 
 I believe that continuous learning is a core skill everyone should have.

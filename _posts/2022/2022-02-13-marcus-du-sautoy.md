@@ -2,7 +2,7 @@
 layout: post
 title: Marcus du Sautoy
 description: Un gran divulgador científico.
-tags: es
+tags: reading
 ---
 
 Me gusta mucho Marcus du Sautoy, es un gran divulgador científico. He leído

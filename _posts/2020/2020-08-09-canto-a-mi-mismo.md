@@ -2,7 +2,7 @@
 layout: post
 title: Canto a mí mismo
 description: Yo soy grande, contengo multitudes.
-tags: es
+tags: quotes
 ---
 
 > El pasado y el presente se marchitan,  
