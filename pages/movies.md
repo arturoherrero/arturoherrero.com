@@ -85,6 +85,7 @@ I love cinema. This is the list of the best movies I've watched.
 * Uno, dos, tres. *Billy Wilder. 1961*
 * Viridiana. *Luis Buñuel. 1961*
 * Atraco a las tres. *José María Forqué. 1962*
+* Harakiri. *Masaki Kobayashi. 1962*
 * El infierno del odio. *Akira Kurosawa. 1963*
 * El verdugo. *Luis García Berlanga. 1963*
 * La gran evasión. *John Sturges. 1963*

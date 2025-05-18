@@ -20,7 +20,7 @@ I'm a casual gamer. This is the list of all the games I've played.
 8. Balatro. *Xbox Cloud Gaming* ⭑
 9. Control: Ultimate Edition. *Xbox Cloud Gaming*
 10. Commandos: Origins. *Xbox Cloud Gaming*
-11. Blue Prince. *Xbox Cloud Gaming*
+11. Blue Prince. *Xbox Cloud Gaming* ⭑
 
 
 ### 2024
