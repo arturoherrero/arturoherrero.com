@@ -394,6 +394,10 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - El viajante. *2016*
 - Un héroe. *2021*
 
+##### Park Chan-wook
+- La doncella (The Handmaiden). *2016*
+- Decision to Leave. *2022*
+
 ##### Greta Gerwig
 - Lady Bird. *2017*
 - Mujercitas. *2019*

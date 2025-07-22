@@ -29,6 +29,15 @@ I love reading. This is the complete list of all the books I've read.
 17. Breve historia del saber. *Charles van Doren*
 18. Séptimo: no robarás. Hurto y mercado en la historia de Occidente. *Paolo Prodi*
 19. El atlas fantasma. *Edward Brooke-Hitching*
+20. Una película para cada año de tu vida. *Alejandro G. Calvo* ⭑
+21. El oficio de vivir. *Cesare Pavese*
+22. El canon del jazz: Los 250 temas imprescindibles. *Ted Gioia*
+23. Historia de la navegación. *Donald S. Johnson & Juha Nurminen*
+24. La gramática de la arquitectura. *Emily Cole (editor)*
+25. Hollywood Babilonia I. *Kenneth Anger*
+26. Hollywood Babilonia II. *Kenneth Anger*
+27. Geometría para turistas. *Claudi Alsina*
+28. La vía del samurái. Libro de los cinco anillos y Hagakure. *Hitoshi Oshima (editor)*
 
 
 ### 2024
