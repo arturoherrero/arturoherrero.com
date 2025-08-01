@@ -43,6 +43,11 @@ permalink: /editor/
     padding: 0 50px;
   }
 
+  /* Fix for removing any middle visual artifact */
+  .CodeMirror-scroll {
+    overflow: hidden !important;
+  }
+
   /* Keystrokes counter styles */
   .keystroke-meter {
     height: 30px;
