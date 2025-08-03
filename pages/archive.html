@@ -13,14 +13,12 @@ redirect_from:
 <h2>{{ page.title }}</h2>
 
 <div>
-  {% assign tags = site.tags | sort %}
-  {% for tag in tags %}
-    {% assign tag_slug = tag[0] %}
-    {% assign tag_info = site.data.tags[tag_slug] %}
+  {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {% for year in posts_by_year %}
     <div>
-      <h3>{{ tag_info.name | default: tag_slug }}</h3>
+      <h3>{{ year.name }}</h3>
       <div class="articles">
-        {% for article in tag[1] %}
+        {% for article in year.items %}
           <div class="article">
             <span class="date">{{ article.date | date_to_string }}</span>
             <a class="title" href="{{ article.url }}">{{ article.title }}</a>
