@@ -5,7 +5,7 @@ description: Type conversion is a programming language technique for changing an
 tags: programming
 ---
 
-### Type conversion, the standard way
+### Type conversion. Standard way
 
 _Type conversion_—or _casting_—is a programming language technique for changing an
 object's data type into another.
@@ -57,9 +57,10 @@ adminUser = user.toAdminUser()
 ```
 
 
-### Type conversion, the fancy way
+### Type conversion. Groovy way
 
-This is great, but we may want to use this fancy way to coerce one type into another:
+That approach was great, but we may want to use the Groovy way to coerce one
+type into another:
 
 ```groovy
 adminUser = user as AdminUser

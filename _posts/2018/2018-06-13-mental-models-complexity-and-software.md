@@ -5,9 +5,8 @@ description: I was invited to speak at Pamplona Software Crafters 2018.
 tags: ideas
 ---
 
-I was invited to speak at [Pamplona Software Crafters
-2018][1]{:target="_blank" rel="noreferrer"}, and I'm glad to have contributed with my talk about
-mental models, complexity and software.
+I was invited to speak at [Pamplona Software Crafters 2018][1]{:target="_blank" rel="noreferrer"},
+and I'm glad to have contributed with my talk about mental models, complexity and software.
 
 
 ### Software is complex
@@ -22,7 +21,7 @@ We can also think of complexity in terms of **[accidental complexity vs.
 essential complexity][2]{:target="_blank" rel="noreferrer"}**, and the difficulty of handling
 states in object-oriented programming compared to functional programming.
 
-And of course, **the lifecyle of a software project** involves significant
+And of course, **the lifecycle of a software project** involves significant
 complexity as well; software teams, repositories, continuous integration, testing,
 deployments, monitoring, alerts, methodologies, etc...
 
@@ -60,7 +59,7 @@ abstraction layer, but also to understand one level above it.
 carry in your mind to help you interpret what surrounds you and understand the
 relationship between things**.
 
-The software craftmanship community have a clear idea of what mastery is, taken
+The software craftsmanship community has a clear idea of what mastery is, taken
 to the extremes by the inspiring [Jiro Dreams of Sushi][5]{:target="_blank" rel="noreferrer"}
 documentary. However, I am also interested in the idea of mastering a
 specialization yet also having a broad understanding of many other disciplines.

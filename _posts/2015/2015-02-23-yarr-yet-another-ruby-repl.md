@@ -5,8 +5,9 @@ description: YARR is a Ruby REPL (it’s just a hobby, it won’t be big and pro
 tags: projects
 ---
 
-**[YARR (Yet Another Ruby REPL)][1]{:target="_blank" rel="noreferrer"}** is a Ruby REPL (it's just a hobby, it won't be big and
-professional like Pry). YARR was inspired by groovysh<sup>[1][2]{:target="_blank" rel="noreferrer"}</sup>,
+**[YARR (Yet Another Ruby REPL)][1]{:target="_blank" rel="noreferrer"}** is a
+Ruby REPL (it's just a hobby, it won't be big and professional like Pry).
+YARR was inspired by groovysh<sup>[1][2]{:target="_blank" rel="noreferrer"}</sup>,
 IRB<sup>[2][3]{:target="_blank" rel="noreferrer"}</sup>, Pry<sup>[3][4]{:target="_blank" rel="noreferrer"}</sup>, Bash
 <sup>[4][5]{:target="_blank" rel="noreferrer"}</sup> and Vim<sup>[5][6]{:target="_blank" rel="noreferrer"}</sup>.
 
@@ -14,7 +15,7 @@ IRB<sup>[2][3]{:target="_blank" rel="noreferrer"}</sup>, Pry<sup>[3][4]{:target=
 
 A read–eval–print loop (REPL) is an interactive environment that takes user
 inputs, evaluates them, and returns the result to the user. A simple
-REPL to evaluate single valid lines of Ruby code, could be something like this:
+REPL that evaluates single valid lines of Ruby code, could be something like this:
 
 ```ruby
 loop do
@@ -24,8 +25,8 @@ loop do
 end
 ```
 
-I started to play with this idea and finally I build YARR that is a command-line
-application which allows easy access to evaluate Ruby expressions, define classes
+I started to play with this idea and finally I built YARR that is a command-line
+application which allows you to easily evaluate Ruby expressions, define classes
 and run simple experiments.
 
 
@@ -37,7 +38,7 @@ wanted to use the Ruby standard libraries without any external gem.
 #### 1. Method names don't have restrictions
 
 Method names in Ruby may contain upper-case and lower-case letters, numbers,
-underscores `_` and the punctation signs `!`, `?`, `=`.
+underscores `_` and the punctuation signs `!`, `?`, `=`.
 
 A method name can't begin with a number and the characters `!`, `?` and `=` can
 only appear at the end.

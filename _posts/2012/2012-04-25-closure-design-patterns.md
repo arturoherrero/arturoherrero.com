@@ -1,26 +1,25 @@
 ---
 layout: post
-title: Closure Design Patterns
-description: There are a lots of documentation about software design patterns, but I’m interesting in closure design patterns.
+title: Closure design patterns
+description: There is a lot of documentation about software design patterns, but I’m interested in closure design patterns.
 tags: programming
 ---
 
-### Design Patterns
+### Design patterns
 
-These days I'm learning design patterns. There are a lots of documentation
-about software design patterns, but I'm interesting in **closure design
-patterns**.*
+I'm learning design patterns. There is a lot of documentation about software
+design patterns, but I'm interested in **closure design patterns**.*
 
 Many patterns imply object-orientation, so may not be as applicable in dynamic
 languages. Peter Norvig demonstrates that 16 out of 23 patterns in the Design
 Patterns book are simplified or eliminated, [Design Patterns in Dynamic
 Languages][1]{:target="_blank" rel="noreferrer"}.
 
-I've found an interesting presentation of Venkat Subramaniam about [Design
-Patterns in Java and Groovy][2]{:target="_blank" rel="noreferrer"} and another presentation of Neal Ford about
-[Design Patterns in Dynamic Languages][3]{:target="_blank" rel="noreferrer"}. Here, I extract some patterns of
-these presentations that involve closures and add others patterns based on my
-own experience.
+I've found an interesting presentation of Venkat Subramaniam about
+[Design Patterns in Java and Groovy][2]{:target="_blank" rel="noreferrer"},
+and another presentation of Neal Ford about [Design Patterns in Dynamic Languages][3]{:target="_blank" rel="noreferrer"}.
+Here, I extract some patterns of these presentations that involve closures and
+add others patterns based on my own experience.
 
 You can also find the same examples for Ruby here: [Closure Design Patterns. Ruby Edition][4].
 
@@ -29,11 +28,11 @@ What I'm really trying to get at is how we can use tools such as first-class
 functions, lambdas and closures when implementing design patterns.</sup>
 
 
-### Closure Design Patterns
+### Closure design patterns
 
 #### Execute Around Method
 
-A pair of operation that needs to be performed before and after operations.
+A pair of operations that need to be performed before and after operations.
 
 ```groovy
 def operations(closure) {

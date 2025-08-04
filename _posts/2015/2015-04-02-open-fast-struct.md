@@ -10,9 +10,12 @@ After having a lot of fun building [YARR][1], I have built a new Ruby gem.
 **[OpenFastStruct][2]{:target="_blank" rel="noreferrer"}** is a
 data structure, similar to an OpenStruct, that allows the definition of
 arbitrary attributes with their accompanying values. It benchmarks ~3x slower
-than a Hash, but **it's ~4x faster than OpenStruct**.
+than a Hash, but **it's ~4x faster than OpenStruct**. It's faster because it
+uses simple hash storage with `method_missing` instead of expensive
+`define_method` calls.
 
-The project was featured on [issue #239 of Ruby Weekly newsletter][3]{:target="_blank" rel="noreferrer"} and was a Ruby trending repository on GitHub for two days.
+The project was featured on [issue #239 of Ruby Weekly newsletter][3]{:target="_blank" rel="noreferrer"}
+and was a Ruby trending repository on GitHub for two days.
 
 
 ### Examples
@@ -77,10 +80,10 @@ puts person.address.number  # -> 4
 
 ### Benchmarks
 
-Probably you heard that you should never, ever use OpenStruct because the
+You probably heard that you should never, ever use OpenStruct because the
 performance penalty is prohibitive. You can use OpenFastStruct instead!
 
-#### Comparation between Hash, OpenFastStruct and OpenStruct
+#### Comparison between Hash, OpenFastStruct and OpenStruct
 
     Calculating -------------------------------------
                     Hash    25.518k i/100ms

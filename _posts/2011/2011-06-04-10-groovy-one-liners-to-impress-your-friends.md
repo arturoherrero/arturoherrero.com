@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 Groovy One Liners to Impress Your Friends
+title: 10 Groovy one-liners to impress your friends
 description: I find that comparing programming languages is a worthwhile exercise.
 tags: programming
 ---
@@ -9,24 +9,24 @@ I believe that comparing programming languages is a worthwhile exercise mainly
 because of the different techniques and styles that you are exposed to.
 
 After 10 [Scala]{:target="_blank" rel="noreferrer"} / [CoffeeScript]{:target="_blank" rel="noreferrer"} /
-[Ruby]{:target="_blank" rel="noreferrer"} / [Haskell]{:target="_blank" rel="noreferrer"}
-/ [Clojure]{:target="_blank" rel="noreferrer"} /[C#]{:target="_blank" rel="noreferrer"} / [F#]{:target="_blank" rel="noreferrer"}
-/ [Nim]{:target="_blank" rel="noreferrer"} / [Swift]{:target="_blank" rel="noreferrer"}
-one liners to impress your friends, here are the Groovy one liners.
+[Ruby]{:target="_blank" rel="noreferrer"} / [Haskell]{:target="_blank" rel="noreferrer"} /
+[Clojure]{:target="_blank" rel="noreferrer"} / [C#]{:target="_blank" rel="noreferrer"} /
+[F#]{:target="_blank" rel="noreferrer"} / [Nim]{:target="_blank" rel="noreferrer"} /
+[Swift]{:target="_blank" rel="noreferrer"} one-liners to impress your friends, here are the Groovy one-liners.
 
-#### 1. Multiple Each Item in a List by 2
+#### 1. Multiply each item in a list by 2
 
 ```groovy
 (1..10)*.multiply(2)
 ```
 
-#### 2. Sum a List of Numbers
+#### 2. Sum a list of numbers
 
 ```groovy
 (1..1000).sum()
 ```
 
-#### 3. Verify if Exists in a String
+#### 3. Verify if exists in a string
 
 ```groovy
 def wordList = ['groovy', 'akka', 'grails framework', 'spock', 'typesafe']
@@ -34,14 +34,14 @@ def tweet = 'This is an example tweet talking about groovy and spock.'
 wordList.any { word -> tweet.contains(word) }
 ```
 
-#### 4. Read in a File
+#### 4. Read in a file
 
 ```groovy
 def fileText = new File('data.txt').text
 def fileLines = new File('data.txt').readLines()
 ```
 
-#### 5. Happy Birthday to You!
+#### 5. Happy Birthday to You
 
 ```groovy
 (1..4).each { println 'Happy Birthday ' + ((it == 3) ? 'dear Arturo' : 'to You') }
@@ -53,28 +53,28 @@ def fileLines = new File('data.txt').readLines()
 def (passed, failed) = [49, 58, 76, 82, 88, 90].split{ it > 60 }
 ```
 
-#### 7. Fetch and Parse an XML web service
+#### 7. Fetch and parse an XML web service
 
 ```groovy
-def results = new XmlSlurper().parse('http://search.twitter.com/search.atom?&q=groovy')
+def results = new XmlSlurper().parse('http://arturoherrero.com/index.xml')
 ```
 
-#### 8. Find minimum (or maximum) in a List
+#### 8. Find minimum (or maximum) in a list
 
 ```groovy
 [14, 35, -7, 46, 98].min()
 [14, 35, -7, 46, 98].max()
 ```
 
-#### 9. Parallel Processing
+#### 9. Parallel processing
 
 ```groovy
 import groovyx.gpars.*
 GParsPool.withPool { def result = dataList.collectParallel { processItem(it) } }
 ```
 
-<sup>Using [Gpars]{:target="_blank" rel="noreferrer"} that offers intuitive and safe ways to
-handle Groovy tasks concurrently.</sup>
+<sup>Using [Gpars]{:target="_blank" rel="noreferrer"} that offers intuitive and
+safe ways to handle Groovy tasks concurrently.</sup>
 
 #### 10. Sieve of Eratosthenes
 
@@ -84,7 +84,7 @@ def t = 2..100
 println t
 ```
 
-#### 11. Bonus: FizzBuzz
+#### Bonus: FizzBuzz
 
 ```groovy
 for (i in 1..100) { println "${i%3?'':'Fizz'}${i%5?'':'Buzz'}" ?: i }

@@ -8,12 +8,16 @@ tags: programming
 ![Clean Code][5]
 {: .side-image }
 
-[Clean Code: A Handbook of Agile Software Craftsmanship][1]{:target="_blank" rel="noreferrer"}
-is a book that every developer should read.
+[Clean Code: A Handbook of Agile Software Craftsmanship][1]{:target="_blank"
+rel="noreferrer"} is a book that every developer should read, especially at the
+beginning of their careers when many basic programming concepts need to be
+settled.
 
-I try to summarize a few ideas from the book:
+The following is a short summary with the main ideas from the book. Below you
+can also find my talk from the Agile Madrid User Group about this book, which
+covers many different examples.
 
-- #### Meaningful Names
+- #### Meaningful names
 
     The first step to writing good code is that names have meaning. The
     variables, methods and classes should have a good name to know why they
@@ -21,7 +25,7 @@ I try to summarize a few ideas from the book:
 
 - #### Functions
 
-    The functions have to be small, should do one thing and should do well,
+    The functions have to be small, should do one thing and do it well,
     maintaining a single level of abstraction. Also, we must try to reduce the
     number of arguments.
 
@@ -31,38 +35,34 @@ I try to summarize a few ideas from the book:
 
 - #### Formatting
 
-    The formatting of the code has one purpose: readability. The newspapper methapor:
-    when reading code, the first functions that we find have to
-    be the main and if we want we can go into details below.
+    The formatting of the code has one purpose: readability. The newspaper
+    metaphor: when reading code, the main functions should appear first, and we
+    can go into details below.
 
-- #### Objects And Data Structures
+- #### Objects and data structures
 
-    Objects hide their data and expose functions to operate with them, in the
-    other hand we expose data structures directly.
+    Objects hide their data and expose functions to operate with them, on the
+    other hand, data structures expose their data directly.
 
-- #### Error Handling
+- #### Error handling
 
     Try to separate the logic of our application from the exception handler and
     don't pass or return null values from functions.
 
-- #### Unit Test
+- #### Unit test
 
-    The tests are a very important part building an applications. Ideally, do TDD
+    Tests are a very important part of building applications. Ideally, do TDD
     and create test code as good as the code of the rest of the application.
 
 - #### Classes
 
-    Classes must be small with a high cohesion.
+    Classes must be small with high cohesion.
 
 - #### Emergence
 
     To create a good emergent design we should run all tests, eliminate duplication,
-    express the intention in the code and minimize the number of classes and methods.
+    express the intention in the code, and minimize the number of classes and methods.
     These are [Kent Beck's *Four Rules of Simple Design*][2]{:target="_blank" rel="noreferrer"}.
-
----
-
-I did a talk at the Agile Madrid User Group about this book.
 
 <div class="iframe-container iframe-519">
   <iframe src="https://www.slideshare.net/slideshow/embed_code/8036914"

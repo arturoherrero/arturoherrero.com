@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Using a shell script to organize my photo-library
+title: Organizing my photos with a shell script
 description: My plan was to organize my photo library by using the EXIF data stored in each file.
 tags: programming
 ---
 
 I've been taking a lot of pictures since last year. As a consequence of my
-newly acquired hobby, I now have tens of gigabytes of data stored in my
+newly acquired hobby, I now have tens of gigabytes of data stored on my
 computer. I decided to organize and store all those files in a remote hard
 drive.
 
@@ -23,7 +23,7 @@ $ tree
 └── IMG_3909.JPG
 ```
 
-And here's how I'd like to structure it:
+Here is how I'd like to structure it:
 
 ```shell
 $ tree
@@ -38,7 +38,7 @@ $ tree
         └── IMG_3909.JPG
 ```
 
-And that's the shell script that's going to do the job:
+Finally, the shell script that's going to do the job:
 
 ```shell
 #!/usr/bin/env bash

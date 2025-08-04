@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Closure Design Patterns. Ruby Edition
+title: Closure design patterns. Ruby edition
 description: Back in 2012 I wrote an article about closure design patterns using Groovy. I have decided to use Ruby this time.
 tags: programming
 ---
 
 Back in 2012 I wrote an article about **[closure design patterns][1]**. I used
 Groovy as a programming language but now I have decided to use Ruby (the
-programming language that I mainly have been using for two years). This article
+programming language that I have mainly been using for two years). This article
 was featured on [issue #231 of Ruby Weekly newsletter][2]{:target="_blank" rel="noreferrer"}.
 
 I want to keep the same examples, so I have created a helper method to make
@@ -22,7 +22,7 @@ end
 
 #### Execute Around Method
 
-A pair of operations that needs to be performed before and after operations.
+A pair of operations that need to be performed before and after operations.
 
 ```ruby
 def operations(&block)
@@ -45,11 +45,7 @@ Specifies the behavior of an object at runtime.
 
 ```ruby
 def select_values(number, &block)
-  list = []
-  1.upto(number) do |i|
-    list << i if block.call(i)
-  end
-  return list
+  1.upto(number).select(&block)
 end
 
 assert [2, 4, 6, 8, 10] == select_values(10) { |i| i % 2 == 0 }  # even
@@ -121,10 +117,9 @@ Ensures that a resource is deterministically disposed of once it goes out of sco
 
 ```ruby
 def with_list_of_words_for_each_line(file, &block)
-  file = File.open(file)
-  file.each_line { |line| block.call(line.split(' ')) }
-ensure
-  file.close
+  File.open(file) do |f|
+    f.each_line { |line| block.call(line.split(' ')) }
+  end
 end
 
 with_list_of_words_for_each_line(file) do |word_list|
@@ -162,10 +157,10 @@ Defines a family of interchangeable algorithms.
 
 ```ruby
 calc_mult = ->(n, m) { n * m }
-calc_adds = lambda do |n, m|
+calc_adds = -> (n, m) do
   result = 0
   n.times { result += m }
-  return result
+  result
 end
 
 calc_strategies = [calc_mult, calc_adds]

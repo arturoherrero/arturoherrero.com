@@ -5,14 +5,11 @@ description: I attended the SoCraTes UK 2013 unconference and I did a presentati
 tags: programming
 ---
 
-I attended the [SoCraTes UK 2013][1]{:target="_blank" rel="noreferrer"} unconference. We had a space for lightning talks
-and I did a presentation about command line one-liners.
+I attended the [SoCraTes UK 2013][1]{:target="_blank" rel="noreferrer"} unconference.
+We had a space for lightning talks and I did a presentation about command line one-liners.
 
-I love Unix and I talked about terminal commands so I used [Terminal
-Keynote][2]{:target="_blank" rel="noreferrer"}, a hack for terminal-based talks.
-
-<sup>Contribute to the list with your own commands in the [command line one-liners
-repository][3]{:target="_blank" rel="noreferrer"}.</sup>
+I love Unix and I talked about terminal commands so I used [Terminal Keynote][2]{:target="_blank" rel="noreferrer"},
+a hack for terminal-based talks.
 
 ![Terminal Keynote][4]
 
@@ -36,7 +33,7 @@ Create a script of the last executed command
 $ echo "!!" > script.sh
 ```
 
-Reuse all parameter of the previous command line
+Reuse all parameters of the previous command line
 
 ```shell
 $ echo cd .
@@ -186,14 +183,6 @@ Search for a <pattern> string inside all files in the current directory
 
 ```shell
 $ grep -RnsI --color=auto <pattern> *
-
-Beyond grep
-
-_   /|
-\'o.O'
-=(___)=
-  U    ack!
-
 $ ack <pattern>
 ```
 
@@ -357,7 +346,7 @@ $ cal | sed "s/.*/ & /;s/ $(date +%d) / [] /"
 $ cal | sed "s/.*/ & /;s/ $(date +%d) / $(printf '\e[0;31m[]\e[0m') /"
 ```
 
-Show File System Hierarchy
+Show file system hierarchy
 
 ```shell
 $ man hier

@@ -22,20 +22,20 @@ users. Examples:
 - I switched the server to DigitalOcean to save money.
 - Caching images requires a lot of disk space, so a cron job deleted images
   that had not been accessed for 30 days.
-- Working on a directory with 362444 files was hard. You get errors for normal
+- Working in a directory with 362,444 files was hard. You get errors for normal
   operations: `/bin/rm: cannot execute [Argument list too long]`.
-- A Docker image was the way to go, but a snapshot of the server was enough.
+- A Docker image was the way to go, but taking snapshots of the server was enough.
 - Sometimes images that gave errors were requested, but a simple text file was
   enough to filter out the bad URLs.
 
 We were lucky with the server and, despite receiving constant authentication
 attempts, there were no major problems. Our uptime was practically the same as
-the DigitalOcean or TheTVDB uptime. I suspect that a simple command
-line one-liner Denial-of-Service attack from any laptop would have given us a
+the DigitalOcean's or TheTVDB's uptime. I suspect that a simple command-line
+one-liner Denial-of-Service attack from any laptop would have given us a
 lot of headaches, but that was an MVC that I did not have to solve.
 
 The project is open source [arturoherrero/ishows][2]{:target="_blank" rel="noreferrer"}.
-Here are the glorious ~50 lines of code that have served a thousand million images.
+Here are the glorious ~50 Ruby lines of code that have served a thousand million images.
 
 ```ruby
 require "logger"
