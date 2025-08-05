@@ -202,7 +202,8 @@ p {
 }
 
 p > code,
-li > code {
+li > code,
+a > code {
   font-family: Menlo, monospace;
   background-color: #f8f8f8;
   border: 1px solid silver;
