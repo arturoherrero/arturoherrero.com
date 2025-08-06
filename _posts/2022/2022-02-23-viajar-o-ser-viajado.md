@@ -9,7 +9,7 @@ He viajado de muchas formas, desde mochilero con un pase de Interrail
 hasta siendo arrastrado a autocares con paradas programadas. Viajes de un día
 o de varias semanas. Con planificación o sin ninguna en absoluto.
 
-Siempre asumí que viajar era ver muchas cosas –cuantas más mejor–, quizás
+Siempre asumí que viajar era ver cosas—cuantas más mejor—, quizás
 aprender algo nuevo y regresar a casa con las fotografías pertinentes. Fotos a
 las que rara vez he regresado. Odias a los turistas, pero te comportas como tal.
 

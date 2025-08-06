@@ -22,11 +22,11 @@ may speed it up, but you have to be careful not to forget to add
 new files yourself (see 'git help status').
 ```
 
-I'd  still like to show untracked files, so the solution was not to use other
+I'd still like to show untracked files, so the solution was not to use other
 options but to improve the performance. I tried some commands like `git prune` or
 `git gc` with no improvement. I also discovered some relevant options when working
-with large repositories, one of the most interesting being [`feature.manyFiles`][2]{:target="_blank" rel="noreferrer"}
-, which enables config options that optimize for repositories with many files in
+with large repositories, one of the most interesting being [`feature.manyFiles`][2]{:target="_blank" rel="noreferrer"},
+which enables config options that optimize for repositories with many files in
 the working directory.
 
 ```sh
@@ -39,7 +39,8 @@ accelerate the Git workflow, no matter the size of the repository. The tool sets
 advanced Git config options, maintains the repositories in the background,
 and helps reducing data sent across the network.
 
-I've installed the tools:
+I've installed the following tools:
+
 ```sh
 $ brew tap microsoft/git
 $ brew install --cask scalar
@@ -47,6 +48,7 @@ $ brew install watchman
 ```
 
 And then, from the working directory of the Git repository, I've registered it:
+
 ```sh
 $ scalar register
 ```
@@ -56,8 +58,8 @@ Although I sometimes have [problems with watchman invocations][8]{:target="_blan
 
 ### Improving Git prompt status performance
 
-Another element with very poor performance is my prompt <sup>([f982e10][5]{:target="_blank" rel="noreferrer"})</sup>
-, which uses the `__git_ps1` function:
+Another element with very poor performance is my prompt <sup>([f982e10][5]{:target="_blank" rel="noreferrer"})</sup>,
+which uses the `__git_ps1` function:
 
 {% raw  %}
 ```sh
@@ -81,7 +83,7 @@ PROMPT_COMMAND="__system_prompt_command"
 ### Improving Bash startup time
 
 The last thing I've improved is the startup time of the shell. As I have my
-dotfiles split in several files, I've re-used an idea from [even faster bash
+dotfiles split in several files, I've reused an idea from [even faster bash
 startup][7]{:target="_blank" rel="noreferrer"} to profile each file:
 
 ```sh
@@ -94,12 +96,12 @@ done
 
 Finally, I've removed redundant Bash completions that I was loading, changed
 `$(brew --prefix)` with the absolute path, and updated the rbenv initialization:
+
 ```diff
 - eval "$(rbenv init -)"
 + eval "$(rbenv init --no-rehash -)"
 + (rbenv rehash &) 2> /dev/null
 ```
-
 
 
 [1]: https://github.com/arturoherrero/dotfiles

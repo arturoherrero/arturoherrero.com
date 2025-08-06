@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paris, la capital del flâneur"
+title: "París: la capital del flâneur"
 description: Ce qu'on voit dans les rues de Paris.
 tags: ideas
 ---
@@ -35,7 +35,7 @@ alcantarillado y alumbrado público, etc.
 
 El impacto de la transformación de la ciudad fue extraordinario. Leyendo a
 algunos autores uno puede empezar a imaginar lo maravilloso que fue aquel
-Paris.
+París.
 
 
 > [...] Ah, ¡qué fácil y qué bien se vivía en París, sobre todo si uno era joven! El

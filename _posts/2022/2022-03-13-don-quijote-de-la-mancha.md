@@ -5,27 +5,30 @@ description: La primera novela moderna y la obra magna de la literatura.
 tags: reading
 ---
 
-«Desocupado lector»: no disfruté la lectura del *Quijote* en el colegio, y
-seguramente tampoco la terminé.  Muchos años más tarde –por suerte– decidí
-leerlo de nuevo. En ésta segunda ocasión escogí la edición puesta al castellano
-actual por Andrés Trapiello. Una maravilla.
+«Desocupado lector», al igual que a muchos otros estudiantes, me obligaron a
+leer en el colegio *Don Quijote de la Mancha* de Miguel de Cervantes. Lectura
+que ni comprendí, ni disfruté. Por suerte, muchos años más tarde decidí leerlo
+de nuevo. En esta segunda ocasión, escogí la edición puesta al castellano actual
+por Andrés Trapiello.  Una auténtica maravilla.
 
-Pocas cosas fomentan menos la lectura que la obligación de leer. En mi caso, además,
-se cumple aquella frase que Nassim Taleb escribía en *Antifrágil*: «lo que
-me hicieron estudiar ya lo he olvidado, pero aún recuerdo lo que decidí leer».
+Pocas cosas fomentan menos la lectura que la obligación de leer. En mi caso,
+además, se cumple aquella frase que Nassim Taleb escribía en *Antifrágil*:
+«lo que me hicieron estudiar ya lo he olvidado, pero aún recuerdo lo que decidí
+leer».
 
-Desde luego, es curioso que uno de los personaje más famosos de la
-historia de la literatura sea un hombre al que «del poco dormir y del mucho leer,
-se le secó el cerebro de tal manera, que acabó perdiendo el juicio».
+No deja de ser curioso que uno de los personajes más famosos de la historia de
+la literatura sea un hombre al que «del poco dormir y del mucho leer, se le secó
+el cerebro de tal manera, que acabó perdiendo el juicio».
 
 ![Don Quijote][1]
 
 <sup>Don Quijote ilustrado por Gustave Doré.</sup>
 
-Hay dos cosas que me fascinan de esta novela: la metaficción y los refranes.
 
+De entre todos los aspectos que se pueden destacar de esta novela hay dos que
+me fascinan: la metaficción y los refranes.
 
-### 1. La metaficción.
+### 1. La metaficción
 
 La metaficción es una forma narrativa donde nosotros como lectores somos
 conscientes de estar ante una obra de ficción, y el autor comienza a jugar con
@@ -41,16 +44,15 @@ caleidoscópico: referencias a la novela dentro de la novela, personajes que han
 conocido a Cervantes, el Quijote "real" y el Quijote de Avellaneda. ¿Qué es
 real y qué soñado?
 
-
-### 2. Los refranes.
+### 2. Los refranes
 
 Cervantes tuvo una vida agitada: soldado, prisionero, escritor, recaudador de
-impuestos, etc. La calle como escuela de la vida. Un maestro en artimañas, trucos
+impuestos, etc. La calle como escuela de vida. Un maestro en artimañas, trucos
 y engaños.
 
-Aún conociendo su biografía, resulta increíble la cantidad de rimas, dichos,
-chascarrillos y refranes recogidos en el Quijote. Algunos pasajes son
-excepcionales:
+Aún conociendo su biografía y vivencias, resulta increíble la cantidad de rimas,
+dichos, chascarrillos y refranes que fue capaz de recoger en el Quijote. Algunos
+pasajes son sencillamente excepcionales:
 
 > [...] Pero ¡quita!, que es ella muy buena moza y hay pastores más maliciosos
 > que simples, y no querría que fuese por lana y volviese trasquilada; y los
@@ -75,10 +77,10 @@ excepcionales:
 > antiguos sabios, y el refrán que no viene a propósito es antes disparate que
 > sentencia.
 
+---
+
 Por último, me despido de ti, lector, igual que lo hacía Cervantes en el prólogo
 de la novela: «Y con esto Dios te dé salud y a mí no me olvide. Vale».
-
-*Don Quijote de la Mancha*, Miguel de Cervantes.
 
 
 [1]: /assets/images/posts/don-quixote.jpg
