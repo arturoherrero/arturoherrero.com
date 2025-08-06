@@ -38,6 +38,8 @@ I love reading. This is the complete list of all the books I've read.
 26. Hollywood Babilonia II. *Kenneth Anger*
 27. Geometría para turistas. *Claudi Alsina*
 28. La vía del samurái. Libro de los cinco anillos y Hagakure. *Hitoshi Oshima (editor)*
+29. Usted puede ser lo bueno que quiera ser. *Paul Arden* ⭑
+30. El perro de los Baskerville. *Arthur Conan Doyle. Esther Tusquets (traductor)*
 
 
 ### 2024

@@ -24,7 +24,8 @@ I'm a casual gamer. This is the list of all the games I've played.
 12. Humanity. *Xbox Cloud Gaming* ⭑
 13. Batman: Arkham Knight. *Xbox Cloud Gaming*
 14. Microsoft Flight Simulator 2024. *Xbox Cloud Gaming* ⭑
-15. Dredge. *Xbox Cloud Gaming* ⭑
+15. Dredge. *Xbox Cloud Gaming*
+16. Resident Evil 2. *Xbox Cloud Gaming*
 
 
 ### 2024
