@@ -58,6 +58,7 @@ París.
 
 *El mundo de ayer: Memorias de un europeo*, Stefan Zweig.
 
+---
 
 > Las nubes, de color de rosa, formaban una franja por encima de los tejados;
 > empezaban ya a levantar los toldos de algunas tiendas; los carros de riego

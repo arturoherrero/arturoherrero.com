@@ -20,6 +20,8 @@ tags: ideas
 
 *El mundo de ayer: Memorias de un europeo*, Stefan Zweig.
 
+---
+
 > Montaigne no se cansa de lamentarse de su mala memoria. Junto a una cierta
 > pereza, ve en ella el verdadero defecto de su ser. Su entendimiento y su
 > capacidad de percepción son extraordinarios. Lo que ve, lo que comprende, lo
@@ -43,6 +45,8 @@ tags: ideas
 > escéptico. Él lo es todo y no es nada. Siempre es otro y siempre el mismo.
 
 *Montaigne*, Stefan Zweig.
+
+---
 
 > En general, me esfuerzo por memorizar un detalle curioso sobre un hecho
 > concreto (o sobre una persona o un fenómeno). Es difícil memorizarlo todo, y

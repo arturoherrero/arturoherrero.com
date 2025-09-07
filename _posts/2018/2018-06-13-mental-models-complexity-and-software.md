@@ -91,7 +91,7 @@ But, **why should you care about mental models?**
 > Remember, always, that everything you know, and everything everyone knows, is
 > only a model. Get your model out there where it can be viewed. Invite others
 > to challenge your assumptions and add their own.  
-> – Donella H. Meadows
+> —Donella H. Meadows
 
 
 ### Bibliography

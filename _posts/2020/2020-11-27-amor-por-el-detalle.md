@@ -34,6 +34,7 @@ Dos anécdotas que expresan muy bien el amor por el detalle.
 > noches, la estética y la calidad tienen que mantenerse durante todo el
 > proceso».
 
+---
 
 ##### 'Dios sí lo ve' de Edwin Lutyens por Oscar Tusquets Blanca.
 
