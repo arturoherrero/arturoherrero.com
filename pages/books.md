@@ -40,6 +40,15 @@ I love reading. This is the complete list of all the books I've read.
 28. La vía del samurái. Libro de los cinco anillos y Hagakure. *Hitoshi Oshima (editor)*
 29. Usted puede ser lo bueno que quiera ser. *Paul Arden* ⭑
 30. El perro de los Baskerville. *Arthur Conan Doyle. Esther Tusquets (traductor)*
+31. El espía que surgió del frío. *John Le Carré* ⭑
+32. El comisario Montalbano: Los primeros casos. *Andrea Camilleri*
+33. El oficio de decidir: Dudas y certezas de un juez en activo. *Miguel Pasquau Liaño*
+34. El álgebra de la riqueza. *Scott Galloway*
+35. La verdad nunca es vana: Aforismos. *Stefan Zweig*
+36. Disciplina sin lágrimas. *Daniel J. Siegel & Tina Payne Bryson*
+37. La bruja debe morir. *Sheldon Cashdan*
+38. Las reinas del mar: Memorias de una vida aventurera. *Mauricio Wiesenthal*
+
 
 
 ### 2024

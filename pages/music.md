@@ -32,6 +32,7 @@ This is the list of the best music I've listened.
 
 ### Jazz
 * I Cover The Waterfront. *Vic Dickenson. 1954*
+* Summertime. *Ella Fitzgerald. 1957*
 * Autumn Leaves. *Miles Davis, Cannonball Adderley. 1958*
 * American Ballad. *Toshiko Akiyoshi, Lew Tabackin. 1974*
 * From The Start. *Laufey. 2023*
