@@ -33,7 +33,7 @@ I love reading. This is the complete list of all the books I've read.
 21. El oficio de vivir. *Cesare Pavese*
 22. El canon del jazz: Los 250 temas imprescindibles. *Ted Gioia*
 23. Historia de la navegación. *Donald S. Johnson & Juha Nurminen*
-24. La gramática de la arquitectura. *Emily Cole (editor)*
+24. La gramática de la arquitectura. *Emily Cole (editor)* ⭑
 25. Hollywood Babilonia I. *Kenneth Anger*
 26. Hollywood Babilonia II. *Kenneth Anger*
 27. Geometría para turistas. *Claudi Alsina*
@@ -48,7 +48,20 @@ I love reading. This is the complete list of all the books I've read.
 36. Disciplina sin lágrimas. *Daniel J. Siegel & Tina Payne Bryson*
 37. La bruja debe morir. *Sheldon Cashdan*
 38. Las reinas del mar: Memorias de una vida aventurera. *Mauricio Wiesenthal*
-
+39. Filosofía y consuelo de la música. *Ramón Andrés*
+40. Tratado sobre los vampiros. *Augustin Calmet*
+41. El dibujo como invención. *Lino Cabezas*
+42. Cómic, arquitectura narrativa. *Enrique Bordes* ⭑
+43. Cómo dibujar. *Jake Spicer*
+44. Dibujo. Cuaderno de ejercicios. *Blume*
+45. Notificación roja. *Bill Browder*
+46. El comienzo del infinito. *David Deutsch* ⭑
+47. Code: The Hidden Language of Computer Hardware and Software. *Charles Petzold*
+48. Pequeño diccionario visual de términos arquitectónicos. *Cuadernos Arte Cátedra* ⭑
+49. Iconos y santos de Oriente. *Alfredo Tradigo* ⭑
+50. Mr Smith y el paraíso: La invención del bienestar. *Georg von Wallwitz*
+51. You Can Draw in 30 Days. *Mark Kistler*
+52. Hacer cómics. *Scott McCloud* ⭑
 
 
 ### 2024

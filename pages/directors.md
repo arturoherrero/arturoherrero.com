@@ -208,6 +208,7 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Million Dollar Baby. *2004*
 - El intercambio. *2008*
 - Gran Torino. *2008*
+- Juror #2. *2024*
 
 ##### Quentin Tarantino
 - Reservoir Dogs. *1992*
@@ -352,6 +353,10 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 ##### Alexandre de La Patellière, Matthieu Delaporte
 - Le prénom. *2012*
 - El conde de Montecristo. *2024*
+
+##### Bart Layton
+- The Imposter. *2012*
+- American Animals. *2018*
 
 ##### Wes Anderson
 - Moonrise Kingdom. *2012*

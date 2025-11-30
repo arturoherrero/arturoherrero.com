@@ -28,6 +28,9 @@ I'm a casual gamer. This is the list of all the games I've played.
 16. Resident Evil 2. *Xbox Cloud Gaming*
 17. Jusant. *Xbox Cloud Gaming*
 18. Sniper Elite: Resistance. *Xbox Cloud Gaming* ⭑
+19. Hades. *Xbox Cloud Gaming*
+20. S.T.A.L.K.E.R. 2: Heart of Chornobyl. *Xbox Cloud Gaming*
+21. Lara Croft and the Temple of Osiris. *Xbox Cloud Gaming*
 
 
 ### 2024
