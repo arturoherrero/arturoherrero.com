@@ -14,7 +14,7 @@ systems at scale and leading technical teams.
 
 This is my commonplace book—a space where I collect thoughts, projects, and my
 personal interests. I publish [articles and notes][3] documenting
-ideas and learnings along the way. I also write [weeknotes][14]—mostly in
+ideas and learnings. I also write [weeknotes][14]—mostly in
 Spanish—sharing snapshots of my life.
 
 I'm constantly working on [personal projects][8]. Along the way, I've written a
