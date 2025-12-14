@@ -10,9 +10,10 @@ permalink: /music/
 This is the list of the best music I've listened.
 
 ### Bossa nova
-* Desafinado. *João Gilberto, Stan Getz, Antonio Carlos Jobim. 1964*
+* Getz/Gilberto. *Stan Getz, João Gilberto. 1964*
+  * Desafinado. *Stan Getz, João Gilberto, Antonio Carlos Jobim. 1964*
+  * Garota de Ipanema. *Stan Getz, João Gilberto, Astrud Gilberto. 1964*
 * Samba de Verão. *Marcos Valle. 1964*
-* Garota de Ipanema. *Stan Getz, João Gilberto, Astrud Gilberto. 1964*
 * The Girl from Ipanema. *Frank Sinatra, Antônio Carlos Jobim. 1967*
 * Águas de Março. *Elis Regina. 1972*
 
@@ -40,3 +41,6 @@ This is the list of the best music I've listened.
 
 ### Soul/R&B
 * Your Love Is King. *Sade. 1984*
+* Maureen. *Sade. 1985*
+* I Couldn't Love You More. *Sade. 1992*
+* Mermaid. *Sade. 1992*

@@ -62,6 +62,7 @@ I love reading. This is the complete list of all the books I've read.
 50. Mr Smith y el paraíso: La invención del bienestar. *Georg von Wallwitz*
 51. You Can Draw in 30 Days. *Mark Kistler*
 52. Hacer cómics. *Scott McCloud* ⭑
+53. Tintín: El Sueño y La Realidad. *Michael Farr*
 
 
 ### 2024

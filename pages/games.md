@@ -31,6 +31,7 @@ I'm a casual gamer. This is the list of all the games I've played.
 19. Hades. *Xbox Cloud Gaming*
 20. S.T.A.L.K.E.R. 2: Heart of Chornobyl. *Xbox Cloud Gaming*
 21. Lara Croft and the Temple of Osiris. *Xbox Cloud Gaming*
+22. Crash Bandicoot 4: It's About Time. *Xbox Cloud Gaming*
 
 
 ### 2024
