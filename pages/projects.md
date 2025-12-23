@@ -37,6 +37,7 @@ Follow my work on [GitHub][1]{:target="_blank" rel="noreferrer"} or [GitLab][17]
 
 ### Other
 
+- [Twitter/𝕏 archive][20]{:target="_blank" rel="noreferrer"} - Personal Twitter/𝕏 archive viewer
 - [365 project][8]{:target="_blank" rel="noreferrer"} - My daily photography project
 
 ### Coding Challenges
@@ -66,3 +67,4 @@ Follow my work on [GitHub][1]{:target="_blank" rel="noreferrer"} or [GitLab][17]
 [17]: https://gitlab.com/arturoherrero
 [18]: https://gitlab.com/arturoherrero/klip
 [19]: /editor/
+[20]: https://arturoherrero.github.io/twitter-archive/
