@@ -5,9 +5,9 @@
   From: Madrid, Spain
 
 /* SITE */
-  Language: English
-  Doctype: HTML5 && CSS3
-  IDE: MacVim
+  Language: English & Spanish
+  Built with: Jekyll
+  IDE: Visual Studio Code
 
 
 :.rSX&@@@@@@@@@@@@@@@@@@@@@@@#s
