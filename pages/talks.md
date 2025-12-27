@@ -5,10 +5,11 @@ description: I have given a number of talks over the years.
 permalink: /talks/
 redirect_from: /events/
 ---
+<!-- markdownlint-disable MD001 -->
 
 ## {{ page.title }}
 
-I have given a number of talks over the years. Here I'm trying to compile
+I have given a number of talks over the years. Here, I'm trying to compile
 together the talks I have given in the past and sharing them with you.
 
 - #### Pamplona Software Crafters. *Jun 2018*
