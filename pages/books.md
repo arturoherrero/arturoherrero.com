@@ -63,6 +63,8 @@ I love reading. This is the complete list of all the books I've read.
 51. You Can Draw in 30 Days. *Mark Kistler*
 52. Hacer cómics. *Scott McCloud* ⭑
 53. Tintín: El Sueño y La Realidad. *Michael Farr*
+54. ¡Lo quiero!: El poder del deseo mimético. *Luke Burgis*
+55. Nuestra señora de París. *Victor Hugo*
 
 
 ### 2024
