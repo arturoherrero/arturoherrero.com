@@ -14,6 +14,9 @@ collections:
   weeknotes:
     output: true
     permalink: /weeknotes/:title/
+  questions:
+    output: true
+    permalink: /questions/:title/
 
 future: true
 

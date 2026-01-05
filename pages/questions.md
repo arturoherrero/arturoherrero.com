@@ -13,7 +13,7 @@ preguntas para realizar durante 52 semanas. Un año para reflexionar y escribir.
 
 #### I. ORÍGENES Y FORMACIÓN (1-6)
 
-#01. ¿Qué refranes o dichos de tu infancia sigues repitiendo hoy?  
+[#01][01]. ¿Qué refranes o dichos de tu infancia sigues repitiendo hoy?  
 #02. ¿Qué reglas de la escuela aún conservas? ¿Cuáles tuviste que desaprender?  
 #03. ¿Quiénes fueron las primeras personas—reales o ficticias—que te inspiraron?  
 #04. ¿Qué creencias sociales se han convertido en convicciones personales?  
@@ -92,3 +92,6 @@ preguntas para realizar durante 52 semanas. Un año para reflexionar y escribir.
 #50. ¿Por qué quieres ser recordado? ¿Qué estás haciendo al respecto?  
 #51. De todo lo que podrías crear—¿qué harías aunque nadie fuera a verlo nunca?  
 #52. Después de todas estas reflexiones: ¿qué temas cubriría el libro de tu vida?
+
+
+[01]: /questions/01
