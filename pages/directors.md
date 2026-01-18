@@ -332,6 +332,7 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Pozos de ambición. *2007*
 - El hilo invisible. *2017*
 - Licorice Pizza. *2021*
+- One Battle After Another. *2025*
 
 ##### Pete Docter
 - Up. *2009*

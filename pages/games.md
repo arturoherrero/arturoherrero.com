@@ -9,6 +9,10 @@ permalink: /games/
 
 I'm a casual gamer. This is the list of all the games I've played.
 
+### 2026
+1. The Electrifying Incident: A Monster Mini-Expedition. *PC*
+
+
 ### 2025
 1. Mafia: Definitive Edition. *Xbox Cloud Gaming*
 2. COCOON. *Xbox Cloud Gaming* ⭑

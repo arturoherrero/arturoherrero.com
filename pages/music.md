@@ -35,8 +35,13 @@ This is the list of the best music I've listened.
 * I Cover The Waterfront. *Vic Dickenson. 1954*
 * Summertime. *Ella Fitzgerald. 1957*
 * Autumn Leaves. *Miles Davis, Cannonball Adderley. 1958*
+* Goodbye Pork Pie Hat. *Charles Mingus. 1959*
 * American Ballad. *Toshiko Akiyoshi, Lew Tabackin. 1974*
 * From The Start. *Laufey. 2023*
+
+
+### Son cubano/Bolero
+* Chan Chan. *Buena Vista Social Club. 2002*
 
 
 ### Soul/R&B
