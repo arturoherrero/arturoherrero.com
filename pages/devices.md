@@ -9,7 +9,7 @@ permalink: /devices/
 
 ### Laptop computers
 - Apple MacBook Pro M4 Max, 16", 64G RAM, 1T SSD. *2025-09*
-- <strike>Apple MacBook Pro M1 Max, 16", 32G RAM, 512G SSD. *2022-08*</strike>
+- <strike>Apple MacBook Pro M1 Max, 16", 32G RAM, 512G SSD. <em>2022-08</em></strike>
 - Apple MacBook Pro, 15", 32G RAM, 512G SSD. *2019-09*
 - <strike>Apple MacBook Pro, 15", 16G RAM, 256G SSD. <em>2016-09</em></strike>
 - <strike>Apple MacBook Air, 13", 8G RAM, 128G SSD. <em>2013-03</em><strike>
@@ -43,7 +43,7 @@ permalink: /devices/
 
 ### Keyboard
 - NuPhy Air75 V2. Ionic White. Cowberry Switch. *2024-12*
-- Magic Keyboard. *2019-09*
+- <strike>Magic Keyboard. <em>2019-09</em></strike>
 
 
 ### Misc
