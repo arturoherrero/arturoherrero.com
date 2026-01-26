@@ -12,8 +12,9 @@ I love reading. This is the complete list of all the books I've read.
 ### 2026
 1. Asterios Polyp. *David Mazzucchelli*
 2. Dibujo de paisaje. *David Sanmiguel* ⭑
-3. Barrios, bloques y basura. *Julia Wertz* ⭑
+3. Barrios, bloques y basura. *Julia Wertz*
 4. Rutas de la seda: Pueblos, culturas y paisajes. *Susan Whitfield* ⭑
+5. Érase una vez en Francia. *Fabien Nury & Sylvain Vallée*
 
 
 ### 2025
