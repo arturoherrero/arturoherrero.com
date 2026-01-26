@@ -15,7 +15,7 @@ preguntas para realizar durante 52 semanas. Un año para reflexionar y escribir.
 
 [#01][01]. ¿Qué refranes o dichos de tu infancia sigues repitiendo hoy?  
 [#02][02]. ¿Qué reglas de la escuela aún conservas? ¿Cuáles tuviste que desaprender?  
-#03. ¿Quiénes fueron las primeras personas—reales o ficticias—que te inspiraron?  
+[#03][03]. ¿Quiénes fueron las primeras personas—reales o ficticias—que te inspiraron?  
 #04. ¿Qué creencias sociales se han convertido en convicciones personales?  
 #05. ¿Qué lugares de tu pasado siguen viviendo dentro de ti? ¿Qué te enseñaron?  
 #06. ¿Qué decisión cambió el rumbo de tu vida?
@@ -96,3 +96,4 @@ preguntas para realizar durante 52 semanas. Un año para reflexionar y escribir.
 
 [01]: /questions/01
 [02]: /questions/02
+[03]: /questions/03
