@@ -11,6 +11,8 @@ I'm a casual gamer. This is the list of all the games I've played.
 
 ### 2026
 1. The Electrifying Incident: A Monster Mini-Expedition. *PC*
+2. Outer Wilds. *Xbox One*
+3. Yooka-Laylee and the Impossible Lair. *Amazon Luna* ⭑
 
 
 ### 2025

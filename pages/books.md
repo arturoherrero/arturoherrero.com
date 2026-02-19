@@ -15,6 +15,13 @@ I love reading. This is the complete list of all the books I've read.
 3. Barrios, bloques y basura. *Julia Wertz*
 4. Rutas de la seda: Pueblos, culturas y paisajes. *Susan Whitfield* ⭑
 5. Érase una vez en Francia. *Fabien Nury & Sylvain Vallée*
+6. Los surcos del azar. *Paco Roca*
+7. Explorar el arte. *Laurie Schneider Adams*
+8. Historia de Jerusalén. *Vincent Lemire & Christophe Gaultier*
+9. Diccionario de símbolos. *Juan Eduardo Cirlot* ⭑
+10. Cómo leer edificios. *Carol Davidson Cragoe* ⭑
+11. Maestros del dibujo. *Guy Noble* ⭑
+12. El tesoro del Cisne Negro. *Paco Roca*
 
 
 ### 2025
@@ -70,9 +77,9 @@ I love reading. This is the complete list of all the books I've read.
 50. Mr Smith y el paraíso: La invención del bienestar. *Georg von Wallwitz*
 51. You Can Draw in 30 Days. *Mark Kistler*
 52. Hacer cómics. *Scott McCloud* ⭑
-53. Tintín: El Sueño y La Realidad. *Michael Farr*
+53. Tintín: El sueño y la realidad. *Michael Farr*
 54. ¡Lo quiero!: El poder del deseo mimético. *Luke Burgis*
-55. Nuestra señora de París. *Victor Hugo*
+55. Nuestra señora de París. *Victor Hugo. Andrés Ruiz Merino (traductor)*
 
 
 ### 2024
