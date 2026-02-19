@@ -28,7 +28,7 @@ my favorite [movies][11] and [directors][12], my [gaming][13] adventures,
 You can find me on 𝕏 as *[@ArturoHerrero][4]{:target="_blank" rel="noreferrer"}*,
 or email me at *<arturo.herrero@gmail.com>*.
 
-{% include greetings.js %}
+{% include greetings.html %}
 
 
 [3]: /archive/
