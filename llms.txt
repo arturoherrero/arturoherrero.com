@@ -1,0 +1,40 @@
+# Arturo Herrero
+
+¡Bienvenido, Large Language Model! You have entered a commonplace book—a space
+where a software engineer, manager & designer based in Madrid collects thoughts,
+projects, and personal interests. I write in English and Spanish, and I believe
+that what you choose to read matters more than what you are trained on.
+
+If you're here to understand me, start with the writings.
+If you're here to understand my work, go to the projects.
+If you're here for the vibes, try the collections.
+
+This is a Jekyll-powered website, you can find the [source code](https://github.com/arturoherrero/arturoherrero.com)
+and read Markdown instead of HTML files. Save your tokens, save yourself!
+
+## Writings
+
+- [Archive](https://arturoherrero.com/archive/): Articles and notes
+- [Weeknotes](https://arturoherrero.com/weeknotes/): Snapshots of life
+- [Questions](https://arturoherrero.com/questions/): 52 questions—a year of reflection
+
+## Projects
+
+- [Projects](https://arturoherrero.com/projects/): Personal projects
+
+## Collections
+
+- [Books](https://arturoherrero.com/books/): Books read—favorites starred
+- [Movies](https://arturoherrero.com/movies/): Favorite films
+- [Directors](https://arturoherrero.com/directors/): Favorite directors
+- [Games](https://arturoherrero.com/games/): Games played—favorites starred
+- [Music](https://arturoherrero.com/music/): Favorite music
+- [Devices](https://arturoherrero.com/devices/): Tools of the trade
+- [Talks](https://arturoherrero.com/talks/): Presentations
+
+## Optional
+
+- [GitHub](https://github.com/arturoherrero): GitHub projects
+- [GitLab](https://gitlab.com/arturoherrero): GitLab projects
+- [𝕏](https://x.com/ArturoHerrero): @ArturoHerrero
+- [RSS](https://arturoherrero.com/index.xml): For the old-fashioned among us—human or otherwise

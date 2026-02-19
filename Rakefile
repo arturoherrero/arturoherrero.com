@@ -17,6 +17,7 @@ task :test do
   }
 
   HTMLProofer.check_directory("./_site", options).run
+  HTMLProofer.check_links(File.read("./_site/llms.txt").scan(%r{https:[^\s)]+}), options).run
 end
 
 task default: :test
