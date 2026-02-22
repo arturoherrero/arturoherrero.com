@@ -408,6 +408,10 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Lady Bird. *2017*
 - Mujercitas. *2019*
 
+##### Yorgos Lanthimos
+- La favorita. *2018*
+- Bugonia. *2025*
+
 ##### Kemp Powers
 - Soul. *2020*
 - Spider-Man: Cruzando el Multiverso. *2023*
