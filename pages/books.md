@@ -22,6 +22,9 @@ I love reading. This is the complete list of all the books I've read.
 10. Cómo leer edificios. *Carol Davidson Cragoe* ⭑
 11. Maestros del dibujo. *Guy Noble* ⭑
 12. El tesoro del Cisne Negro. *Paco Roca*
+13. Blacksad. *Díaz Canales & Guarnido* ⭑
+14. Historia del silencio: Del Renacimiento a nuestros días. *Alain Corbin*
+15. Dinero: Un viaje desde Mesopotamia hasta el Bitcoin. *Daniel Fernández Méndez*
 
 
 ### 2025

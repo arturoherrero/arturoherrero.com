@@ -415,3 +415,7 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 ##### Kemp Powers
 - Soul. *2020*
 - Spider-Man: Cruzando el Multiverso. *2023*
+
+##### Alauda Ruiz de Azúa
+- Querer. *2024*
+- Los domingos. *2025*
