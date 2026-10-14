@@ -11,10 +11,12 @@ This is the list of the best music I've listened.
 
 ### Bossa nova
 * Getz/Gilberto. *Stan Getz, João Gilberto. 1964*
-  * Desafinado. *Stan Getz, João Gilberto, Antonio Carlos Jobim. 1964*
+  * Desafinado. *Stan Getz, João Gilberto, Antônio Carlos Jobim. 1964*
   * Garota de Ipanema. *Stan Getz, João Gilberto, Astrud Gilberto. 1964*
 * Samba de Verão. *Marcos Valle. 1964*
-* The Girl from Ipanema. *Frank Sinatra, Antônio Carlos Jobim. 1967*
+* Francis Albert Sinatra & Antônio Carlos Jobim. *1967*
+  * The Girl from Ipanema. *Frank Sinatra, Antônio Carlos Jobim. 1967*
+  * Dindi. *Frank Sinatra, Antônio Carlos Jobim. 1967*
 * Águas de Março. *Elis Regina. 1972*
 
 

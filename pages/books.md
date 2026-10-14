@@ -24,7 +24,44 @@ I love reading. This is the complete list of all the books I've read.
 12. El tesoro del Cisne Negro. *Paco Roca*
 13. Blacksad. *Díaz Canales & Guarnido* ⭑
 14. Historia del silencio: Del Renacimiento a nuestros días. *Alain Corbin*
-15. Dinero: Un viaje desde Mesopotamia hasta el Bitcoin. *Daniel Fernández Méndez*
+15. Dinero: Un viaje desde Mesopotamia hasta el Bitcoin. *Daniel Fernández Méndez* ⭑
+16. Nada importa. *Jesús Terrés*
+17. Energía y civilización: Una historia. *Vaclav Smil*
+18. Breve historia del arte. *Edimat Libros* ⭑
+19. Vidas del renacimiento. *Robert C. Davis & Beth Lindsmith*
+20. F*ck you money: De la libertad financiera a la libertad personal. *Joan Tubau*
+21. Castle. *David Macaulay*
+22. Pyramid. *David Macaulay*
+23. High Output Management. *Andrew S. Grove*
+24. Your Brain at Work. *David Rock*
+25. El castillo de arena. *Seichō Matsumoto*
+26. Un lugar desconocido. *Seichō Matsumoto*
+27. Nostalgia. *Mircea Cărtărescu*
+28. La muerte de Ivan Ilich. *Lev Tolstói* ⭑
+29. La mujer de blanco. *Wilkie Collins*
+30. Enciclopedia de los muertos. *Danilo Kiš*
+31. Laúd y cicatrices. *Danilo Kiš* ⭑
+32. La verdad sobre el caso Harry Quebert. *Joël Dicker*
+33. Elogio de la quietud. *Pedro Cuartango* ⭑
+34. Hombres elegantes y otros artículos. *Milena Busquets*
+35. Sin City. *Frank Miller*
+36. El periodista deportivo. *Richard Ford*
+37. ¿Dónde vamos a bailar esta noche? *Javier Aznar*
+38. Poesía completa. *Jorge Luis Borges*
+39. Una cierta edad. *Marcos Ordóñez*
+40. La Antártica empieza aquí. *Benjamín Labatut*
+41. El gran asombro. *Jeanne Hersch* ⭑
+42. La invención del norte. *Bernd Brunner*
+43. Creer: Una historia de las religiones. *John Bowlby*
+44. La biología de la toma de riesgos. *John Coates*
+45. Grandes manuscritos medievales. *Christopher de Hamel* ⭑
+46. Los días perfectos. *Jacobo Bergareche*
+47. El Pentateuco de Isaac. *Angel Wagenstein* ⭑
+48. Mis páginas mejores. *Julio Camba*
+49. Crónicas de viaje: Impresiones de un corresponsal. *Julio Camba*
+50. Berlín. *Jason Lutes*
+51. La fuga de Tolstoi. *Alberto Cavallari*
+52. Monjas y soldados. *Iris Murdoch*
 
 
 ### 2025
@@ -690,7 +727,7 @@ I love reading. This is the complete list of all the books I've read.
 20. Lo que escucha la lluvia. *Francisco Solano* ⭑
 21. Hitchcock's Secret Notebooks. *Dan Auiler*
 22. Creativity, Inc. *Ed Catmull* ⭑
-23. Guerra y paz. *Leo Tolstoy*
+23. Guerra y paz. *Lev Tolstói*
 24. Quiet. *Susan Cain*
 25. The Rails 4 Way. *Obie Fernandez*
 26. The Complete Photo Manual. *Popular Photography*

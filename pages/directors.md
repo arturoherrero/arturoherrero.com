@@ -334,6 +334,11 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Licorice Pizza. *2021*
 - One Battle After Another. *2025*
 
+##### Asghar Farhadi
+- A propósito de Elly. *2009*
+- El viajante. *2016*
+- Un héroe. *2021*
+
 ##### Pete Docter
 - Up. *2009*
 - Soul. *2020*
@@ -346,6 +351,10 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Resacón en Las Vegas. *2009*
 - Joker. *2019*
 - Joker: Folie à Deux. *2024*
+
+##### Mike Mills
+- Beginners (Principiantes). *2010*
+- Mujeres del siglo XX. *2016*
 
 ##### Bennett Miller
 - Moneyball: Rompiendo las reglas. *2011*
@@ -396,10 +405,6 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 - Whiplash. *2014*
 - La ciudad de las estrellas (La La Land). *2016*
 
-##### Asghar Farhadi
-- El viajante. *2016*
-- Un héroe. *2021*
-
 ##### Park Chan-wook
 - La doncella (The Handmaiden). *2016*
 - Decision to Leave. *2022*
@@ -407,6 +412,11 @@ I love cinema. This is the list of my favorite cinema directors and some of thei
 ##### Greta Gerwig
 - Lady Bird. *2017*
 - Mujercitas. *2019*
+
+##### Joshua Safdie
+- Good Time. *2017*
+- Diamantes en bruto. *2019*
+- Marty Supreme. *2025*
 
 ##### Yorgos Lanthimos
 - La favorita. *2018*

@@ -244,6 +244,7 @@ I love cinema. This is the list of the best movies I've watched.
 * Spider-Man: Cruzando el Multiverso. *Dos Santos, Kemp Powers, Thompson. 2023*
 * Anora. *Sean Baker. 2024*
 * One Battle After Another. *Paul Thomas Anderson. 2025*
+* Marty Supreme. *Joshua Safdie. 2025*
 
 
 ### Documentaries
